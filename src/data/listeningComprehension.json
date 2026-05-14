@@ -5,14 +5,14 @@
     "level": 1,
     "category": "Interview Basics",
     "audioText": "Could you walk me through your previous experience?",
-    "question": "What is the speaker asking?",
+    "question": "What is the speaker asking you to do?",
     "options": [
-      "They want you to explain your past work step by step.",
-      "They are asking about salary.",
-      "They are asking for a home address.",
-      "They are ending the conversation."
+      "Confirm whether you have any previous work experience.",
+      "Explain your work history step by step with relevant details.",
+      "Summarize only your most recent job title and company.",
+      "Start with your education before mentioning work experience."
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "explanation": "The phrase 'walk me through' means explain step by step.",
     "futureTags": [
       "interview_basics",
@@ -26,12 +26,12 @@
     "level": 1,
     "category": "Interview Basics",
     "audioText": "Tell me about a time you handled a difficult task.",
-    "question": "What should you talk about?",
+    "question": "What should your answer focus on?",
     "options": [
-      "Your favorite hobby.",
-      "A specific challenging task and how you handled it.",
-      "Your salary expectation.",
-      "Your commute."
+      "A general list of tasks you handled in previous jobs.",
+      "A specific difficult task, what you did, and what happened.",
+      "A reason why you prefer tasks that are simple and familiar.",
+      "A short explanation of your current job responsibilities."
     ],
     "correctAnswerIndex": 1,
     "explanation": "They want a specific example, not a general statement.",
@@ -47,12 +47,12 @@
     "level": 1,
     "category": "Clarification",
     "audioText": "Could you clarify the last point?",
-    "question": "What does the speaker need?",
+    "question": "What does the speaker want?",
     "options": [
-      "They need the last point explained more clearly.",
-      "They are agreeing completely.",
-      "They want to end the call.",
-      "They are asking about lunch."
+      "A clearer explanation of the most recent point.",
+      "A complete restart of the conversation from the beginning.",
+      "A shorter answer without any additional explanation.",
+      "Confirmation that the discussion can move to the next topic."
     ],
     "correctAnswerIndex": 0,
     "explanation": "Clarify means make something clearer.",
@@ -70,10 +70,10 @@
     "audioText": "Could you please send the details by email?",
     "question": "What is being requested?",
     "options": [
-      "A phone call only.",
-      "Written details by email.",
-      "A meeting cancellation.",
-      "A salary increase."
+      "The details should be discussed verbally during the call.",
+      "The details should be shared in writing by email.",
+      "A brief email should confirm that a discussion happened.",
+      "Only the final decision should be sent, without supporting details."
     ],
     "correctAnswerIndex": 1,
     "explanation": "The speaker wants the information in writing.",
@@ -89,14 +89,14 @@
     "level": 1,
     "category": "Giving Status Updates",
     "audioText": "I have completed the first part of the task.",
-    "question": "What does this mean?",
+    "question": "What does this status update mean?",
     "options": [
-      "The entire task is cancelled.",
-      "Only the first part is done.",
-      "The task has not started.",
-      "The deadline changed."
+      "One section is finished, but the full task may still continue.",
+      "The full task is complete and ready for final approval.",
+      "The speaker has started planning but has not finished any part.",
+      "The speaker needs someone else to complete the first section."
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 0,
     "explanation": "First part completed means there is more work remaining.",
     "futureTags": [
       "giving_status_updates",
@@ -110,12 +110,12 @@
     "level": 1,
     "category": "Customer Support",
     "audioText": "Thank you for your patience while I check this for you.",
-    "question": "What is the speaker doing?",
+    "question": "What is the speaker communicating?",
     "options": [
-      "Asking the customer to wait politely.",
-      "Blaming the customer.",
-      "Ending the conversation angrily.",
-      "Ignoring the issue."
+      "They are politely asking the customer to wait while they verify something.",
+      "They are confirming the issue has already been fully resolved.",
+      "They are asking the customer to provide a clearer explanation first.",
+      "They are transferring responsibility to another support person immediately."
     ],
     "correctAnswerIndex": 0,
     "explanation": "This is a polite support phrase during checking.",
@@ -131,12 +131,12 @@
     "level": 1,
     "category": "Handling Confusion",
     "audioText": "I may need a little more context before I answer.",
-    "question": "What does the speaker need?",
+    "question": "What does the speaker need before responding?",
     "options": [
-      "More background information.",
-      "A salary raise.",
-      "A lunch break.",
-      "A new computer."
+      "More background information to give an accurate answer.",
+      "More time to prepare a polished answer they already know.",
+      "A shorter question with fewer details included.",
+      "Approval from someone else before they can speak."
     ],
     "correctAnswerIndex": 0,
     "explanation": "Context means background or additional information.",
@@ -152,12 +152,12 @@
     "level": 1,
     "category": "Confidence Building",
     "audioText": "I can learn the process quickly if I get clear instructions.",
-    "question": "What is the speaker saying?",
+    "question": "What does this say about the speaker?",
     "options": [
-      "They are willing to learn with guidance.",
-      "They refuse to learn.",
-      "They already know everything.",
-      "They need no instructions."
+      "They are confident they can learn when expectations are clear.",
+      "They already know the process and do not need onboarding.",
+      "They can only work well if someone supervises every step.",
+      "They are unsure whether instructions will help them perform."
     ],
     "correctAnswerIndex": 0,
     "explanation": "The sentence shows adaptability and willingness.",
@@ -173,12 +173,12 @@
     "level": 1,
     "category": "Professional Small Talk",
     "audioText": "Thank you for taking the time to speak with me today.",
-    "question": "When would someone say this?",
+    "question": "What is the purpose of this phrase?",
     "options": [
-      "At the beginning or end of a professional conversation.",
-      "When ordering food.",
-      "When complaining about traffic.",
-      "When asking for a password."
+      "To politely acknowledge someone's time in a professional conversation.",
+      "To ask for extra time before answering a difficult question.",
+      "To introduce a new topic after the main discussion is finished.",
+      "To confirm that the speaker will send follow-up documents."
     ],
     "correctAnswerIndex": 0,
     "explanation": "This is a polite professional phrase.",
@@ -194,12 +194,12 @@
     "level": 1,
     "category": "Grammar Pattern Practice",
     "audioText": "I have worked here for two years.",
-    "question": "What does 'for two years' show?",
+    "question": "What does 'for two years' communicate?",
     "options": [
-      "A duration of time.",
-      "A starting date.",
-      "A place.",
-      "A mistake."
+      "The length of time the speaker has worked there up to now.",
+      "The exact date when the speaker started working there.",
+      "A finished past job that is no longer connected to the present.",
+      "The amount of time the speaker expects to stay in the future."
     ],
     "correctAnswerIndex": 0,
     "explanation": "Use 'for' with a length of time.",
@@ -215,12 +215,12 @@
     "level": 1,
     "category": "Interview Basics",
     "audioText": "What kind of work environment do you prefer?",
-    "question": "What should you describe?",
+    "question": "What should the answer describe?",
     "options": [
-      "Your preferred professional work environment.",
-      "Your favorite restaurant.",
-      "Your family members.",
-      "Your home address."
+      "The professional setting and working style where you perform best.",
+      "The physical office location that would be most convenient.",
+      "The software tools you used most often in previous roles.",
+      "The benefits or schedule you would like from the company."
     ],
     "correctAnswerIndex": 0,
     "explanation": "The question asks about work style and environment.",
@@ -238,10 +238,10 @@
     "audioText": "What were your main responsibilities?",
     "question": "What should you explain?",
     "options": [
-      "The key tasks you handled in your role.",
-      "Your hobbies.",
-      "The interviewer’s responsibilities.",
-      "The company’s address."
+      "The key duties and tasks you were accountable for in your role.",
+      "The responsibilities your manager or team handled around you.",
+      "The skills you hope to develop in the next position.",
+      "The overall results the company achieved while you worked there."
     ],
     "correctAnswerIndex": 0,
     "explanation": "Responsibilities means tasks you were expected to do.",
@@ -257,12 +257,12 @@
     "level": 1,
     "category": "Clarification",
     "audioText": "Are you referring to the deadline or the task details?",
-    "question": "What is the speaker clarifying?",
+    "question": "What is the speaker trying to clarify?",
     "options": [
-      "Which specific point the other person means.",
-      "The lunch menu.",
-      "The customer’s name only.",
-      "A vacation plan."
+      "Whether the other person means the timing or the task requirements.",
+      "Whether both the deadline and requirements have already changed.",
+      "Whether the deadline matters more than the quality of the work.",
+      "Whether the task should be delayed until more details are available."
     ],
     "correctAnswerIndex": 0,
     "explanation": "The speaker is narrowing down the meaning.",
@@ -280,10 +280,10 @@
     "audioText": "May I take a moment to check that?",
     "question": "What is the speaker asking for?",
     "options": [
-      "A short time to verify information.",
-      "Permission to leave the company.",
-      "A vacation day.",
-      "A new tool."
+      "A brief pause to verify the information before answering.",
+      "Permission to delay the whole task until another meeting.",
+      "Confirmation that the information has already been checked.",
+      "A request for the other person to check and report back."
     ],
     "correctAnswerIndex": 0,
     "explanation": "They need time to check.",
@@ -299,12 +299,12 @@
     "level": 1,
     "category": "Giving Status Updates",
     "audioText": "The file has been updated for your review.",
-    "question": "What happened?",
+    "question": "What should the listener understand?",
     "options": [
-      "The file was updated and is ready to be reviewed.",
-      "The file was deleted.",
-      "The task has not started.",
-      "The meeting was cancelled."
+      "The file has changes and is ready for the listener to review.",
+      "The file has been reviewed and no further action is needed.",
+      "The speaker looked at the file but has not changed it yet.",
+      "The listener should update the file before reviewing it."
     ],
     "correctAnswerIndex": 0,
     "explanation": "The update is complete and ready for review.",
@@ -322,10 +322,10 @@
     "audioText": "There may be a small misunderstanding here.",
     "question": "What is the speaker suggesting?",
     "options": [
-      "Something may not have been understood correctly.",
-      "Everything is perfect.",
-      "The work is complete.",
-      "The meeting is over."
+      "Someone may have interpreted part of the situation incorrectly.",
+      "The disagreement is serious and cannot be resolved in the call.",
+      "Everyone understands the situation, but they disagree on the decision.",
+      "The issue is mainly about missing technical information."
     ],
     "correctAnswerIndex": 0,
     "explanation": "A misunderstanding means confusion between people.",
@@ -341,12 +341,12 @@
     "level": 1,
     "category": "Customer Support",
     "audioText": "I will escalate this to the appropriate team.",
-    "question": "What does escalate mean here?",
+    "question": "What will the speaker do next?",
     "options": [
-      "Send the issue to the right team for help.",
-      "Make the customer angry.",
-      "Delete the issue.",
-      "Ignore the request."
+      "Send the issue to the team best suited to handle it.",
+      "Try to solve the issue independently before telling anyone.",
+      "Ask the customer to contact another team directly.",
+      "Close the issue now and reopen it if it happens again."
     ],
     "correctAnswerIndex": 0,
     "explanation": "Escalate means pass the issue to someone better able to handle it.",
@@ -362,12 +362,12 @@
     "level": 1,
     "category": "Confidence Building",
     "audioText": "I try to stay calm under pressure.",
-    "question": "What does this describe?",
+    "question": "What quality is the speaker describing?",
     "options": [
-      "How the speaker handles stressful situations.",
-      "A grammar rule only.",
-      "A vacation plan.",
-      "A customer complaint only."
+      "Their ability to manage stress in difficult situations.",
+      "Their preference for avoiding urgent or complex assignments.",
+      "Their process for updating others during a busy task.",
+      "Their need for support when work becomes demanding."
     ],
     "correctAnswerIndex": 0,
     "explanation": "It describes work behavior under pressure.",
@@ -383,12 +383,12 @@
     "level": 2,
     "category": "Professional Small Talk",
     "audioText": "Have a great rest of your day.",
-    "question": "What type of phrase is this?",
+    "question": "How is this phrase usually used?",
     "options": [
-      "A polite closing phrase.",
-      "A question about work history.",
-      "A complaint.",
-      "An instruction."
+      "As a polite closing at the end of a professional interaction.",
+      "As a polite way to request more time for a task.",
+      "As an opening line before discussing a new work issue.",
+      "As a follow-up phrase after receiving detailed feedback."
     ],
     "correctAnswerIndex": 0,
     "explanation": "It closes a conversation warmly.",
@@ -404,12 +404,12 @@
     "level": 2,
     "category": "Grammar Pattern Practice",
     "audioText": "I worked on this yesterday.",
-    "question": "What tense is this?",
+    "question": "What does the tense tell you?",
     "options": [
-      "Past simple.",
-      "Present continuous.",
-      "Future tense.",
-      "Present perfect continuous."
+      "The action happened at a finished past time.",
+      "The action started in the past and is still happening now.",
+      "The action is a general work experience without a specific time.",
+      "The action is planned but has not happened yet."
     ],
     "correctAnswerIndex": 0,
     "explanation": "'Worked' with yesterday is past simple.",
@@ -425,12 +425,12 @@
     "level": 2,
     "category": "Interview Basics",
     "audioText": "What kind of work environment do you prefer?",
-    "question": "What should you describe?",
+    "question": "What should the answer describe?",
     "options": [
-      "Your preferred professional work environment.",
-      "Your favorite restaurant.",
-      "Your family members.",
-      "Your home address."
+      "The professional setting and working style where you perform best.",
+      "The physical office location that would be most convenient.",
+      "The software tools you used most often in previous roles.",
+      "The benefits or schedule you would like from the company."
     ],
     "correctAnswerIndex": 0,
     "explanation": "The question asks about work style and environment.",
@@ -448,10 +448,10 @@
     "audioText": "What were your main responsibilities?",
     "question": "What should you explain?",
     "options": [
-      "The key tasks you handled in your role.",
-      "Your hobbies.",
-      "The interviewer’s responsibilities.",
-      "The company’s address."
+      "The key duties and tasks you were accountable for in your role.",
+      "The responsibilities your manager or team handled around you.",
+      "The skills you hope to develop in the next position.",
+      "The overall results the company achieved while you worked there."
     ],
     "correctAnswerIndex": 0,
     "explanation": "Responsibilities means tasks you were expected to do.",
@@ -467,12 +467,12 @@
     "level": 2,
     "category": "Clarification",
     "audioText": "Are you referring to the deadline or the task details?",
-    "question": "What is the speaker clarifying?",
+    "question": "What is the speaker trying to clarify?",
     "options": [
-      "Which specific point the other person means.",
-      "The lunch menu.",
-      "The customer’s name only.",
-      "A vacation plan."
+      "Whether the other person means the timing or the task requirements.",
+      "Whether both the deadline and requirements have already changed.",
+      "Whether the deadline matters more than the quality of the work.",
+      "Whether the task should be delayed until more details are available."
     ],
     "correctAnswerIndex": 0,
     "explanation": "The speaker is narrowing down the meaning.",
@@ -490,10 +490,10 @@
     "audioText": "May I take a moment to check that?",
     "question": "What is the speaker asking for?",
     "options": [
-      "A short time to verify information.",
-      "Permission to leave the company.",
-      "A vacation day.",
-      "A new tool."
+      "A brief pause to verify the information before answering.",
+      "Permission to delay the whole task until another meeting.",
+      "Confirmation that the information has already been checked.",
+      "A request for the other person to check and report back."
     ],
     "correctAnswerIndex": 0,
     "explanation": "They need time to check.",
@@ -509,12 +509,12 @@
     "level": 2,
     "category": "Giving Status Updates",
     "audioText": "The file has been updated for your review.",
-    "question": "What happened?",
+    "question": "What should the listener understand?",
     "options": [
-      "The file was updated and is ready to be reviewed.",
-      "The file was deleted.",
-      "The task has not started.",
-      "The meeting was cancelled."
+      "The file has changes and is ready for the listener to review.",
+      "The file has been reviewed and no further action is needed.",
+      "The speaker looked at the file but has not changed it yet.",
+      "The listener should update the file before reviewing it."
     ],
     "correctAnswerIndex": 0,
     "explanation": "The update is complete and ready for review.",
@@ -532,10 +532,10 @@
     "audioText": "There may be a small misunderstanding here.",
     "question": "What is the speaker suggesting?",
     "options": [
-      "Something may not have been understood correctly.",
-      "Everything is perfect.",
-      "The work is complete.",
-      "The meeting is over."
+      "Someone may have interpreted part of the situation incorrectly.",
+      "The disagreement is serious and cannot be resolved in the call.",
+      "Everyone understands the situation, but they disagree on the decision.",
+      "The issue is mainly about missing technical information."
     ],
     "correctAnswerIndex": 0,
     "explanation": "A misunderstanding means confusion between people.",
@@ -551,12 +551,12 @@
     "level": 2,
     "category": "Customer Support",
     "audioText": "I will escalate this to the appropriate team.",
-    "question": "What does escalate mean here?",
+    "question": "What will the speaker do next?",
     "options": [
-      "Send the issue to the right team for help.",
-      "Make the customer angry.",
-      "Delete the issue.",
-      "Ignore the request."
+      "Send the issue to the team best suited to handle it.",
+      "Try to solve the issue independently before telling anyone.",
+      "Ask the customer to contact another team directly.",
+      "Close the issue now and reopen it if it happens again."
     ],
     "correctAnswerIndex": 0,
     "explanation": "Escalate means pass the issue to someone better able to handle it.",
@@ -572,12 +572,12 @@
     "level": 2,
     "category": "Confidence Building",
     "audioText": "I try to stay calm under pressure.",
-    "question": "What does this describe?",
+    "question": "What quality is the speaker describing?",
     "options": [
-      "How the speaker handles stressful situations.",
-      "A grammar rule only.",
-      "A vacation plan.",
-      "A customer complaint only."
+      "Their ability to manage stress in difficult situations.",
+      "Their preference for avoiding urgent or complex assignments.",
+      "Their process for updating others during a busy task.",
+      "Their need for support when work becomes demanding."
     ],
     "correctAnswerIndex": 0,
     "explanation": "It describes work behavior under pressure.",
@@ -593,12 +593,12 @@
     "level": 2,
     "category": "Professional Small Talk",
     "audioText": "Have a great rest of your day.",
-    "question": "What type of phrase is this?",
+    "question": "How is this phrase usually used?",
     "options": [
-      "A polite closing phrase.",
-      "A question about work history.",
-      "A complaint.",
-      "An instruction."
+      "As a polite closing at the end of a professional interaction.",
+      "As a polite way to request more time for a task.",
+      "As an opening line before discussing a new work issue.",
+      "As a follow-up phrase after receiving detailed feedback."
     ],
     "correctAnswerIndex": 0,
     "explanation": "It closes a conversation warmly.",
@@ -614,12 +614,12 @@
     "level": 2,
     "category": "Grammar Pattern Practice",
     "audioText": "I worked on this yesterday.",
-    "question": "What tense is this?",
+    "question": "What does the tense tell you?",
     "options": [
-      "Past simple.",
-      "Present continuous.",
-      "Future tense.",
-      "Present perfect continuous."
+      "The action happened at a finished past time.",
+      "The action started in the past and is still happening now.",
+      "The action is a general work experience without a specific time.",
+      "The action is planned but has not happened yet."
     ],
     "correctAnswerIndex": 0,
     "explanation": "'Worked' with yesterday is past simple.",
@@ -635,12 +635,12 @@
     "level": 2,
     "category": "Interview Basics",
     "audioText": "What kind of work environment do you prefer?",
-    "question": "What should you describe?",
+    "question": "What should the answer describe?",
     "options": [
-      "Your preferred professional work environment.",
-      "Your favorite restaurant.",
-      "Your family members.",
-      "Your home address."
+      "The professional setting and working style where you perform best.",
+      "The physical office location that would be most convenient.",
+      "The software tools you used most often in previous roles.",
+      "The benefits or schedule you would like from the company."
     ],
     "correctAnswerIndex": 0,
     "explanation": "The question asks about work style and environment.",
@@ -658,10 +658,10 @@
     "audioText": "What were your main responsibilities?",
     "question": "What should you explain?",
     "options": [
-      "The key tasks you handled in your role.",
-      "Your hobbies.",
-      "The interviewer’s responsibilities.",
-      "The company’s address."
+      "The key duties and tasks you were accountable for in your role.",
+      "The responsibilities your manager or team handled around you.",
+      "The skills you hope to develop in the next position.",
+      "The overall results the company achieved while you worked there."
     ],
     "correctAnswerIndex": 0,
     "explanation": "Responsibilities means tasks you were expected to do.",
@@ -677,12 +677,12 @@
     "level": 2,
     "category": "Clarification",
     "audioText": "Are you referring to the deadline or the task details?",
-    "question": "What is the speaker clarifying?",
+    "question": "What is the speaker trying to clarify?",
     "options": [
-      "Which specific point the other person means.",
-      "The lunch menu.",
-      "The customer’s name only.",
-      "A vacation plan."
+      "Whether the other person means the timing or the task requirements.",
+      "Whether both the deadline and requirements have already changed.",
+      "Whether the deadline matters more than the quality of the work.",
+      "Whether the task should be delayed until more details are available."
     ],
     "correctAnswerIndex": 0,
     "explanation": "The speaker is narrowing down the meaning.",
@@ -700,10 +700,10 @@
     "audioText": "May I take a moment to check that?",
     "question": "What is the speaker asking for?",
     "options": [
-      "A short time to verify information.",
-      "Permission to leave the company.",
-      "A vacation day.",
-      "A new tool."
+      "A brief pause to verify the information before answering.",
+      "Permission to delay the whole task until another meeting.",
+      "Confirmation that the information has already been checked.",
+      "A request for the other person to check and report back."
     ],
     "correctAnswerIndex": 0,
     "explanation": "They need time to check.",
@@ -719,12 +719,12 @@
     "level": 2,
     "category": "Giving Status Updates",
     "audioText": "The file has been updated for your review.",
-    "question": "What happened?",
+    "question": "What should the listener understand?",
     "options": [
-      "The file was updated and is ready to be reviewed.",
-      "The file was deleted.",
-      "The task has not started.",
-      "The meeting was cancelled."
+      "The file has changes and is ready for the listener to review.",
+      "The file has been reviewed and no further action is needed.",
+      "The speaker looked at the file but has not changed it yet.",
+      "The listener should update the file before reviewing it."
     ],
     "correctAnswerIndex": 0,
     "explanation": "The update is complete and ready for review.",
@@ -742,10 +742,10 @@
     "audioText": "There may be a small misunderstanding here.",
     "question": "What is the speaker suggesting?",
     "options": [
-      "Something may not have been understood correctly.",
-      "Everything is perfect.",
-      "The work is complete.",
-      "The meeting is over."
+      "Someone may have interpreted part of the situation incorrectly.",
+      "The disagreement is serious and cannot be resolved in the call.",
+      "Everyone understands the situation, but they disagree on the decision.",
+      "The issue is mainly about missing technical information."
     ],
     "correctAnswerIndex": 0,
     "explanation": "A misunderstanding means confusion between people.",
@@ -761,12 +761,12 @@
     "level": 3,
     "category": "Customer Support",
     "audioText": "I will escalate this to the appropriate team.",
-    "question": "What does escalate mean here?",
+    "question": "What will the speaker do next?",
     "options": [
-      "Send the issue to the right team for help.",
-      "Make the customer angry.",
-      "Delete the issue.",
-      "Ignore the request."
+      "Send the issue to the team best suited to handle it.",
+      "Try to solve the issue independently before telling anyone.",
+      "Ask the customer to contact another team directly.",
+      "Close the issue now and reopen it if it happens again."
     ],
     "correctAnswerIndex": 0,
     "explanation": "Escalate means pass the issue to someone better able to handle it.",
@@ -782,12 +782,12 @@
     "level": 3,
     "category": "Confidence Building",
     "audioText": "I try to stay calm under pressure.",
-    "question": "What does this describe?",
+    "question": "What quality is the speaker describing?",
     "options": [
-      "How the speaker handles stressful situations.",
-      "A grammar rule only.",
-      "A vacation plan.",
-      "A customer complaint only."
+      "Their ability to manage stress in difficult situations.",
+      "Their preference for avoiding urgent or complex assignments.",
+      "Their process for updating others during a busy task.",
+      "Their need for support when work becomes demanding."
     ],
     "correctAnswerIndex": 0,
     "explanation": "It describes work behavior under pressure.",
@@ -803,12 +803,12 @@
     "level": 3,
     "category": "Professional Small Talk",
     "audioText": "Have a great rest of your day.",
-    "question": "What type of phrase is this?",
+    "question": "How is this phrase usually used?",
     "options": [
-      "A polite closing phrase.",
-      "A question about work history.",
-      "A complaint.",
-      "An instruction."
+      "As a polite closing at the end of a professional interaction.",
+      "As a polite way to request more time for a task.",
+      "As an opening line before discussing a new work issue.",
+      "As a follow-up phrase after receiving detailed feedback."
     ],
     "correctAnswerIndex": 0,
     "explanation": "It closes a conversation warmly.",
@@ -824,12 +824,12 @@
     "level": 3,
     "category": "Grammar Pattern Practice",
     "audioText": "I worked on this yesterday.",
-    "question": "What tense is this?",
+    "question": "What does the tense tell you?",
     "options": [
-      "Past simple.",
-      "Present continuous.",
-      "Future tense.",
-      "Present perfect continuous."
+      "The action happened at a finished past time.",
+      "The action started in the past and is still happening now.",
+      "The action is a general work experience without a specific time.",
+      "The action is planned but has not happened yet."
     ],
     "correctAnswerIndex": 0,
     "explanation": "'Worked' with yesterday is past simple.",
@@ -845,12 +845,12 @@
     "level": 3,
     "category": "Interview Basics",
     "audioText": "What kind of work environment do you prefer?",
-    "question": "What should you describe?",
+    "question": "What should the answer describe?",
     "options": [
-      "Your preferred professional work environment.",
-      "Your favorite restaurant.",
-      "Your family members.",
-      "Your home address."
+      "The professional setting and working style where you perform best.",
+      "The physical office location that would be most convenient.",
+      "The software tools you used most often in previous roles.",
+      "The benefits or schedule you would like from the company."
     ],
     "correctAnswerIndex": 0,
     "explanation": "The question asks about work style and environment.",
@@ -868,10 +868,10 @@
     "audioText": "What were your main responsibilities?",
     "question": "What should you explain?",
     "options": [
-      "The key tasks you handled in your role.",
-      "Your hobbies.",
-      "The interviewer’s responsibilities.",
-      "The company’s address."
+      "The key duties and tasks you were accountable for in your role.",
+      "The responsibilities your manager or team handled around you.",
+      "The skills you hope to develop in the next position.",
+      "The overall results the company achieved while you worked there."
     ],
     "correctAnswerIndex": 0,
     "explanation": "Responsibilities means tasks you were expected to do.",
@@ -887,12 +887,12 @@
     "level": 3,
     "category": "Clarification",
     "audioText": "Are you referring to the deadline or the task details?",
-    "question": "What is the speaker clarifying?",
+    "question": "What is the speaker trying to clarify?",
     "options": [
-      "Which specific point the other person means.",
-      "The lunch menu.",
-      "The customer’s name only.",
-      "A vacation plan."
+      "Whether the other person means the timing or the task requirements.",
+      "Whether both the deadline and requirements have already changed.",
+      "Whether the deadline matters more than the quality of the work.",
+      "Whether the task should be delayed until more details are available."
     ],
     "correctAnswerIndex": 0,
     "explanation": "The speaker is narrowing down the meaning.",
@@ -910,10 +910,10 @@
     "audioText": "May I take a moment to check that?",
     "question": "What is the speaker asking for?",
     "options": [
-      "A short time to verify information.",
-      "Permission to leave the company.",
-      "A vacation day.",
-      "A new tool."
+      "A brief pause to verify the information before answering.",
+      "Permission to delay the whole task until another meeting.",
+      "Confirmation that the information has already been checked.",
+      "A request for the other person to check and report back."
     ],
     "correctAnswerIndex": 0,
     "explanation": "They need time to check.",
@@ -929,12 +929,12 @@
     "level": 3,
     "category": "Giving Status Updates",
     "audioText": "The file has been updated for your review.",
-    "question": "What happened?",
+    "question": "What should the listener understand?",
     "options": [
-      "The file was updated and is ready to be reviewed.",
-      "The file was deleted.",
-      "The task has not started.",
-      "The meeting was cancelled."
+      "The file has changes and is ready for the listener to review.",
+      "The file has been reviewed and no further action is needed.",
+      "The speaker looked at the file but has not changed it yet.",
+      "The listener should update the file before reviewing it."
     ],
     "correctAnswerIndex": 0,
     "explanation": "The update is complete and ready for review.",
@@ -952,10 +952,10 @@
     "audioText": "There may be a small misunderstanding here.",
     "question": "What is the speaker suggesting?",
     "options": [
-      "Something may not have been understood correctly.",
-      "Everything is perfect.",
-      "The work is complete.",
-      "The meeting is over."
+      "Someone may have interpreted part of the situation incorrectly.",
+      "The disagreement is serious and cannot be resolved in the call.",
+      "Everyone understands the situation, but they disagree on the decision.",
+      "The issue is mainly about missing technical information."
     ],
     "correctAnswerIndex": 0,
     "explanation": "A misunderstanding means confusion between people.",
@@ -971,12 +971,12 @@
     "level": 3,
     "category": "Customer Support",
     "audioText": "I will escalate this to the appropriate team.",
-    "question": "What does escalate mean here?",
+    "question": "What will the speaker do next?",
     "options": [
-      "Send the issue to the right team for help.",
-      "Make the customer angry.",
-      "Delete the issue.",
-      "Ignore the request."
+      "Send the issue to the team best suited to handle it.",
+      "Try to solve the issue independently before telling anyone.",
+      "Ask the customer to contact another team directly.",
+      "Close the issue now and reopen it if it happens again."
     ],
     "correctAnswerIndex": 0,
     "explanation": "Escalate means pass the issue to someone better able to handle it.",
@@ -992,12 +992,12 @@
     "level": 3,
     "category": "Confidence Building",
     "audioText": "I try to stay calm under pressure.",
-    "question": "What does this describe?",
+    "question": "What quality is the speaker describing?",
     "options": [
-      "How the speaker handles stressful situations.",
-      "A grammar rule only.",
-      "A vacation plan.",
-      "A customer complaint only."
+      "Their ability to manage stress in difficult situations.",
+      "Their preference for avoiding urgent or complex assignments.",
+      "Their process for updating others during a busy task.",
+      "Their need for support when work becomes demanding."
     ],
     "correctAnswerIndex": 0,
     "explanation": "It describes work behavior under pressure.",
@@ -1013,12 +1013,12 @@
     "level": 3,
     "category": "Professional Small Talk",
     "audioText": "Have a great rest of your day.",
-    "question": "What type of phrase is this?",
+    "question": "How is this phrase usually used?",
     "options": [
-      "A polite closing phrase.",
-      "A question about work history.",
-      "A complaint.",
-      "An instruction."
+      "As a polite closing at the end of a professional interaction.",
+      "As a polite way to request more time for a task.",
+      "As an opening line before discussing a new work issue.",
+      "As a follow-up phrase after receiving detailed feedback."
     ],
     "correctAnswerIndex": 0,
     "explanation": "It closes a conversation warmly.",
@@ -1034,12 +1034,12 @@
     "level": 3,
     "category": "Grammar Pattern Practice",
     "audioText": "I worked on this yesterday.",
-    "question": "What tense is this?",
+    "question": "What does the tense tell you?",
     "options": [
-      "Past simple.",
-      "Present continuous.",
-      "Future tense.",
-      "Present perfect continuous."
+      "The action happened at a finished past time.",
+      "The action started in the past and is still happening now.",
+      "The action is a general work experience without a specific time.",
+      "The action is planned but has not happened yet."
     ],
     "correctAnswerIndex": 0,
     "explanation": "'Worked' with yesterday is past simple.",
