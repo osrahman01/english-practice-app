@@ -7,23 +7,31 @@ import { MODULE_DEFINITIONS, createDailyPracticePlan } from "../services/content
 function DailyPractice({ data, onNavigate }) {
   const plan = useMemo(() => createDailyPracticePlan(data), [data]);
   const [index, setIndex] = useState(0);
-  const [selected, setSelected] = useState(null);
+  const [statusByIndex, setStatusByIndex] = useState({});
+  const [completed, setCompleted] = useState(false);
   const item = plan[index];
   const lesson = item.lesson;
+  const currentStatus = statusByIndex[index];
+  const isFinalItem = index >= plan.length - 1;
 
   const markDifficulty = (difficulty) => {
-    saveAttempt(createPracticeAttempt({
-      module: item.type,
-      lesson,
-      activityType: dailyActivityType(item.type),
-      result: { difficulty }
+    if (currentStatus?.difficulty !== difficulty) {
+      saveAttempt(createPracticeAttempt({
+        module: item.type,
+        lesson,
+        activityType: dailyActivityType(item.type),
+        result: { difficulty }
+      }));
+    }
+    setStatusByIndex((current) => ({
+      ...current,
+      [index]: { done: true, difficulty }
     }));
-    goNext();
   };
 
   const answerListening = (optionIndex) => {
+    if (currentStatus?.done) return;
     const result = scoreMultipleChoice(optionIndex, lesson.correctAnswerIndex);
-    setSelected({ ...result, optionIndex });
     saveAttempt(createPracticeAttempt({
       module: item.type,
       lesson,
@@ -33,12 +41,46 @@ function DailyPractice({ data, onNavigate }) {
         selectedIndex: optionIndex
       }
     }));
+    setStatusByIndex((current) => ({
+      ...current,
+      [index]: {
+        done: true,
+        ...result,
+        optionIndex
+      }
+    }));
   };
 
   const goNext = () => {
-    setSelected(null);
+    if (isFinalItem) {
+      setCompleted(true);
+      return;
+    }
     setIndex((current) => Math.min(current + 1, plan.length - 1));
   };
+
+  const goPrevious = () => {
+    setIndex((current) => Math.max(current - 1, 0));
+  };
+
+  if (completed) {
+    return (
+      <section>
+        <div className="page-heading">
+          <p className="eyebrow">Daily Practice</p>
+          <h1>Session complete</h1>
+          <p>You finished today&apos;s 15-item practice session. Review your progress or start another round when you are ready.</p>
+        </div>
+        <article className="practice-card completion-card">
+          <strong>Great work. Your attempts have been saved locally.</strong>
+          <div className="daily-actions">
+            <button className="primary-button" type="button" onClick={() => onNavigate("progress")}>View Progress</button>
+            <button className="secondary-button" type="button" onClick={() => { setIndex(0); setStatusByIndex({}); setCompleted(false); }}>Start Again</button>
+          </div>
+        </article>
+      </section>
+    );
+  }
 
   return (
     <section>
@@ -48,30 +90,40 @@ function DailyPractice({ data, onNavigate }) {
         <p>Move through a balanced practice set for speaking, interview confidence, and listening.</p>
       </div>
       <article className="practice-card">
-        <div className="lesson-meta">
-          <span>{labelFor(item.type)}</span>
-          <span>{lesson.category}</span>
-          <span>{index + 1} / {plan.length}</span>
+        <div className="daily-progress-row">
+          <div className="lesson-meta">
+            <span>{labelFor(item.type)}</span>
+            <span>{lesson.category}</span>
+          </div>
+          <strong>{index + 1} / {plan.length}</strong>
         </div>
-        <DailyLesson item={item} selected={selected} onAnswer={answerListening} />
+        <div className="daily-progress-track" aria-hidden="true">
+          <i style={{ width: `${((index + 1) / plan.length) * 100}%` }} />
+        </div>
+        <DailyLesson item={item} status={currentStatus} onAnswer={answerListening} />
         <div className="daily-actions">
           {item.type === "listeningComprehension" ? (
-            <button className="primary-button" type="button" onClick={goNext} disabled={!selected || index >= plan.length - 1}>Next</button>
+            <span className="muted">{currentStatus?.done ? "Answer saved. Continue when ready." : "Choose an answer to continue."}</span>
           ) : (
             <>
-              <button className="difficulty easy" type="button" onClick={() => markDifficulty("easy")}>Easy</button>
-              <button className="difficulty medium" type="button" onClick={() => markDifficulty("medium")}>Medium</button>
-              <button className="difficulty hard" type="button" onClick={() => markDifficulty("hard")}>Hard</button>
+              <button className={currentStatus?.difficulty === "easy" ? "difficulty easy selected" : "difficulty easy"} type="button" onClick={() => markDifficulty("easy")}>Easy</button>
+              <button className={currentStatus?.difficulty === "medium" ? "difficulty medium selected" : "difficulty medium"} type="button" onClick={() => markDifficulty("medium")}>Medium</button>
+              <button className={currentStatus?.difficulty === "hard" ? "difficulty hard selected" : "difficulty hard"} type="button" onClick={() => markDifficulty("hard")}>Hard</button>
             </>
           )}
-          {index >= plan.length - 1 ? <button className="secondary-button" type="button" onClick={() => onNavigate("progress")}>Finish and View Progress</button> : null}
+          <div className="step-nav">
+            <button className="secondary-button" type="button" onClick={goPrevious} disabled={index === 0}>Previous</button>
+            <button className="primary-button" type="button" onClick={goNext} disabled={!currentStatus?.done}>
+              {isFinalItem ? "Finish" : "Next"}
+            </button>
+          </div>
         </div>
       </article>
     </section>
   );
 }
 
-function DailyLesson({ item, selected, onAnswer }) {
+function DailyLesson({ item, status, onAnswer }) {
   const lesson = item.lesson;
   if (item.type === "shadowing") {
     return (
@@ -86,7 +138,7 @@ function DailyLesson({ item, selected, onAnswer }) {
   if (item.type === "sentenceBuilder") {
     return (
       <>
-        <h2>{lesson.title}</h2>
+        <h2>{cleanLessonTitle(lesson.title)}</h2>
         <div className="step-list">
           {lesson.steps.map((step, index) => (
             <div className="step-item" key={step}>
@@ -119,16 +171,16 @@ function DailyLesson({ item, selected, onAnswer }) {
         {lesson.options.map((option, index) => (
           <button
             key={option}
-            className={`answer-option ${selected && index === lesson.correctAnswerIndex ? "correct" : ""} ${selected && selected.optionIndex === index && !selected.correct ? "wrong" : ""}`}
+            className={`answer-option ${status && index === lesson.correctAnswerIndex ? "correct" : ""} ${status && status.optionIndex === index && !status.correct ? "wrong" : ""}`}
             type="button"
-            disabled={Boolean(selected)}
+            disabled={Boolean(status)}
             onClick={() => onAnswer(index)}
           >
             {option}
           </button>
         ))}
       </div>
-      {selected ? <p className="tip-box">{lesson.explanation}</p> : null}
+      {status ? <p className="tip-box">{lesson.explanation}</p> : null}
     </>
   );
 }
@@ -152,6 +204,10 @@ function dailyActivityType(type) {
     sentenceBuilder: "daily-sentence-expansion",
     interviewPractice: "daily-interview-answer"
   }[type] || "daily-practice";
+}
+
+function cleanLessonTitle(title) {
+  return String(title || "").replace(/\s+\d+$/, "");
 }
 
 export default DailyPractice;

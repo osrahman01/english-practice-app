@@ -13,9 +13,9 @@ function Dashboard({ data, onNavigate }) {
       <div className="hero-panel">
         <div>
           <p className="eyebrow">Workplace English practice</p>
-          <h1>Build clearer speaking, sharper listening, and calmer interview answers.</h1>
+          <h1>Improve English Speaking and Comprehension</h1>
           <p className="hero-copy">
-            A focused Phase 1 training app for daily English communication practice using browser text-to-speech and your local progress history.
+            Practice speaking, listening, sentence structure, and interview answers through short daily exercises.
           </p>
           <div className="hero-actions">
             <button className="primary-button large" type="button" onClick={() => onNavigate("daily")}>Start Daily Practice</button>

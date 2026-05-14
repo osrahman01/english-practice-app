@@ -48,7 +48,7 @@ function SentenceBuilder({ lessons }) {
             <span>Level {lesson.level}</span>
             <span>{index + 1} / {filtered.length}</span>
           </div>
-          <h2>{lesson.title}</h2>
+          <h2>{cleanLessonTitle(lesson.title)}</h2>
           <div className="step-list">
             {visibleSteps.map((step, stepIndex) => (
               <div className="step-item" key={step}>
@@ -76,6 +76,10 @@ function SentenceBuilder({ lessons }) {
       ) : <div className="empty-panel">No lessons match this filter.</div>}
     </section>
   );
+}
+
+function cleanLessonTitle(title) {
+  return String(title || "").replace(/\s+\d+$/, "");
 }
 
 export default SentenceBuilder;
