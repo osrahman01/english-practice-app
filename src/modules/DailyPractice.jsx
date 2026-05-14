@@ -103,7 +103,7 @@ function DailyPractice({ data, onNavigate }) {
         <DailyLesson item={item} status={currentStatus} onAnswer={answerListening} />
         <div className="daily-actions">
           {item.type === "listeningComprehension" ? (
-            <span className="muted">{currentStatus?.done ? "Answer saved. Continue when ready." : "Choose an answer to continue."}</span>
+            <span className="muted">{currentStatus?.done ? "Answer saved. Continue when ready." : "Choose an answer, or skip if you want to move on."}</span>
           ) : (
             <>
               <button className={currentStatus?.difficulty === "easy" ? "difficulty easy selected" : "difficulty easy"} type="button" onClick={() => markDifficulty("easy")}>Easy</button>
@@ -113,7 +113,7 @@ function DailyPractice({ data, onNavigate }) {
           )}
           <div className="step-nav">
             <button className="secondary-button" type="button" onClick={goPrevious} disabled={index === 0}>Previous</button>
-            <button className="primary-button" type="button" onClick={goNext} disabled={!currentStatus?.done}>
+            <button className="primary-button" type="button" onClick={goNext}>
               {isFinalItem ? "Finish" : "Next"}
             </button>
           </div>
