@@ -2,7 +2,7 @@ import { useMemo, useState } from "react";
 import FilterBar from "../components/FilterBar.jsx";
 import { playLessonAudio, playLessonAudioSlow } from "../services/speechService.js";
 import { createPracticeAttempt, saveAttempt } from "../services/progressService.js";
-import { scoreMultipleChoice } from "../services/scoringService.js";
+import { createShuffledOptions, scoreMultipleChoice } from "../services/scoringService.js";
 
 function ListeningComprehension({ lessons }) {
   const [category, setCategory] = useState("all");
@@ -15,6 +15,9 @@ function ListeningComprehension({ lessons }) {
     (level === "all" || String(lesson.level) === level)
   )), [lessons, category, level]);
   const lesson = filtered[index] || filtered[0];
+  const shuffledOptions = useMemo(() => (
+    lesson ? createShuffledOptions(lesson) : []
+  ), [lesson]);
 
   const next = () => {
     setResult(null);
@@ -59,18 +62,18 @@ function ListeningComprehension({ lessons }) {
           </div>
           <h3 className="question-text">{lesson.question}</h3>
           <div className="option-grid">
-            {lesson.options.map((option, optionIndex) => {
-              const isCorrect = result && optionIndex === lesson.correctAnswerIndex;
-              const isWrong = result && optionIndex === result.selectedIndex && !result.correct;
+            {shuffledOptions.map((option) => {
+              const isCorrect = result && option.originalIndex === lesson.correctAnswerIndex;
+              const isWrong = result && option.originalIndex === result.selectedIndex && !result.correct;
               return (
                 <button
-                  key={option}
+                  key={option.id}
                   className={`answer-option ${isCorrect ? "correct" : ""} ${isWrong ? "wrong" : ""}`}
                   type="button"
-                  onClick={() => answer(optionIndex)}
+                  onClick={() => answer(option.originalIndex)}
                   disabled={Boolean(result)}
                 >
-                  {option}
+                  {option.text}
                 </button>
               );
             })}

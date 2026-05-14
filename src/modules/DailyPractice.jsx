@@ -1,7 +1,7 @@
 import { useMemo, useState } from "react";
 import { playLessonAudio, playLessonAudioSlow, playText } from "../services/speechService.js";
 import { createPracticeAttempt, saveAttempt } from "../services/progressService.js";
-import { scoreMultipleChoice } from "../services/scoringService.js";
+import { createShuffledOptions, scoreMultipleChoice } from "../services/scoringService.js";
 import { MODULE_DEFINITIONS, createDailyPracticePlan } from "../services/contentService.js";
 
 function DailyPractice({ data, onNavigate }) {
@@ -168,15 +168,15 @@ function DailyLesson({ item, status, onAnswer }) {
       <PlayControls lesson={lesson} text={lesson.audioText} />
       <h3 className="question-text">{lesson.question}</h3>
       <div className="option-grid">
-        {lesson.options.map((option, index) => (
+        {createShuffledOptions(lesson).map((option) => (
           <button
-            key={option}
-            className={`answer-option ${status && index === lesson.correctAnswerIndex ? "correct" : ""} ${status && status.optionIndex === index && !status.correct ? "wrong" : ""}`}
+            key={option.id}
+            className={`answer-option ${status && option.originalIndex === lesson.correctAnswerIndex ? "correct" : ""} ${status && status.optionIndex === option.originalIndex && !status.correct ? "wrong" : ""}`}
             type="button"
             disabled={Boolean(status)}
-            onClick={() => onAnswer(index)}
+            onClick={() => onAnswer(option.originalIndex)}
           >
-            {option}
+            {option.text}
           </button>
         ))}
       </div>
