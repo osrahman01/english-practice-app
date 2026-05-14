@@ -190,27 +190,33 @@ p {
 }
 
 .hero-panel > div:first-child {
-  padding: clamp(24px, 4vw, 44px);
+  padding: clamp(24px, 4vw, 40px);
 }
 
-.hero-panel h1,
-.page-heading h1 {
+.hero-panel h1 {
   max-width: 900px;
-  margin-bottom: 14px;
-  font-size: clamp(2rem, 5vw, 4.6rem);
-  line-height: 1.02;
+  margin-bottom: 18px;
+  font-size: clamp(2rem, 4vw, 3.25rem);
+  line-height: 1.08;
+}
+
+.page-heading h1 {
+  max-width: 860px;
+  margin: 8px 0 14px;
+  font-size: clamp(1.85rem, 3.2vw, 2.8rem);
+  line-height: 1.12;
 }
 
 .hero-copy,
 .page-heading p {
   max-width: 760px;
   color: var(--muted);
-  font-size: 1.06rem;
-  line-height: 1.7;
+  font-size: 1rem;
+  line-height: 1.65;
 }
 
 .eyebrow {
-  margin-bottom: 8px;
+  margin-bottom: 10px;
   color: var(--teal);
   font-size: 0.78rem;
   font-weight: 900;
@@ -289,10 +295,6 @@ p {
 }
 
 .section-heading h2,
-.page-heading h1 {
-  margin-bottom: 0;
-}
-
 .module-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
@@ -345,14 +347,14 @@ p {
 }
 
 .page-heading {
-  margin-bottom: 18px;
+  margin-bottom: 24px;
 }
 
 .filter-bar {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 12px;
-  margin-bottom: 14px;
+  margin-bottom: 20px;
   padding: 14px;
   border: 1px solid var(--line);
   border-radius: 16px;
@@ -402,9 +404,9 @@ select {
 
 .practice-prompt {
   max-width: 900px;
-  margin-bottom: 18px;
-  font-size: clamp(1.8rem, 4vw, 3.7rem);
-  line-height: 1.08;
+  margin-bottom: 20px;
+  font-size: clamp(1.45rem, 3vw, 2.55rem);
+  line-height: 1.16;
 }
 
 .tip-box,
@@ -456,6 +458,47 @@ select {
   border-color: #fecdd3;
   background: #fff1f2;
   color: var(--rose);
+}
+
+.difficulty.selected {
+  box-shadow: 0 0 0 3px rgba(45, 91, 255, 0.18);
+}
+
+.daily-progress-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 12px;
+}
+
+.daily-progress-row .lesson-meta {
+  margin-bottom: 0;
+}
+
+.daily-progress-row > strong {
+  color: var(--primary);
+  font-size: 0.95rem;
+}
+
+.daily-progress-track {
+  height: 8px;
+  overflow: hidden;
+  border-radius: 999px;
+  margin-bottom: 22px;
+  background: var(--ice);
+}
+
+.daily-progress-track i {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--primary), var(--mid-blue));
+}
+
+.completion-card {
+  display: grid;
+  gap: 18px;
 }
 
 .step-list {
