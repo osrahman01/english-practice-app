@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "shadow_001",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Clarification",
+    "text": "Could you please repeat that?",
+    "tip": "Use this when you need to confirm meaning or ask for repetition.",
+    "repeatCount": 3,
+    "futureTags": [
+      "clarification",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_002",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Clarification",
+    "text": "Could you please say that again more slowly?",
+    "tip": "Use this when you need to confirm meaning or ask for repetition.",
+    "repeatCount": 3,
+    "futureTags": [
+      "clarification",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_003",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Clarification",
+    "text": "I’m sorry, I didn’t catch the last part.",
+    "tip": "Use this when you need to confirm meaning or ask for repetition.",
+    "repeatCount": 3,
+    "futureTags": [
+      "clarification",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_004",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Clarification",
+    "text": "Could you please explain what you mean?",
+    "tip": "Use this when you need to confirm meaning or ask for repetition.",
+    "repeatCount": 3,
+    "futureTags": [
+      "clarification",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_005",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Clarification",
+    "text": "Just to confirm, are you asking about my previous role?",
+    "tip": "Use this when you need to confirm meaning or ask for repetition.",
+    "repeatCount": 3,
+    "futureTags": [
+      "clarification",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_006",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Clarification",
+    "text": "I want to make sure I understood correctly.",
+    "tip": "Use this when you need to confirm meaning or ask for repetition.",
+    "repeatCount": 3,
+    "futureTags": [
+      "clarification",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_007",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Clarification",
+    "text": "Could you please rephrase the question?",
+    "tip": "Use this when you need to confirm meaning or ask for repetition.",
+    "repeatCount": 3,
+    "futureTags": [
+      "clarification",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_008",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Clarification",
+    "text": "When you say that, do you mean the project timeline?",
+    "tip": "Use this when you need to confirm meaning or ask for repetition.",
+    "repeatCount": 3,
+    "futureTags": [
+      "clarification",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_009",
+    "module": "shadowing",
+    "level": 3,
+    "category": "Clarification",
+    "text": "Can I confirm one detail before I answer?",
+    "tip": "Use this when you need to confirm meaning or ask for repetition.",
+    "repeatCount": 3,
+    "futureTags": [
+      "clarification",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_010",
+    "module": "shadowing",
+    "level": 3,
+    "category": "Clarification",
+    "text": "Let me repeat what I understood.",
+    "tip": "Use this when you need to confirm meaning or ask for repetition.",
+    "repeatCount": 3,
+    "futureTags": [
+      "clarification",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_011",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Polite Requests",
+    "text": "Could you please give me a moment?",
+    "tip": "Use this to sound respectful when asking for help or information.",
+    "repeatCount": 3,
+    "futureTags": [
+      "polite_requests",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_012",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Polite Requests",
+    "text": "May I ask a quick question?",
+    "tip": "Use this to sound respectful when asking for help or information.",
+    "repeatCount": 3,
+    "futureTags": [
+      "polite_requests",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_013",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Polite Requests",
+    "text": "Could you please share more details?",
+    "tip": "Use this to sound respectful when asking for help or information.",
+    "repeatCount": 3,
+    "futureTags": [
+      "polite_requests",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_014",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Polite Requests",
+    "text": "Would it be possible to review this together?",
+    "tip": "Use this to sound respectful when asking for help or information.",
+    "repeatCount": 3,
+    "futureTags": [
+      "polite_requests",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_015",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Polite Requests",
+    "text": "Please let me know if I missed anything.",
+    "tip": "Use this to sound respectful when asking for help or information.",
+    "repeatCount": 3,
+    "futureTags": [
+      "polite_requests",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_016",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Polite Requests",
+    "text": "Could you please guide me on the next step?",
+    "tip": "Use this to sound respectful when asking for help or information.",
+    "repeatCount": 3,
+    "futureTags": [
+      "polite_requests",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_017",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Polite Requests",
+    "text": "May I take a moment to check that?",
+    "tip": "Use this to sound respectful when asking for help or information.",
+    "repeatCount": 3,
+    "futureTags": [
+      "polite_requests",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_018",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Polite Requests",
+    "text": "Could you please send the details by email?",
+    "tip": "Use this to sound respectful when asking for help or information.",
+    "repeatCount": 3,
+    "futureTags": [
+      "polite_requests",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_019",
+    "module": "shadowing",
+    "level": 3,
+    "category": "Polite Requests",
+    "text": "Would you mind repeating the example?",
+    "tip": "Use this to sound respectful when asking for help or information.",
+    "repeatCount": 3,
+    "futureTags": [
+      "polite_requests",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_020",
+    "module": "shadowing",
+    "level": 3,
+    "category": "Polite Requests",
+    "text": "Please correct me if I misunderstood.",
+    "tip": "Use this to sound respectful when asking for help or information.",
+    "repeatCount": 3,
+    "futureTags": [
+      "polite_requests",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_021",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Interview Basics",
+    "text": "Thank you for giving me this opportunity.",
+    "tip": "Use this during interviews to sound clear and professional.",
+    "repeatCount": 3,
+    "futureTags": [
+      "interview_basics",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_022",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Interview Basics",
+    "text": "I’m happy to discuss my experience.",
+    "tip": "Use this during interviews to sound clear and professional.",
+    "repeatCount": 3,
+    "futureTags": [
+      "interview_basics",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_023",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Interview Basics",
+    "text": "I have experience in customer communication.",
+    "tip": "Use this during interviews to sound clear and professional.",
+    "repeatCount": 3,
+    "futureTags": [
+      "interview_basics",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_024",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Interview Basics",
+    "text": "I have worked with different types of clients.",
+    "tip": "Use this during interviews to sound clear and professional.",
+    "repeatCount": 3,
+    "futureTags": [
+      "interview_basics",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_025",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Interview Basics",
+    "text": "I am comfortable learning new tools.",
+    "tip": "Use this during interviews to sound clear and professional.",
+    "repeatCount": 3,
+    "futureTags": [
+      "interview_basics",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_026",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Interview Basics",
+    "text": "I enjoy solving practical problems.",
+    "tip": "Use this during interviews to sound clear and professional.",
+    "repeatCount": 3,
+    "futureTags": [
+      "interview_basics",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_027",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Interview Basics",
+    "text": "I am looking for a role where I can grow.",
+    "tip": "Use this during interviews to sound clear and professional.",
+    "repeatCount": 3,
+    "futureTags": [
+      "interview_basics",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_028",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Interview Basics",
+    "text": "I try to communicate clearly and professionally.",
+    "tip": "Use this during interviews to sound clear and professional.",
+    "repeatCount": 3,
+    "futureTags": [
+      "interview_basics",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_029",
+    "module": "shadowing",
+    "level": 3,
+    "category": "Interview Basics",
+    "text": "I work best when I understand the goal clearly.",
+    "tip": "Use this during interviews to sound clear and professional.",
+    "repeatCount": 3,
+    "futureTags": [
+      "interview_basics",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_030",
+    "module": "shadowing",
+    "level": 3,
+    "category": "Interview Basics",
+    "text": "I am always trying to improve my English communication.",
+    "tip": "Use this during interviews to sound clear and professional.",
+    "repeatCount": 3,
+    "futureTags": [
+      "interview_basics",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_031",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Explaining Experience",
+    "text": "In my previous role, I supported daily operations.",
+    "tip": "Use this to describe your previous work clearly.",
+    "repeatCount": 3,
+    "futureTags": [
+      "explaining_experience",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_032",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Explaining Experience",
+    "text": "I was responsible for checking information carefully.",
+    "tip": "Use this to describe your previous work clearly.",
+    "repeatCount": 3,
+    "futureTags": [
+      "explaining_experience",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_033",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Explaining Experience",
+    "text": "I worked on reports, updates, and team coordination.",
+    "tip": "Use this to describe your previous work clearly.",
+    "repeatCount": 3,
+    "futureTags": [
+      "explaining_experience",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_034",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Explaining Experience",
+    "text": "I used online tools to complete my tasks.",
+    "tip": "Use this to describe your previous work clearly.",
+    "repeatCount": 3,
+    "futureTags": [
+      "explaining_experience",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_035",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Explaining Experience",
+    "text": "I communicated with team members regularly.",
+    "tip": "Use this to describe your previous work clearly.",
+    "repeatCount": 3,
+    "futureTags": [
+      "explaining_experience",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_036",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Explaining Experience",
+    "text": "I handled customer questions through chat and email.",
+    "tip": "Use this to describe your previous work clearly.",
+    "repeatCount": 3,
+    "futureTags": [
+      "explaining_experience",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_037",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Explaining Experience",
+    "text": "I followed instructions and completed tasks on time.",
+    "tip": "Use this to describe your previous work clearly.",
+    "repeatCount": 3,
+    "futureTags": [
+      "explaining_experience",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_038",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Explaining Experience",
+    "text": "I learned new systems by practicing regularly.",
+    "tip": "Use this to describe your previous work clearly.",
+    "repeatCount": 3,
+    "futureTags": [
+      "explaining_experience",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_039",
+    "module": "shadowing",
+    "level": 3,
+    "category": "Explaining Experience",
+    "text": "I helped the team by keeping records updated.",
+    "tip": "Use this to describe your previous work clearly.",
+    "repeatCount": 3,
+    "futureTags": [
+      "explaining_experience",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_040",
+    "module": "shadowing",
+    "level": 3,
+    "category": "Explaining Experience",
+    "text": "I improved my work by asking for feedback.",
+    "tip": "Use this to describe your previous work clearly.",
+    "repeatCount": 3,
+    "futureTags": [
+      "explaining_experience",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_041",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Giving Status Updates",
+    "text": "I am currently checking the details.",
+    "tip": "Use this to update someone on progress or blockers.",
+    "repeatCount": 3,
+    "futureTags": [
+      "giving_status_updates",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_042",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Giving Status Updates",
+    "text": "I will update you shortly.",
+    "tip": "Use this to update someone on progress or blockers.",
+    "repeatCount": 3,
+    "futureTags": [
+      "giving_status_updates",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_043",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Giving Status Updates",
+    "text": "The task is still in progress.",
+    "tip": "Use this to update someone on progress or blockers.",
+    "repeatCount": 3,
+    "futureTags": [
+      "giving_status_updates",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_044",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Giving Status Updates",
+    "text": "I have completed the first part of the task.",
+    "tip": "Use this to update someone on progress or blockers.",
+    "repeatCount": 3,
+    "futureTags": [
+      "giving_status_updates",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_045",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Giving Status Updates",
+    "text": "I found one issue that needs review.",
+    "tip": "Use this to update someone on progress or blockers.",
+    "repeatCount": 3,
+    "futureTags": [
+      "giving_status_updates",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_046",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Giving Status Updates",
+    "text": "I am waiting for one more detail before I continue.",
+    "tip": "Use this to update someone on progress or blockers.",
+    "repeatCount": 3,
+    "futureTags": [
+      "giving_status_updates",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_047",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Giving Status Updates",
+    "text": "I will confirm once the review is complete.",
+    "tip": "Use this to update someone on progress or blockers.",
+    "repeatCount": 3,
+    "futureTags": [
+      "giving_status_updates",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_048",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Giving Status Updates",
+    "text": "The information has been updated in the file.",
+    "tip": "Use this to update someone on progress or blockers.",
+    "repeatCount": 3,
+    "futureTags": [
+      "giving_status_updates",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_049",
+    "module": "shadowing",
+    "level": 3,
+    "category": "Giving Status Updates",
+    "text": "I need a little more time to verify this properly.",
+    "tip": "Use this to update someone on progress or blockers.",
+    "repeatCount": 3,
+    "futureTags": [
+      "giving_status_updates",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_050",
+    "module": "shadowing",
+    "level": 3,
+    "category": "Giving Status Updates",
+    "text": "I will share the final update before the deadline.",
+    "tip": "Use this to update someone on progress or blockers.",
+    "repeatCount": 3,
+    "futureTags": [
+      "giving_status_updates",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_051",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Handling Confusion",
+    "text": "I’m not fully sure, but I can check.",
+    "tip": "Use this when you are unsure and need to avoid guessing.",
+    "repeatCount": 3,
+    "futureTags": [
+      "handling_confusion",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_052",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Handling Confusion",
+    "text": "I may need a little more context.",
+    "tip": "Use this when you are unsure and need to avoid guessing.",
+    "repeatCount": 3,
+    "futureTags": [
+      "handling_confusion",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_053",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Handling Confusion",
+    "text": "I understand part of the request, but not the full detail.",
+    "tip": "Use this when you are unsure and need to avoid guessing.",
+    "repeatCount": 3,
+    "futureTags": [
+      "handling_confusion",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_054",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Handling Confusion",
+    "text": "Let me check the instructions again.",
+    "tip": "Use this when you are unsure and need to avoid guessing.",
+    "repeatCount": 3,
+    "futureTags": [
+      "handling_confusion",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_055",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Handling Confusion",
+    "text": "I don’t want to give you the wrong answer.",
+    "tip": "Use this when you are unsure and need to avoid guessing.",
+    "repeatCount": 3,
+    "futureTags": [
+      "handling_confusion",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_056",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Handling Confusion",
+    "text": "I will review the information and come back with a clear answer.",
+    "tip": "Use this when you are unsure and need to avoid guessing.",
+    "repeatCount": 3,
+    "futureTags": [
+      "handling_confusion",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_057",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Handling Confusion",
+    "text": "Could you please point me to the correct file?",
+    "tip": "Use this when you are unsure and need to avoid guessing.",
+    "repeatCount": 3,
+    "futureTags": [
+      "handling_confusion",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_058",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Handling Confusion",
+    "text": "I think I understand, but I want to confirm one thing.",
+    "tip": "Use this when you are unsure and need to avoid guessing.",
+    "repeatCount": 3,
+    "futureTags": [
+      "handling_confusion",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_059",
+    "module": "shadowing",
+    "level": 3,
+    "category": "Handling Confusion",
+    "text": "There may be a small misunderstanding here.",
+    "tip": "Use this when you are unsure and need to avoid guessing.",
+    "repeatCount": 3,
+    "futureTags": [
+      "handling_confusion",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_060",
+    "module": "shadowing",
+    "level": 3,
+    "category": "Handling Confusion",
+    "text": "Let’s clarify the requirement before I continue.",
+    "tip": "Use this when you are unsure and need to avoid guessing.",
+    "repeatCount": 3,
+    "futureTags": [
+      "handling_confusion",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_061",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Customer Support",
+    "text": "I understand your concern.",
+    "tip": "Use this to respond politely and professionally to customers.",
+    "repeatCount": 3,
+    "futureTags": [
+      "customer_support",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_062",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Customer Support",
+    "text": "Thank you for your patience.",
+    "tip": "Use this to respond politely and professionally to customers.",
+    "repeatCount": 3,
+    "futureTags": [
+      "customer_support",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_063",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Customer Support",
+    "text": "Let me check that for you.",
+    "tip": "Use this to respond politely and professionally to customers.",
+    "repeatCount": 3,
+    "futureTags": [
+      "customer_support",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_064",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Customer Support",
+    "text": "I’ll look into this and get back to you.",
+    "tip": "Use this to respond politely and professionally to customers.",
+    "repeatCount": 3,
+    "futureTags": [
+      "customer_support",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_065",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Customer Support",
+    "text": "I’m sorry for the inconvenience.",
+    "tip": "Use this to respond politely and professionally to customers.",
+    "repeatCount": 3,
+    "futureTags": [
+      "customer_support",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_066",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Customer Support",
+    "text": "I can help you with that.",
+    "tip": "Use this to respond politely and professionally to customers.",
+    "repeatCount": 3,
+    "futureTags": [
+      "customer_support",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_067",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Customer Support",
+    "text": "Please allow me a moment to review this.",
+    "tip": "Use this to respond politely and professionally to customers.",
+    "repeatCount": 3,
+    "futureTags": [
+      "customer_support",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_068",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Customer Support",
+    "text": "I have checked the details for you.",
+    "tip": "Use this to respond politely and professionally to customers.",
+    "repeatCount": 3,
+    "futureTags": [
+      "customer_support",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_069",
+    "module": "shadowing",
+    "level": 3,
+    "category": "Customer Support",
+    "text": "Here is what I found.",
+    "tip": "Use this to respond politely and professionally to customers.",
+    "repeatCount": 3,
+    "futureTags": [
+      "customer_support",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_070",
+    "module": "shadowing",
+    "level": 3,
+    "category": "Customer Support",
+    "text": "I will escalate this to the appropriate team.",
+    "tip": "Use this to respond politely and professionally to customers.",
+    "repeatCount": 3,
+    "futureTags": [
+      "customer_support",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_071",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Confidence Building",
+    "text": "I can explain that step by step.",
+    "tip": "Use this to build confident, clear speaking habits.",
+    "repeatCount": 3,
+    "futureTags": [
+      "confidence_building",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_072",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Confidence Building",
+    "text": "I am comfortable with this type of task.",
+    "tip": "Use this to build confident, clear speaking habits.",
+    "repeatCount": 3,
+    "futureTags": [
+      "confidence_building",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_073",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Confidence Building",
+    "text": "I have handled similar work before.",
+    "tip": "Use this to build confident, clear speaking habits.",
+    "repeatCount": 3,
+    "futureTags": [
+      "confidence_building",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_074",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Confidence Building",
+    "text": "I can learn the process quickly.",
+    "tip": "Use this to build confident, clear speaking habits.",
+    "repeatCount": 3,
+    "futureTags": [
+      "confidence_building",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_075",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Confidence Building",
+    "text": "I will do my best to complete this accurately.",
+    "tip": "Use this to build confident, clear speaking habits.",
+    "repeatCount": 3,
+    "futureTags": [
+      "confidence_building",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_076",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Confidence Building",
+    "text": "I am improving with regular practice.",
+    "tip": "Use this to build confident, clear speaking habits.",
+    "repeatCount": 3,
+    "futureTags": [
+      "confidence_building",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_077",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Confidence Building",
+    "text": "I can communicate clearly if I prepare properly.",
+    "tip": "Use this to build confident, clear speaking habits.",
+    "repeatCount": 3,
+    "futureTags": [
+      "confidence_building",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_078",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Confidence Building",
+    "text": "I am not afraid to ask questions when needed.",
+    "tip": "Use this to build confident, clear speaking habits.",
+    "repeatCount": 3,
+    "futureTags": [
+      "confidence_building",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_079",
+    "module": "shadowing",
+    "level": 3,
+    "category": "Confidence Building",
+    "text": "I try to stay calm under pressure.",
+    "tip": "Use this to build confident, clear speaking habits.",
+    "repeatCount": 3,
+    "futureTags": [
+      "confidence_building",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_080",
+    "module": "shadowing",
+    "level": 3,
+    "category": "Confidence Building",
+    "text": "I believe I can add value to the team.",
+    "tip": "Use this to build confident, clear speaking habits.",
+    "repeatCount": 3,
+    "futureTags": [
+      "confidence_building",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_081",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Grammar Pattern Practice",
+    "text": "I have worked on this before.",
+    "tip": "Use this to practice common grammar structures out loud.",
+    "repeatCount": 3,
+    "futureTags": [
+      "grammar_pattern_practice",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_082",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Grammar Pattern Practice",
+    "text": "I worked on this last month.",
+    "tip": "Use this to practice common grammar structures out loud.",
+    "repeatCount": 3,
+    "futureTags": [
+      "grammar_pattern_practice",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_083",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Grammar Pattern Practice",
+    "text": "I am working on this now.",
+    "tip": "Use this to practice common grammar structures out loud.",
+    "repeatCount": 3,
+    "futureTags": [
+      "grammar_pattern_practice",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_084",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Grammar Pattern Practice",
+    "text": "I will work on this tomorrow.",
+    "tip": "Use this to practice common grammar structures out loud.",
+    "repeatCount": 3,
+    "futureTags": [
+      "grammar_pattern_practice",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_085",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Grammar Pattern Practice",
+    "text": "I have been learning English for several months.",
+    "tip": "Use this to practice common grammar structures out loud.",
+    "repeatCount": 3,
+    "futureTags": [
+      "grammar_pattern_practice",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_086",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Grammar Pattern Practice",
+    "text": "I am responsible for checking the data.",
+    "tip": "Use this to practice common grammar structures out loud.",
+    "repeatCount": 3,
+    "futureTags": [
+      "grammar_pattern_practice",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_087",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Grammar Pattern Practice",
+    "text": "I was responsible for checking the data.",
+    "tip": "Use this to practice common grammar structures out loud.",
+    "repeatCount": 3,
+    "futureTags": [
+      "grammar_pattern_practice",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_088",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Grammar Pattern Practice",
+    "text": "I need to improve my speaking confidence.",
+    "tip": "Use this to practice common grammar structures out loud.",
+    "repeatCount": 3,
+    "futureTags": [
+      "grammar_pattern_practice",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_089",
+    "module": "shadowing",
+    "level": 3,
+    "category": "Grammar Pattern Practice",
+    "text": "I would like to improve my interview answers.",
+    "tip": "Use this to practice common grammar structures out loud.",
+    "repeatCount": 3,
+    "futureTags": [
+      "grammar_pattern_practice",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_090",
+    "module": "shadowing",
+    "level": 3,
+    "category": "Grammar Pattern Practice",
+    "text": "I am able to follow clear instructions.",
+    "tip": "Use this to practice common grammar structures out loud.",
+    "repeatCount": 3,
+    "futureTags": [
+      "grammar_pattern_practice",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_091",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Professional Small Talk",
+    "text": "Good morning, how are you today?",
+    "tip": "Use this for polite professional openings and closings.",
+    "repeatCount": 3,
+    "futureTags": [
+      "professional_small_talk",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_092",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Professional Small Talk",
+    "text": "I hope you’re doing well.",
+    "tip": "Use this for polite professional openings and closings.",
+    "repeatCount": 3,
+    "futureTags": [
+      "professional_small_talk",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_093",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Professional Small Talk",
+    "text": "It’s nice to meet you.",
+    "tip": "Use this for polite professional openings and closings.",
+    "repeatCount": 3,
+    "futureTags": [
+      "professional_small_talk",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_094",
+    "module": "shadowing",
+    "level": 1,
+    "category": "Professional Small Talk",
+    "text": "Thank you for taking the time to speak with me.",
+    "tip": "Use this for polite professional openings and closings.",
+    "repeatCount": 3,
+    "futureTags": [
+      "professional_small_talk",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_095",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Professional Small Talk",
+    "text": "How has your day been so far?",
+    "tip": "Use this for polite professional openings and closings.",
+    "repeatCount": 3,
+    "futureTags": [
+      "professional_small_talk",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_096",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Professional Small Talk",
+    "text": "I’m doing well, thank you for asking.",
+    "tip": "Use this for polite professional openings and closings.",
+    "repeatCount": 3,
+    "futureTags": [
+      "professional_small_talk",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_097",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Professional Small Talk",
+    "text": "I appreciate your time today.",
+    "tip": "Use this for polite professional openings and closings.",
+    "repeatCount": 3,
+    "futureTags": [
+      "professional_small_talk",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_098",
+    "module": "shadowing",
+    "level": 2,
+    "category": "Professional Small Talk",
+    "text": "I look forward to learning more about the role.",
+    "tip": "Use this for polite professional openings and closings.",
+    "repeatCount": 3,
+    "futureTags": [
+      "professional_small_talk",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_099",
+    "module": "shadowing",
+    "level": 3,
+    "category": "Professional Small Talk",
+    "text": "It was nice speaking with you.",
+    "tip": "Use this for polite professional openings and closings.",
+    "repeatCount": 3,
+    "futureTags": [
+      "professional_small_talk",
+      "shadowing",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "shadow_100",
+    "module": "shadowing",
+    "level": 3,
+    "category": "Professional Small Talk",
+    "text": "Have a great rest of your day.",
+    "tip": "Use this for polite professional openings and closings.",
+    "repeatCount": 3,
+    "futureTags": [
+      "professional_small_talk",
+      "shadowing",
+      "speaking_practice"
+    ]
+  }
+]

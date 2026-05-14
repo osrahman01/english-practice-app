@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "builder_001",
+    "module": "sentenceBuilder",
+    "level": 1,
+    "category": "Explaining Experience",
+    "title": "Explaining previous work",
+    "steps": [
+      "I worked.",
+      "I worked on reports.",
+      "I worked on weekly reports.",
+      "I worked on weekly performance reports.",
+      "I worked on weekly performance reports for multiple clients."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "explaining_experience",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_002",
+    "module": "sentenceBuilder",
+    "level": 1,
+    "category": "Explaining Experience",
+    "title": "Describing responsibilities",
+    "steps": [
+      "I was responsible.",
+      "I was responsible for checking data.",
+      "I was responsible for checking data every day.",
+      "I was responsible for checking data and updating the team.",
+      "I was responsible for checking data and updating the team before the deadline."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "explaining_experience",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_003",
+    "module": "sentenceBuilder",
+    "level": 1,
+    "category": "Interview Basics",
+    "title": "Introducing your background",
+    "steps": [
+      "I have experience.",
+      "I have experience in customer support.",
+      "I have experience in customer support and communication.",
+      "I have experience in customer support and communication with clients.",
+      "I have experience in customer support and communication with clients through chat and email."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "interview_basics",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_004",
+    "module": "sentenceBuilder",
+    "level": 1,
+    "category": "Interview Basics",
+    "title": "Explaining a strength",
+    "steps": [
+      "I am organized.",
+      "I am organized with my tasks.",
+      "I am organized with my tasks and deadlines.",
+      "I am organized with my tasks and deadlines, especially when work is busy.",
+      "I am organized with my tasks and deadlines, especially when work is busy and priorities change."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "interview_basics",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_005",
+    "module": "sentenceBuilder",
+    "level": 1,
+    "category": "Clarification",
+    "title": "Asking for repetition",
+    "steps": [
+      "Please repeat that.",
+      "Could you please repeat that?",
+      "Could you please repeat the last part?",
+      "Could you please repeat the last part more slowly?",
+      "Could you please repeat the last part more slowly so I can answer correctly?"
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "clarification",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_006",
+    "module": "sentenceBuilder",
+    "level": 1,
+    "category": "Clarification",
+    "title": "Checking understanding",
+    "steps": [
+      "I understood the point.",
+      "I think I understood the point.",
+      "I think I understood the main point.",
+      "I think I understood the main point, but I want to confirm one detail.",
+      "I think I understood the main point, but I want to confirm one detail before I answer."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "clarification",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_007",
+    "module": "sentenceBuilder",
+    "level": 1,
+    "category": "Giving Status Updates",
+    "title": "Updating progress",
+    "steps": [
+      "I checked it.",
+      "I checked the file.",
+      "I checked the file and found an issue.",
+      "I checked the file and found an issue that needs review.",
+      "I checked the file and found an issue that needs review before we continue."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "giving_status_updates",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_008",
+    "module": "sentenceBuilder",
+    "level": 1,
+    "category": "Giving Status Updates",
+    "title": "Explaining a delay",
+    "steps": [
+      "I need time.",
+      "I need a little more time.",
+      "I need a little more time to check this.",
+      "I need a little more time to check this properly.",
+      "I need a little more time to check this properly and avoid giving the wrong answer."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "giving_status_updates",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_009",
+    "module": "sentenceBuilder",
+    "level": 1,
+    "category": "Customer Support",
+    "title": "Showing empathy",
+    "steps": [
+      "I understand.",
+      "I understand your concern.",
+      "I understand your concern and I’m checking this.",
+      "I understand your concern and I’m checking this for you.",
+      "I understand your concern and I’m checking this for you as carefully as possible."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "customer_support",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_010",
+    "module": "sentenceBuilder",
+    "level": 1,
+    "category": "Customer Support",
+    "title": "Offering help",
+    "steps": [
+      "I can help.",
+      "I can help you.",
+      "I can help you with that.",
+      "I can help you with that and guide you through the next step.",
+      "I can help you with that and guide you through the next step if you can share a few details."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "customer_support",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_011",
+    "module": "sentenceBuilder",
+    "level": 1,
+    "category": "Confidence Building",
+    "title": "Explaining confidence",
+    "steps": [
+      "I can do this.",
+      "I can do this task.",
+      "I can do this task with guidance.",
+      "I can do this task with guidance and regular practice.",
+      "I can do this task with guidance and regular practice, and I am willing to learn."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "confidence_building",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_012",
+    "module": "sentenceBuilder",
+    "level": 1,
+    "category": "Confidence Building",
+    "title": "Learning new tools",
+    "steps": [
+      "I can learn.",
+      "I can learn new tools.",
+      "I can learn new tools quickly.",
+      "I can learn new tools quickly if I get clear instructions.",
+      "I can learn new tools quickly if I get clear instructions and enough practice."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "confidence_building",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_013",
+    "module": "sentenceBuilder",
+    "level": 1,
+    "category": "Grammar Pattern Practice",
+    "title": "Present perfect practice",
+    "steps": [
+      "I have worked.",
+      "I have worked on reports.",
+      "I have worked on reports before.",
+      "I have worked on reports before in my previous role.",
+      "I have worked on reports before in my previous role and I am comfortable with similar tasks."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "grammar_pattern_practice",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_014",
+    "module": "sentenceBuilder",
+    "level": 1,
+    "category": "Grammar Pattern Practice",
+    "title": "Past simple practice",
+    "steps": [
+      "I completed it.",
+      "I completed the task.",
+      "I completed the task yesterday.",
+      "I completed the task yesterday and shared the update.",
+      "I completed the task yesterday and shared the update with the team."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "grammar_pattern_practice",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_015",
+    "module": "sentenceBuilder",
+    "level": 1,
+    "category": "Professional Small Talk",
+    "title": "Starting a conversation",
+    "steps": [
+      "Good morning.",
+      "Good morning, how are you?",
+      "Good morning, how are you today?",
+      "Good morning, I hope you’re doing well today.",
+      "Good morning, I hope you’re doing well today and thank you for speaking with me."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "professional_small_talk",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_016",
+    "module": "sentenceBuilder",
+    "level": 1,
+    "category": "Interview Basics",
+    "title": "Answering why this role 16",
+    "steps": [
+      "I am interested.",
+      "I am interested in this role.",
+      "I am interested in this role because it matches my skills.",
+      "I am interested in this role because it matches my skills and goals.",
+      "I am interested in this role because it matches my skills and gives me room to grow."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "interview_basics",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_017",
+    "module": "sentenceBuilder",
+    "level": 2,
+    "category": "Interview Basics",
+    "title": "Discussing weakness 17",
+    "steps": [
+      "I am improving.",
+      "I am improving my English.",
+      "I am improving my English speaking skills.",
+      "I am improving my English speaking skills through daily practice.",
+      "I am improving my English speaking skills through daily practice and structured interview preparation."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "interview_basics",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_018",
+    "module": "sentenceBuilder",
+    "level": 2,
+    "category": "Explaining Experience",
+    "title": "Describing tools 18",
+    "steps": [
+      "I used tools.",
+      "I used online tools.",
+      "I used online tools for daily work.",
+      "I used online tools for daily work, reporting, and communication.",
+      "I used online tools for daily work, reporting, and communication with team members."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "explaining_experience",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_019",
+    "module": "sentenceBuilder",
+    "level": 2,
+    "category": "Explaining Experience",
+    "title": "Explaining teamwork 19",
+    "steps": [
+      "I worked with a team.",
+      "I worked with a small team.",
+      "I worked with a small team on daily tasks.",
+      "I worked with a small team on daily tasks and shared updates regularly.",
+      "I worked with a small team on daily tasks and shared updates regularly to keep everyone aligned."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "explaining_experience",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_020",
+    "module": "sentenceBuilder",
+    "level": 2,
+    "category": "Clarification",
+    "title": "Clarifying deadline 20",
+    "steps": [
+      "When is it due?",
+      "Could you tell me when it is due?",
+      "Could you tell me when this task is due?",
+      "Could you tell me when this task is due so I can plan properly?",
+      "Could you tell me when this task is due so I can plan properly and prioritize the work?"
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "clarification",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_021",
+    "module": "sentenceBuilder",
+    "level": 2,
+    "category": "Polite Requests",
+    "title": "Requesting details 21",
+    "steps": [
+      "Please share details.",
+      "Could you please share the details?",
+      "Could you please share the details of the task?",
+      "Could you please share the details of the task and the expected outcome?",
+      "Could you please share the details of the task and the expected outcome so I can complete it correctly?"
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "polite_requests",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_022",
+    "module": "sentenceBuilder",
+    "level": 2,
+    "category": "Polite Requests",
+    "title": "Requesting review 22",
+    "steps": [
+      "Please review this.",
+      "Could you please review this?",
+      "Could you please review this when you have time?",
+      "Could you please review this when you have time and let me know if changes are needed?",
+      "Could you please review this when you have time and let me know if any changes are needed before submission?"
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "polite_requests",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_023",
+    "module": "sentenceBuilder",
+    "level": 2,
+    "category": "Giving Status Updates",
+    "title": "Completed task 23",
+    "steps": [
+      "It is done.",
+      "The task is done.",
+      "The task is done and updated.",
+      "The task is done and updated in the file.",
+      "The task is done and updated in the file for your review."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "giving_status_updates",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_024",
+    "module": "sentenceBuilder",
+    "level": 2,
+    "category": "Handling Confusion",
+    "title": "Avoiding guessing 24",
+    "steps": [
+      "I am not sure.",
+      "I am not fully sure.",
+      "I am not fully sure, so I will check.",
+      "I am not fully sure, so I will check before answering.",
+      "I am not fully sure, so I will check before answering to avoid giving incorrect information."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "handling_confusion",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_025",
+    "module": "sentenceBuilder",
+    "level": 2,
+    "category": "Customer Support",
+    "title": "Acknowledging issue 25",
+    "steps": [
+      "I see the issue.",
+      "I see the issue you mentioned.",
+      "I see the issue you mentioned and I’m checking it.",
+      "I see the issue you mentioned and I’m checking the details now.",
+      "I see the issue you mentioned and I’m checking the details now so I can guide you correctly."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "customer_support",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_026",
+    "module": "sentenceBuilder",
+    "level": 2,
+    "category": "Confidence Building",
+    "title": "Handling pressure 26",
+    "steps": [
+      "I stay calm.",
+      "I try to stay calm.",
+      "I try to stay calm under pressure.",
+      "I try to stay calm under pressure and focus on the next step.",
+      "I try to stay calm under pressure and focus on the next step instead of rushing."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "confidence_building",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_027",
+    "module": "sentenceBuilder",
+    "level": 2,
+    "category": "Grammar Pattern Practice",
+    "title": "For vs since 27",
+    "steps": [
+      "I have worked here.",
+      "I have worked here for one year.",
+      "I have worked here since last year.",
+      "I have worked here for one year and learned many things.",
+      "I have worked here for one year and learned many things from my team."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "grammar_pattern_practice",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_028",
+    "module": "sentenceBuilder",
+    "level": 2,
+    "category": "Professional Small Talk",
+    "title": "Meeting opening 28",
+    "steps": [
+      "Nice to meet you.",
+      "It’s nice to meet you.",
+      "It’s nice to meet you and thank you for your time.",
+      "It’s nice to meet you and thank you for taking the time to speak with me.",
+      "It’s nice to meet you and thank you for taking the time to speak with me today."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "professional_small_talk",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_029",
+    "module": "sentenceBuilder",
+    "level": 2,
+    "category": "Interview Basics",
+    "title": "Answering why this role 29",
+    "steps": [
+      "I am interested.",
+      "I am interested in this role.",
+      "I am interested in this role because it matches my skills.",
+      "I am interested in this role because it matches my skills and goals.",
+      "I am interested in this role because it matches my skills and gives me room to grow."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "interview_basics",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_030",
+    "module": "sentenceBuilder",
+    "level": 2,
+    "category": "Interview Basics",
+    "title": "Discussing weakness 30",
+    "steps": [
+      "I am improving.",
+      "I am improving my English.",
+      "I am improving my English speaking skills.",
+      "I am improving my English speaking skills through daily practice.",
+      "I am improving my English speaking skills through daily practice and structured interview preparation."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "interview_basics",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_031",
+    "module": "sentenceBuilder",
+    "level": 2,
+    "category": "Explaining Experience",
+    "title": "Describing tools 31",
+    "steps": [
+      "I used tools.",
+      "I used online tools.",
+      "I used online tools for daily work.",
+      "I used online tools for daily work, reporting, and communication.",
+      "I used online tools for daily work, reporting, and communication with team members."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "explaining_experience",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_032",
+    "module": "sentenceBuilder",
+    "level": 2,
+    "category": "Explaining Experience",
+    "title": "Explaining teamwork 32",
+    "steps": [
+      "I worked with a team.",
+      "I worked with a small team.",
+      "I worked with a small team on daily tasks.",
+      "I worked with a small team on daily tasks and shared updates regularly.",
+      "I worked with a small team on daily tasks and shared updates regularly to keep everyone aligned."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "explaining_experience",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_033",
+    "module": "sentenceBuilder",
+    "level": 2,
+    "category": "Clarification",
+    "title": "Clarifying deadline 33",
+    "steps": [
+      "When is it due?",
+      "Could you tell me when it is due?",
+      "Could you tell me when this task is due?",
+      "Could you tell me when this task is due so I can plan properly?",
+      "Could you tell me when this task is due so I can plan properly and prioritize the work?"
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "clarification",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_034",
+    "module": "sentenceBuilder",
+    "level": 2,
+    "category": "Polite Requests",
+    "title": "Requesting details 34",
+    "steps": [
+      "Please share details.",
+      "Could you please share the details?",
+      "Could you please share the details of the task?",
+      "Could you please share the details of the task and the expected outcome?",
+      "Could you please share the details of the task and the expected outcome so I can complete it correctly?"
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "polite_requests",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_035",
+    "module": "sentenceBuilder",
+    "level": 3,
+    "category": "Polite Requests",
+    "title": "Requesting review 35",
+    "steps": [
+      "Please review this.",
+      "Could you please review this?",
+      "Could you please review this when you have time?",
+      "Could you please review this when you have time and let me know if changes are needed?",
+      "Could you please review this when you have time and let me know if any changes are needed before submission?"
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "polite_requests",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_036",
+    "module": "sentenceBuilder",
+    "level": 3,
+    "category": "Giving Status Updates",
+    "title": "Completed task 36",
+    "steps": [
+      "It is done.",
+      "The task is done.",
+      "The task is done and updated.",
+      "The task is done and updated in the file.",
+      "The task is done and updated in the file for your review."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "giving_status_updates",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_037",
+    "module": "sentenceBuilder",
+    "level": 3,
+    "category": "Handling Confusion",
+    "title": "Avoiding guessing 37",
+    "steps": [
+      "I am not sure.",
+      "I am not fully sure.",
+      "I am not fully sure, so I will check.",
+      "I am not fully sure, so I will check before answering.",
+      "I am not fully sure, so I will check before answering to avoid giving incorrect information."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "handling_confusion",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_038",
+    "module": "sentenceBuilder",
+    "level": 3,
+    "category": "Customer Support",
+    "title": "Acknowledging issue 38",
+    "steps": [
+      "I see the issue.",
+      "I see the issue you mentioned.",
+      "I see the issue you mentioned and I’m checking it.",
+      "I see the issue you mentioned and I’m checking the details now.",
+      "I see the issue you mentioned and I’m checking the details now so I can guide you correctly."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "customer_support",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_039",
+    "module": "sentenceBuilder",
+    "level": 3,
+    "category": "Confidence Building",
+    "title": "Handling pressure 39",
+    "steps": [
+      "I stay calm.",
+      "I try to stay calm.",
+      "I try to stay calm under pressure.",
+      "I try to stay calm under pressure and focus on the next step.",
+      "I try to stay calm under pressure and focus on the next step instead of rushing."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "confidence_building",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_040",
+    "module": "sentenceBuilder",
+    "level": 3,
+    "category": "Grammar Pattern Practice",
+    "title": "For vs since 40",
+    "steps": [
+      "I have worked here.",
+      "I have worked here for one year.",
+      "I have worked here since last year.",
+      "I have worked here for one year and learned many things.",
+      "I have worked here for one year and learned many things from my team."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "grammar_pattern_practice",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_041",
+    "module": "sentenceBuilder",
+    "level": 3,
+    "category": "Professional Small Talk",
+    "title": "Meeting opening 41",
+    "steps": [
+      "Nice to meet you.",
+      "It’s nice to meet you.",
+      "It’s nice to meet you and thank you for your time.",
+      "It’s nice to meet you and thank you for taking the time to speak with me.",
+      "It’s nice to meet you and thank you for taking the time to speak with me today."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "professional_small_talk",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_042",
+    "module": "sentenceBuilder",
+    "level": 3,
+    "category": "Interview Basics",
+    "title": "Answering why this role 42",
+    "steps": [
+      "I am interested.",
+      "I am interested in this role.",
+      "I am interested in this role because it matches my skills.",
+      "I am interested in this role because it matches my skills and goals.",
+      "I am interested in this role because it matches my skills and gives me room to grow."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "interview_basics",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_043",
+    "module": "sentenceBuilder",
+    "level": 3,
+    "category": "Interview Basics",
+    "title": "Discussing weakness 43",
+    "steps": [
+      "I am improving.",
+      "I am improving my English.",
+      "I am improving my English speaking skills.",
+      "I am improving my English speaking skills through daily practice.",
+      "I am improving my English speaking skills through daily practice and structured interview preparation."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "interview_basics",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_044",
+    "module": "sentenceBuilder",
+    "level": 3,
+    "category": "Explaining Experience",
+    "title": "Describing tools 44",
+    "steps": [
+      "I used tools.",
+      "I used online tools.",
+      "I used online tools for daily work.",
+      "I used online tools for daily work, reporting, and communication.",
+      "I used online tools for daily work, reporting, and communication with team members."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "explaining_experience",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_045",
+    "module": "sentenceBuilder",
+    "level": 3,
+    "category": "Explaining Experience",
+    "title": "Explaining teamwork 45",
+    "steps": [
+      "I worked with a team.",
+      "I worked with a small team.",
+      "I worked with a small team on daily tasks.",
+      "I worked with a small team on daily tasks and shared updates regularly.",
+      "I worked with a small team on daily tasks and shared updates regularly to keep everyone aligned."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "explaining_experience",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_046",
+    "module": "sentenceBuilder",
+    "level": 3,
+    "category": "Clarification",
+    "title": "Clarifying deadline 46",
+    "steps": [
+      "When is it due?",
+      "Could you tell me when it is due?",
+      "Could you tell me when this task is due?",
+      "Could you tell me when this task is due so I can plan properly?",
+      "Could you tell me when this task is due so I can plan properly and prioritize the work?"
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "clarification",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_047",
+    "module": "sentenceBuilder",
+    "level": 3,
+    "category": "Polite Requests",
+    "title": "Requesting details 47",
+    "steps": [
+      "Please share details.",
+      "Could you please share the details?",
+      "Could you please share the details of the task?",
+      "Could you please share the details of the task and the expected outcome?",
+      "Could you please share the details of the task and the expected outcome so I can complete it correctly?"
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "polite_requests",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_048",
+    "module": "sentenceBuilder",
+    "level": 3,
+    "category": "Polite Requests",
+    "title": "Requesting review 48",
+    "steps": [
+      "Please review this.",
+      "Could you please review this?",
+      "Could you please review this when you have time?",
+      "Could you please review this when you have time and let me know if changes are needed?",
+      "Could you please review this when you have time and let me know if any changes are needed before submission?"
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "polite_requests",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_049",
+    "module": "sentenceBuilder",
+    "level": 3,
+    "category": "Giving Status Updates",
+    "title": "Completed task 49",
+    "steps": [
+      "It is done.",
+      "The task is done.",
+      "The task is done and updated.",
+      "The task is done and updated in the file.",
+      "The task is done and updated in the file for your review."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "giving_status_updates",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "builder_050",
+    "module": "sentenceBuilder",
+    "level": 3,
+    "category": "Handling Confusion",
+    "title": "Avoiding guessing 50",
+    "steps": [
+      "I am not sure.",
+      "I am not fully sure.",
+      "I am not fully sure, so I will check.",
+      "I am not fully sure, so I will check before answering.",
+      "I am not fully sure, so I will check before answering to avoid giving incorrect information."
+    ],
+    "tip": "Repeat each step out loud before moving to the longer version.",
+    "futureTags": [
+      "handling_confusion",
+      "sentence_expansion",
+      "speaking_practice"
+    ]
+  }
+]

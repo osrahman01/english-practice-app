@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "listening_001",
+    "module": "listeningComprehension",
+    "level": 1,
+    "category": "Interview Basics",
+    "audioText": "Could you walk me through your previous experience?",
+    "question": "What is the speaker asking?",
+    "options": [
+      "They want you to explain your past work step by step.",
+      "They are asking about salary.",
+      "They are asking for a home address.",
+      "They are ending the conversation."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The phrase 'walk me through' means explain step by step.",
+    "futureTags": [
+      "interview_basics",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_002",
+    "module": "listeningComprehension",
+    "level": 1,
+    "category": "Interview Basics",
+    "audioText": "Tell me about a time you handled a difficult task.",
+    "question": "What should you talk about?",
+    "options": [
+      "Your favorite hobby.",
+      "A specific challenging task and how you handled it.",
+      "Your salary expectation.",
+      "Your commute."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "They want a specific example, not a general statement.",
+    "futureTags": [
+      "interview_basics",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_003",
+    "module": "listeningComprehension",
+    "level": 1,
+    "category": "Clarification",
+    "audioText": "Could you clarify the last point?",
+    "question": "What does the speaker need?",
+    "options": [
+      "They need the last point explained more clearly.",
+      "They are agreeing completely.",
+      "They want to end the call.",
+      "They are asking about lunch."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Clarify means make something clearer.",
+    "futureTags": [
+      "clarification",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_004",
+    "module": "listeningComprehension",
+    "level": 1,
+    "category": "Polite Requests",
+    "audioText": "Could you please send the details by email?",
+    "question": "What is being requested?",
+    "options": [
+      "A phone call only.",
+      "Written details by email.",
+      "A meeting cancellation.",
+      "A salary increase."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "The speaker wants the information in writing.",
+    "futureTags": [
+      "polite_requests",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_005",
+    "module": "listeningComprehension",
+    "level": 1,
+    "category": "Giving Status Updates",
+    "audioText": "I have completed the first part of the task.",
+    "question": "What does this mean?",
+    "options": [
+      "The entire task is cancelled.",
+      "Only the first part is done.",
+      "The task has not started.",
+      "The deadline changed."
+    ],
+    "correctAnswerIndex": 1,
+    "explanation": "First part completed means there is more work remaining.",
+    "futureTags": [
+      "giving_status_updates",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_006",
+    "module": "listeningComprehension",
+    "level": 1,
+    "category": "Customer Support",
+    "audioText": "Thank you for your patience while I check this for you.",
+    "question": "What is the speaker doing?",
+    "options": [
+      "Asking the customer to wait politely.",
+      "Blaming the customer.",
+      "Ending the conversation angrily.",
+      "Ignoring the issue."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "This is a polite support phrase during checking.",
+    "futureTags": [
+      "customer_support",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_007",
+    "module": "listeningComprehension",
+    "level": 1,
+    "category": "Handling Confusion",
+    "audioText": "I may need a little more context before I answer.",
+    "question": "What does the speaker need?",
+    "options": [
+      "More background information.",
+      "A salary raise.",
+      "A lunch break.",
+      "A new computer."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Context means background or additional information.",
+    "futureTags": [
+      "handling_confusion",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_008",
+    "module": "listeningComprehension",
+    "level": 1,
+    "category": "Confidence Building",
+    "audioText": "I can learn the process quickly if I get clear instructions.",
+    "question": "What is the speaker saying?",
+    "options": [
+      "They are willing to learn with guidance.",
+      "They refuse to learn.",
+      "They already know everything.",
+      "They need no instructions."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The sentence shows adaptability and willingness.",
+    "futureTags": [
+      "confidence_building",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_009",
+    "module": "listeningComprehension",
+    "level": 1,
+    "category": "Professional Small Talk",
+    "audioText": "Thank you for taking the time to speak with me today.",
+    "question": "When would someone say this?",
+    "options": [
+      "At the beginning or end of a professional conversation.",
+      "When ordering food.",
+      "When complaining about traffic.",
+      "When asking for a password."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "This is a polite professional phrase.",
+    "futureTags": [
+      "professional_small_talk",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_010",
+    "module": "listeningComprehension",
+    "level": 1,
+    "category": "Grammar Pattern Practice",
+    "audioText": "I have worked here for two years.",
+    "question": "What does 'for two years' show?",
+    "options": [
+      "A duration of time.",
+      "A starting date.",
+      "A place.",
+      "A mistake."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Use 'for' with a length of time.",
+    "futureTags": [
+      "grammar_pattern_practice",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_011",
+    "module": "listeningComprehension",
+    "level": 1,
+    "category": "Interview Basics",
+    "audioText": "What kind of work environment do you prefer?",
+    "question": "What should you describe?",
+    "options": [
+      "Your preferred professional work environment.",
+      "Your favorite restaurant.",
+      "Your family members.",
+      "Your home address."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The question asks about work style and environment.",
+    "futureTags": [
+      "interview_basics",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_012",
+    "module": "listeningComprehension",
+    "level": 1,
+    "category": "Explaining Experience",
+    "audioText": "What were your main responsibilities?",
+    "question": "What should you explain?",
+    "options": [
+      "The key tasks you handled in your role.",
+      "Your hobbies.",
+      "The interviewer’s responsibilities.",
+      "The company’s address."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Responsibilities means tasks you were expected to do.",
+    "futureTags": [
+      "explaining_experience",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_013",
+    "module": "listeningComprehension",
+    "level": 1,
+    "category": "Clarification",
+    "audioText": "Are you referring to the deadline or the task details?",
+    "question": "What is the speaker clarifying?",
+    "options": [
+      "Which specific point the other person means.",
+      "The lunch menu.",
+      "The customer’s name only.",
+      "A vacation plan."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The speaker is narrowing down the meaning.",
+    "futureTags": [
+      "clarification",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_014",
+    "module": "listeningComprehension",
+    "level": 1,
+    "category": "Polite Requests",
+    "audioText": "May I take a moment to check that?",
+    "question": "What is the speaker asking for?",
+    "options": [
+      "A short time to verify information.",
+      "Permission to leave the company.",
+      "A vacation day.",
+      "A new tool."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "They need time to check.",
+    "futureTags": [
+      "polite_requests",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_015",
+    "module": "listeningComprehension",
+    "level": 1,
+    "category": "Giving Status Updates",
+    "audioText": "The file has been updated for your review.",
+    "question": "What happened?",
+    "options": [
+      "The file was updated and is ready to be reviewed.",
+      "The file was deleted.",
+      "The task has not started.",
+      "The meeting was cancelled."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The update is complete and ready for review.",
+    "futureTags": [
+      "giving_status_updates",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_016",
+    "module": "listeningComprehension",
+    "level": 1,
+    "category": "Handling Confusion",
+    "audioText": "There may be a small misunderstanding here.",
+    "question": "What is the speaker suggesting?",
+    "options": [
+      "Something may not have been understood correctly.",
+      "Everything is perfect.",
+      "The work is complete.",
+      "The meeting is over."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A misunderstanding means confusion between people.",
+    "futureTags": [
+      "handling_confusion",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_017",
+    "module": "listeningComprehension",
+    "level": 1,
+    "category": "Customer Support",
+    "audioText": "I will escalate this to the appropriate team.",
+    "question": "What does escalate mean here?",
+    "options": [
+      "Send the issue to the right team for help.",
+      "Make the customer angry.",
+      "Delete the issue.",
+      "Ignore the request."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Escalate means pass the issue to someone better able to handle it.",
+    "futureTags": [
+      "customer_support",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_018",
+    "module": "listeningComprehension",
+    "level": 1,
+    "category": "Confidence Building",
+    "audioText": "I try to stay calm under pressure.",
+    "question": "What does this describe?",
+    "options": [
+      "How the speaker handles stressful situations.",
+      "A grammar rule only.",
+      "A vacation plan.",
+      "A customer complaint only."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "It describes work behavior under pressure.",
+    "futureTags": [
+      "confidence_building",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_019",
+    "module": "listeningComprehension",
+    "level": 2,
+    "category": "Professional Small Talk",
+    "audioText": "Have a great rest of your day.",
+    "question": "What type of phrase is this?",
+    "options": [
+      "A polite closing phrase.",
+      "A question about work history.",
+      "A complaint.",
+      "An instruction."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "It closes a conversation warmly.",
+    "futureTags": [
+      "professional_small_talk",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_020",
+    "module": "listeningComprehension",
+    "level": 2,
+    "category": "Grammar Pattern Practice",
+    "audioText": "I worked on this yesterday.",
+    "question": "What tense is this?",
+    "options": [
+      "Past simple.",
+      "Present continuous.",
+      "Future tense.",
+      "Present perfect continuous."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Worked' with yesterday is past simple.",
+    "futureTags": [
+      "grammar_pattern_practice",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_021",
+    "module": "listeningComprehension",
+    "level": 2,
+    "category": "Interview Basics",
+    "audioText": "What kind of work environment do you prefer?",
+    "question": "What should you describe?",
+    "options": [
+      "Your preferred professional work environment.",
+      "Your favorite restaurant.",
+      "Your family members.",
+      "Your home address."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The question asks about work style and environment.",
+    "futureTags": [
+      "interview_basics",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_022",
+    "module": "listeningComprehension",
+    "level": 2,
+    "category": "Explaining Experience",
+    "audioText": "What were your main responsibilities?",
+    "question": "What should you explain?",
+    "options": [
+      "The key tasks you handled in your role.",
+      "Your hobbies.",
+      "The interviewer’s responsibilities.",
+      "The company’s address."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Responsibilities means tasks you were expected to do.",
+    "futureTags": [
+      "explaining_experience",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_023",
+    "module": "listeningComprehension",
+    "level": 2,
+    "category": "Clarification",
+    "audioText": "Are you referring to the deadline or the task details?",
+    "question": "What is the speaker clarifying?",
+    "options": [
+      "Which specific point the other person means.",
+      "The lunch menu.",
+      "The customer’s name only.",
+      "A vacation plan."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The speaker is narrowing down the meaning.",
+    "futureTags": [
+      "clarification",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_024",
+    "module": "listeningComprehension",
+    "level": 2,
+    "category": "Polite Requests",
+    "audioText": "May I take a moment to check that?",
+    "question": "What is the speaker asking for?",
+    "options": [
+      "A short time to verify information.",
+      "Permission to leave the company.",
+      "A vacation day.",
+      "A new tool."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "They need time to check.",
+    "futureTags": [
+      "polite_requests",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_025",
+    "module": "listeningComprehension",
+    "level": 2,
+    "category": "Giving Status Updates",
+    "audioText": "The file has been updated for your review.",
+    "question": "What happened?",
+    "options": [
+      "The file was updated and is ready to be reviewed.",
+      "The file was deleted.",
+      "The task has not started.",
+      "The meeting was cancelled."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The update is complete and ready for review.",
+    "futureTags": [
+      "giving_status_updates",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_026",
+    "module": "listeningComprehension",
+    "level": 2,
+    "category": "Handling Confusion",
+    "audioText": "There may be a small misunderstanding here.",
+    "question": "What is the speaker suggesting?",
+    "options": [
+      "Something may not have been understood correctly.",
+      "Everything is perfect.",
+      "The work is complete.",
+      "The meeting is over."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A misunderstanding means confusion between people.",
+    "futureTags": [
+      "handling_confusion",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_027",
+    "module": "listeningComprehension",
+    "level": 2,
+    "category": "Customer Support",
+    "audioText": "I will escalate this to the appropriate team.",
+    "question": "What does escalate mean here?",
+    "options": [
+      "Send the issue to the right team for help.",
+      "Make the customer angry.",
+      "Delete the issue.",
+      "Ignore the request."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Escalate means pass the issue to someone better able to handle it.",
+    "futureTags": [
+      "customer_support",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_028",
+    "module": "listeningComprehension",
+    "level": 2,
+    "category": "Confidence Building",
+    "audioText": "I try to stay calm under pressure.",
+    "question": "What does this describe?",
+    "options": [
+      "How the speaker handles stressful situations.",
+      "A grammar rule only.",
+      "A vacation plan.",
+      "A customer complaint only."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "It describes work behavior under pressure.",
+    "futureTags": [
+      "confidence_building",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_029",
+    "module": "listeningComprehension",
+    "level": 2,
+    "category": "Professional Small Talk",
+    "audioText": "Have a great rest of your day.",
+    "question": "What type of phrase is this?",
+    "options": [
+      "A polite closing phrase.",
+      "A question about work history.",
+      "A complaint.",
+      "An instruction."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "It closes a conversation warmly.",
+    "futureTags": [
+      "professional_small_talk",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_030",
+    "module": "listeningComprehension",
+    "level": 2,
+    "category": "Grammar Pattern Practice",
+    "audioText": "I worked on this yesterday.",
+    "question": "What tense is this?",
+    "options": [
+      "Past simple.",
+      "Present continuous.",
+      "Future tense.",
+      "Present perfect continuous."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Worked' with yesterday is past simple.",
+    "futureTags": [
+      "grammar_pattern_practice",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_031",
+    "module": "listeningComprehension",
+    "level": 2,
+    "category": "Interview Basics",
+    "audioText": "What kind of work environment do you prefer?",
+    "question": "What should you describe?",
+    "options": [
+      "Your preferred professional work environment.",
+      "Your favorite restaurant.",
+      "Your family members.",
+      "Your home address."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The question asks about work style and environment.",
+    "futureTags": [
+      "interview_basics",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_032",
+    "module": "listeningComprehension",
+    "level": 2,
+    "category": "Explaining Experience",
+    "audioText": "What were your main responsibilities?",
+    "question": "What should you explain?",
+    "options": [
+      "The key tasks you handled in your role.",
+      "Your hobbies.",
+      "The interviewer’s responsibilities.",
+      "The company’s address."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Responsibilities means tasks you were expected to do.",
+    "futureTags": [
+      "explaining_experience",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_033",
+    "module": "listeningComprehension",
+    "level": 2,
+    "category": "Clarification",
+    "audioText": "Are you referring to the deadline or the task details?",
+    "question": "What is the speaker clarifying?",
+    "options": [
+      "Which specific point the other person means.",
+      "The lunch menu.",
+      "The customer’s name only.",
+      "A vacation plan."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The speaker is narrowing down the meaning.",
+    "futureTags": [
+      "clarification",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_034",
+    "module": "listeningComprehension",
+    "level": 2,
+    "category": "Polite Requests",
+    "audioText": "May I take a moment to check that?",
+    "question": "What is the speaker asking for?",
+    "options": [
+      "A short time to verify information.",
+      "Permission to leave the company.",
+      "A vacation day.",
+      "A new tool."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "They need time to check.",
+    "futureTags": [
+      "polite_requests",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_035",
+    "module": "listeningComprehension",
+    "level": 2,
+    "category": "Giving Status Updates",
+    "audioText": "The file has been updated for your review.",
+    "question": "What happened?",
+    "options": [
+      "The file was updated and is ready to be reviewed.",
+      "The file was deleted.",
+      "The task has not started.",
+      "The meeting was cancelled."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The update is complete and ready for review.",
+    "futureTags": [
+      "giving_status_updates",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_036",
+    "module": "listeningComprehension",
+    "level": 2,
+    "category": "Handling Confusion",
+    "audioText": "There may be a small misunderstanding here.",
+    "question": "What is the speaker suggesting?",
+    "options": [
+      "Something may not have been understood correctly.",
+      "Everything is perfect.",
+      "The work is complete.",
+      "The meeting is over."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A misunderstanding means confusion between people.",
+    "futureTags": [
+      "handling_confusion",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_037",
+    "module": "listeningComprehension",
+    "level": 3,
+    "category": "Customer Support",
+    "audioText": "I will escalate this to the appropriate team.",
+    "question": "What does escalate mean here?",
+    "options": [
+      "Send the issue to the right team for help.",
+      "Make the customer angry.",
+      "Delete the issue.",
+      "Ignore the request."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Escalate means pass the issue to someone better able to handle it.",
+    "futureTags": [
+      "customer_support",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_038",
+    "module": "listeningComprehension",
+    "level": 3,
+    "category": "Confidence Building",
+    "audioText": "I try to stay calm under pressure.",
+    "question": "What does this describe?",
+    "options": [
+      "How the speaker handles stressful situations.",
+      "A grammar rule only.",
+      "A vacation plan.",
+      "A customer complaint only."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "It describes work behavior under pressure.",
+    "futureTags": [
+      "confidence_building",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_039",
+    "module": "listeningComprehension",
+    "level": 3,
+    "category": "Professional Small Talk",
+    "audioText": "Have a great rest of your day.",
+    "question": "What type of phrase is this?",
+    "options": [
+      "A polite closing phrase.",
+      "A question about work history.",
+      "A complaint.",
+      "An instruction."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "It closes a conversation warmly.",
+    "futureTags": [
+      "professional_small_talk",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_040",
+    "module": "listeningComprehension",
+    "level": 3,
+    "category": "Grammar Pattern Practice",
+    "audioText": "I worked on this yesterday.",
+    "question": "What tense is this?",
+    "options": [
+      "Past simple.",
+      "Present continuous.",
+      "Future tense.",
+      "Present perfect continuous."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Worked' with yesterday is past simple.",
+    "futureTags": [
+      "grammar_pattern_practice",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_041",
+    "module": "listeningComprehension",
+    "level": 3,
+    "category": "Interview Basics",
+    "audioText": "What kind of work environment do you prefer?",
+    "question": "What should you describe?",
+    "options": [
+      "Your preferred professional work environment.",
+      "Your favorite restaurant.",
+      "Your family members.",
+      "Your home address."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The question asks about work style and environment.",
+    "futureTags": [
+      "interview_basics",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_042",
+    "module": "listeningComprehension",
+    "level": 3,
+    "category": "Explaining Experience",
+    "audioText": "What were your main responsibilities?",
+    "question": "What should you explain?",
+    "options": [
+      "The key tasks you handled in your role.",
+      "Your hobbies.",
+      "The interviewer’s responsibilities.",
+      "The company’s address."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Responsibilities means tasks you were expected to do.",
+    "futureTags": [
+      "explaining_experience",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_043",
+    "module": "listeningComprehension",
+    "level": 3,
+    "category": "Clarification",
+    "audioText": "Are you referring to the deadline or the task details?",
+    "question": "What is the speaker clarifying?",
+    "options": [
+      "Which specific point the other person means.",
+      "The lunch menu.",
+      "The customer’s name only.",
+      "A vacation plan."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The speaker is narrowing down the meaning.",
+    "futureTags": [
+      "clarification",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_044",
+    "module": "listeningComprehension",
+    "level": 3,
+    "category": "Polite Requests",
+    "audioText": "May I take a moment to check that?",
+    "question": "What is the speaker asking for?",
+    "options": [
+      "A short time to verify information.",
+      "Permission to leave the company.",
+      "A vacation day.",
+      "A new tool."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "They need time to check.",
+    "futureTags": [
+      "polite_requests",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_045",
+    "module": "listeningComprehension",
+    "level": 3,
+    "category": "Giving Status Updates",
+    "audioText": "The file has been updated for your review.",
+    "question": "What happened?",
+    "options": [
+      "The file was updated and is ready to be reviewed.",
+      "The file was deleted.",
+      "The task has not started.",
+      "The meeting was cancelled."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "The update is complete and ready for review.",
+    "futureTags": [
+      "giving_status_updates",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_046",
+    "module": "listeningComprehension",
+    "level": 3,
+    "category": "Handling Confusion",
+    "audioText": "There may be a small misunderstanding here.",
+    "question": "What is the speaker suggesting?",
+    "options": [
+      "Something may not have been understood correctly.",
+      "Everything is perfect.",
+      "The work is complete.",
+      "The meeting is over."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "A misunderstanding means confusion between people.",
+    "futureTags": [
+      "handling_confusion",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_047",
+    "module": "listeningComprehension",
+    "level": 3,
+    "category": "Customer Support",
+    "audioText": "I will escalate this to the appropriate team.",
+    "question": "What does escalate mean here?",
+    "options": [
+      "Send the issue to the right team for help.",
+      "Make the customer angry.",
+      "Delete the issue.",
+      "Ignore the request."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "Escalate means pass the issue to someone better able to handle it.",
+    "futureTags": [
+      "customer_support",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_048",
+    "module": "listeningComprehension",
+    "level": 3,
+    "category": "Confidence Building",
+    "audioText": "I try to stay calm under pressure.",
+    "question": "What does this describe?",
+    "options": [
+      "How the speaker handles stressful situations.",
+      "A grammar rule only.",
+      "A vacation plan.",
+      "A customer complaint only."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "It describes work behavior under pressure.",
+    "futureTags": [
+      "confidence_building",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_049",
+    "module": "listeningComprehension",
+    "level": 3,
+    "category": "Professional Small Talk",
+    "audioText": "Have a great rest of your day.",
+    "question": "What type of phrase is this?",
+    "options": [
+      "A polite closing phrase.",
+      "A question about work history.",
+      "A complaint.",
+      "An instruction."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "It closes a conversation warmly.",
+    "futureTags": [
+      "professional_small_talk",
+      "listening",
+      "comprehension"
+    ]
+  },
+  {
+    "id": "listening_050",
+    "module": "listeningComprehension",
+    "level": 3,
+    "category": "Grammar Pattern Practice",
+    "audioText": "I worked on this yesterday.",
+    "question": "What tense is this?",
+    "options": [
+      "Past simple.",
+      "Present continuous.",
+      "Future tense.",
+      "Present perfect continuous."
+    ],
+    "correctAnswerIndex": 0,
+    "explanation": "'Worked' with yesterday is past simple.",
+    "futureTags": [
+      "grammar_pattern_practice",
+      "listening",
+      "comprehension"
+    ]
+  }
+]

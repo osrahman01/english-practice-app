@@ -1,0 +1,4776 @@
+{
+  "metadata": {
+    "name": "Phase 1 English Communication Practice Content Pack",
+    "version": "1.0",
+    "intendedUse": "Static GitHub Pages MVP for employee English practice",
+    "modules": {
+      "shadowing": 100,
+      "sentenceBuilder": 50,
+      "interviewPractice": 50,
+      "listeningComprehension": 50
+    },
+    "notes": [
+      "No AI integration required for Phase 1.",
+      "Content is generic but workplace and interview oriented.",
+      "Fields include futureTags so later phases can add speech recognition, AI feedback, role-specific routing, and analytics."
+    ]
+  },
+  "shadowing": [
+    {
+      "id": "shadow_001",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Clarification",
+      "text": "Could you please repeat that?",
+      "tip": "Use this when you need to confirm meaning or ask for repetition.",
+      "repeatCount": 3,
+      "futureTags": [
+        "clarification",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_002",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Clarification",
+      "text": "Could you please say that again more slowly?",
+      "tip": "Use this when you need to confirm meaning or ask for repetition.",
+      "repeatCount": 3,
+      "futureTags": [
+        "clarification",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_003",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Clarification",
+      "text": "I’m sorry, I didn’t catch the last part.",
+      "tip": "Use this when you need to confirm meaning or ask for repetition.",
+      "repeatCount": 3,
+      "futureTags": [
+        "clarification",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_004",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Clarification",
+      "text": "Could you please explain what you mean?",
+      "tip": "Use this when you need to confirm meaning or ask for repetition.",
+      "repeatCount": 3,
+      "futureTags": [
+        "clarification",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_005",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Clarification",
+      "text": "Just to confirm, are you asking about my previous role?",
+      "tip": "Use this when you need to confirm meaning or ask for repetition.",
+      "repeatCount": 3,
+      "futureTags": [
+        "clarification",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_006",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Clarification",
+      "text": "I want to make sure I understood correctly.",
+      "tip": "Use this when you need to confirm meaning or ask for repetition.",
+      "repeatCount": 3,
+      "futureTags": [
+        "clarification",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_007",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Clarification",
+      "text": "Could you please rephrase the question?",
+      "tip": "Use this when you need to confirm meaning or ask for repetition.",
+      "repeatCount": 3,
+      "futureTags": [
+        "clarification",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_008",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Clarification",
+      "text": "When you say that, do you mean the project timeline?",
+      "tip": "Use this when you need to confirm meaning or ask for repetition.",
+      "repeatCount": 3,
+      "futureTags": [
+        "clarification",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_009",
+      "module": "shadowing",
+      "level": 3,
+      "category": "Clarification",
+      "text": "Can I confirm one detail before I answer?",
+      "tip": "Use this when you need to confirm meaning or ask for repetition.",
+      "repeatCount": 3,
+      "futureTags": [
+        "clarification",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_010",
+      "module": "shadowing",
+      "level": 3,
+      "category": "Clarification",
+      "text": "Let me repeat what I understood.",
+      "tip": "Use this when you need to confirm meaning or ask for repetition.",
+      "repeatCount": 3,
+      "futureTags": [
+        "clarification",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_011",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Polite Requests",
+      "text": "Could you please give me a moment?",
+      "tip": "Use this to sound respectful when asking for help or information.",
+      "repeatCount": 3,
+      "futureTags": [
+        "polite_requests",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_012",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Polite Requests",
+      "text": "May I ask a quick question?",
+      "tip": "Use this to sound respectful when asking for help or information.",
+      "repeatCount": 3,
+      "futureTags": [
+        "polite_requests",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_013",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Polite Requests",
+      "text": "Could you please share more details?",
+      "tip": "Use this to sound respectful when asking for help or information.",
+      "repeatCount": 3,
+      "futureTags": [
+        "polite_requests",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_014",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Polite Requests",
+      "text": "Would it be possible to review this together?",
+      "tip": "Use this to sound respectful when asking for help or information.",
+      "repeatCount": 3,
+      "futureTags": [
+        "polite_requests",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_015",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Polite Requests",
+      "text": "Please let me know if I missed anything.",
+      "tip": "Use this to sound respectful when asking for help or information.",
+      "repeatCount": 3,
+      "futureTags": [
+        "polite_requests",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_016",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Polite Requests",
+      "text": "Could you please guide me on the next step?",
+      "tip": "Use this to sound respectful when asking for help or information.",
+      "repeatCount": 3,
+      "futureTags": [
+        "polite_requests",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_017",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Polite Requests",
+      "text": "May I take a moment to check that?",
+      "tip": "Use this to sound respectful when asking for help or information.",
+      "repeatCount": 3,
+      "futureTags": [
+        "polite_requests",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_018",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Polite Requests",
+      "text": "Could you please send the details by email?",
+      "tip": "Use this to sound respectful when asking for help or information.",
+      "repeatCount": 3,
+      "futureTags": [
+        "polite_requests",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_019",
+      "module": "shadowing",
+      "level": 3,
+      "category": "Polite Requests",
+      "text": "Would you mind repeating the example?",
+      "tip": "Use this to sound respectful when asking for help or information.",
+      "repeatCount": 3,
+      "futureTags": [
+        "polite_requests",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_020",
+      "module": "shadowing",
+      "level": 3,
+      "category": "Polite Requests",
+      "text": "Please correct me if I misunderstood.",
+      "tip": "Use this to sound respectful when asking for help or information.",
+      "repeatCount": 3,
+      "futureTags": [
+        "polite_requests",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_021",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Interview Basics",
+      "text": "Thank you for giving me this opportunity.",
+      "tip": "Use this during interviews to sound clear and professional.",
+      "repeatCount": 3,
+      "futureTags": [
+        "interview_basics",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_022",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Interview Basics",
+      "text": "I’m happy to discuss my experience.",
+      "tip": "Use this during interviews to sound clear and professional.",
+      "repeatCount": 3,
+      "futureTags": [
+        "interview_basics",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_023",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Interview Basics",
+      "text": "I have experience in customer communication.",
+      "tip": "Use this during interviews to sound clear and professional.",
+      "repeatCount": 3,
+      "futureTags": [
+        "interview_basics",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_024",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Interview Basics",
+      "text": "I have worked with different types of clients.",
+      "tip": "Use this during interviews to sound clear and professional.",
+      "repeatCount": 3,
+      "futureTags": [
+        "interview_basics",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_025",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Interview Basics",
+      "text": "I am comfortable learning new tools.",
+      "tip": "Use this during interviews to sound clear and professional.",
+      "repeatCount": 3,
+      "futureTags": [
+        "interview_basics",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_026",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Interview Basics",
+      "text": "I enjoy solving practical problems.",
+      "tip": "Use this during interviews to sound clear and professional.",
+      "repeatCount": 3,
+      "futureTags": [
+        "interview_basics",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_027",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Interview Basics",
+      "text": "I am looking for a role where I can grow.",
+      "tip": "Use this during interviews to sound clear and professional.",
+      "repeatCount": 3,
+      "futureTags": [
+        "interview_basics",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_028",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Interview Basics",
+      "text": "I try to communicate clearly and professionally.",
+      "tip": "Use this during interviews to sound clear and professional.",
+      "repeatCount": 3,
+      "futureTags": [
+        "interview_basics",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_029",
+      "module": "shadowing",
+      "level": 3,
+      "category": "Interview Basics",
+      "text": "I work best when I understand the goal clearly.",
+      "tip": "Use this during interviews to sound clear and professional.",
+      "repeatCount": 3,
+      "futureTags": [
+        "interview_basics",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_030",
+      "module": "shadowing",
+      "level": 3,
+      "category": "Interview Basics",
+      "text": "I am always trying to improve my English communication.",
+      "tip": "Use this during interviews to sound clear and professional.",
+      "repeatCount": 3,
+      "futureTags": [
+        "interview_basics",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_031",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Explaining Experience",
+      "text": "In my previous role, I supported daily operations.",
+      "tip": "Use this to describe your previous work clearly.",
+      "repeatCount": 3,
+      "futureTags": [
+        "explaining_experience",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_032",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Explaining Experience",
+      "text": "I was responsible for checking information carefully.",
+      "tip": "Use this to describe your previous work clearly.",
+      "repeatCount": 3,
+      "futureTags": [
+        "explaining_experience",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_033",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Explaining Experience",
+      "text": "I worked on reports, updates, and team coordination.",
+      "tip": "Use this to describe your previous work clearly.",
+      "repeatCount": 3,
+      "futureTags": [
+        "explaining_experience",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_034",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Explaining Experience",
+      "text": "I used online tools to complete my tasks.",
+      "tip": "Use this to describe your previous work clearly.",
+      "repeatCount": 3,
+      "futureTags": [
+        "explaining_experience",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_035",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Explaining Experience",
+      "text": "I communicated with team members regularly.",
+      "tip": "Use this to describe your previous work clearly.",
+      "repeatCount": 3,
+      "futureTags": [
+        "explaining_experience",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_036",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Explaining Experience",
+      "text": "I handled customer questions through chat and email.",
+      "tip": "Use this to describe your previous work clearly.",
+      "repeatCount": 3,
+      "futureTags": [
+        "explaining_experience",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_037",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Explaining Experience",
+      "text": "I followed instructions and completed tasks on time.",
+      "tip": "Use this to describe your previous work clearly.",
+      "repeatCount": 3,
+      "futureTags": [
+        "explaining_experience",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_038",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Explaining Experience",
+      "text": "I learned new systems by practicing regularly.",
+      "tip": "Use this to describe your previous work clearly.",
+      "repeatCount": 3,
+      "futureTags": [
+        "explaining_experience",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_039",
+      "module": "shadowing",
+      "level": 3,
+      "category": "Explaining Experience",
+      "text": "I helped the team by keeping records updated.",
+      "tip": "Use this to describe your previous work clearly.",
+      "repeatCount": 3,
+      "futureTags": [
+        "explaining_experience",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_040",
+      "module": "shadowing",
+      "level": 3,
+      "category": "Explaining Experience",
+      "text": "I improved my work by asking for feedback.",
+      "tip": "Use this to describe your previous work clearly.",
+      "repeatCount": 3,
+      "futureTags": [
+        "explaining_experience",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_041",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Giving Status Updates",
+      "text": "I am currently checking the details.",
+      "tip": "Use this to update someone on progress or blockers.",
+      "repeatCount": 3,
+      "futureTags": [
+        "giving_status_updates",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_042",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Giving Status Updates",
+      "text": "I will update you shortly.",
+      "tip": "Use this to update someone on progress or blockers.",
+      "repeatCount": 3,
+      "futureTags": [
+        "giving_status_updates",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_043",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Giving Status Updates",
+      "text": "The task is still in progress.",
+      "tip": "Use this to update someone on progress or blockers.",
+      "repeatCount": 3,
+      "futureTags": [
+        "giving_status_updates",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_044",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Giving Status Updates",
+      "text": "I have completed the first part of the task.",
+      "tip": "Use this to update someone on progress or blockers.",
+      "repeatCount": 3,
+      "futureTags": [
+        "giving_status_updates",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_045",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Giving Status Updates",
+      "text": "I found one issue that needs review.",
+      "tip": "Use this to update someone on progress or blockers.",
+      "repeatCount": 3,
+      "futureTags": [
+        "giving_status_updates",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_046",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Giving Status Updates",
+      "text": "I am waiting for one more detail before I continue.",
+      "tip": "Use this to update someone on progress or blockers.",
+      "repeatCount": 3,
+      "futureTags": [
+        "giving_status_updates",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_047",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Giving Status Updates",
+      "text": "I will confirm once the review is complete.",
+      "tip": "Use this to update someone on progress or blockers.",
+      "repeatCount": 3,
+      "futureTags": [
+        "giving_status_updates",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_048",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Giving Status Updates",
+      "text": "The information has been updated in the file.",
+      "tip": "Use this to update someone on progress or blockers.",
+      "repeatCount": 3,
+      "futureTags": [
+        "giving_status_updates",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_049",
+      "module": "shadowing",
+      "level": 3,
+      "category": "Giving Status Updates",
+      "text": "I need a little more time to verify this properly.",
+      "tip": "Use this to update someone on progress or blockers.",
+      "repeatCount": 3,
+      "futureTags": [
+        "giving_status_updates",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_050",
+      "module": "shadowing",
+      "level": 3,
+      "category": "Giving Status Updates",
+      "text": "I will share the final update before the deadline.",
+      "tip": "Use this to update someone on progress or blockers.",
+      "repeatCount": 3,
+      "futureTags": [
+        "giving_status_updates",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_051",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Handling Confusion",
+      "text": "I’m not fully sure, but I can check.",
+      "tip": "Use this when you are unsure and need to avoid guessing.",
+      "repeatCount": 3,
+      "futureTags": [
+        "handling_confusion",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_052",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Handling Confusion",
+      "text": "I may need a little more context.",
+      "tip": "Use this when you are unsure and need to avoid guessing.",
+      "repeatCount": 3,
+      "futureTags": [
+        "handling_confusion",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_053",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Handling Confusion",
+      "text": "I understand part of the request, but not the full detail.",
+      "tip": "Use this when you are unsure and need to avoid guessing.",
+      "repeatCount": 3,
+      "futureTags": [
+        "handling_confusion",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_054",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Handling Confusion",
+      "text": "Let me check the instructions again.",
+      "tip": "Use this when you are unsure and need to avoid guessing.",
+      "repeatCount": 3,
+      "futureTags": [
+        "handling_confusion",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_055",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Handling Confusion",
+      "text": "I don’t want to give you the wrong answer.",
+      "tip": "Use this when you are unsure and need to avoid guessing.",
+      "repeatCount": 3,
+      "futureTags": [
+        "handling_confusion",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_056",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Handling Confusion",
+      "text": "I will review the information and come back with a clear answer.",
+      "tip": "Use this when you are unsure and need to avoid guessing.",
+      "repeatCount": 3,
+      "futureTags": [
+        "handling_confusion",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_057",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Handling Confusion",
+      "text": "Could you please point me to the correct file?",
+      "tip": "Use this when you are unsure and need to avoid guessing.",
+      "repeatCount": 3,
+      "futureTags": [
+        "handling_confusion",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_058",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Handling Confusion",
+      "text": "I think I understand, but I want to confirm one thing.",
+      "tip": "Use this when you are unsure and need to avoid guessing.",
+      "repeatCount": 3,
+      "futureTags": [
+        "handling_confusion",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_059",
+      "module": "shadowing",
+      "level": 3,
+      "category": "Handling Confusion",
+      "text": "There may be a small misunderstanding here.",
+      "tip": "Use this when you are unsure and need to avoid guessing.",
+      "repeatCount": 3,
+      "futureTags": [
+        "handling_confusion",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_060",
+      "module": "shadowing",
+      "level": 3,
+      "category": "Handling Confusion",
+      "text": "Let’s clarify the requirement before I continue.",
+      "tip": "Use this when you are unsure and need to avoid guessing.",
+      "repeatCount": 3,
+      "futureTags": [
+        "handling_confusion",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_061",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Customer Support",
+      "text": "I understand your concern.",
+      "tip": "Use this to respond politely and professionally to customers.",
+      "repeatCount": 3,
+      "futureTags": [
+        "customer_support",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_062",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Customer Support",
+      "text": "Thank you for your patience.",
+      "tip": "Use this to respond politely and professionally to customers.",
+      "repeatCount": 3,
+      "futureTags": [
+        "customer_support",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_063",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Customer Support",
+      "text": "Let me check that for you.",
+      "tip": "Use this to respond politely and professionally to customers.",
+      "repeatCount": 3,
+      "futureTags": [
+        "customer_support",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_064",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Customer Support",
+      "text": "I’ll look into this and get back to you.",
+      "tip": "Use this to respond politely and professionally to customers.",
+      "repeatCount": 3,
+      "futureTags": [
+        "customer_support",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_065",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Customer Support",
+      "text": "I’m sorry for the inconvenience.",
+      "tip": "Use this to respond politely and professionally to customers.",
+      "repeatCount": 3,
+      "futureTags": [
+        "customer_support",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_066",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Customer Support",
+      "text": "I can help you with that.",
+      "tip": "Use this to respond politely and professionally to customers.",
+      "repeatCount": 3,
+      "futureTags": [
+        "customer_support",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_067",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Customer Support",
+      "text": "Please allow me a moment to review this.",
+      "tip": "Use this to respond politely and professionally to customers.",
+      "repeatCount": 3,
+      "futureTags": [
+        "customer_support",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_068",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Customer Support",
+      "text": "I have checked the details for you.",
+      "tip": "Use this to respond politely and professionally to customers.",
+      "repeatCount": 3,
+      "futureTags": [
+        "customer_support",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_069",
+      "module": "shadowing",
+      "level": 3,
+      "category": "Customer Support",
+      "text": "Here is what I found.",
+      "tip": "Use this to respond politely and professionally to customers.",
+      "repeatCount": 3,
+      "futureTags": [
+        "customer_support",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_070",
+      "module": "shadowing",
+      "level": 3,
+      "category": "Customer Support",
+      "text": "I will escalate this to the appropriate team.",
+      "tip": "Use this to respond politely and professionally to customers.",
+      "repeatCount": 3,
+      "futureTags": [
+        "customer_support",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_071",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Confidence Building",
+      "text": "I can explain that step by step.",
+      "tip": "Use this to build confident, clear speaking habits.",
+      "repeatCount": 3,
+      "futureTags": [
+        "confidence_building",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_072",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Confidence Building",
+      "text": "I am comfortable with this type of task.",
+      "tip": "Use this to build confident, clear speaking habits.",
+      "repeatCount": 3,
+      "futureTags": [
+        "confidence_building",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_073",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Confidence Building",
+      "text": "I have handled similar work before.",
+      "tip": "Use this to build confident, clear speaking habits.",
+      "repeatCount": 3,
+      "futureTags": [
+        "confidence_building",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_074",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Confidence Building",
+      "text": "I can learn the process quickly.",
+      "tip": "Use this to build confident, clear speaking habits.",
+      "repeatCount": 3,
+      "futureTags": [
+        "confidence_building",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_075",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Confidence Building",
+      "text": "I will do my best to complete this accurately.",
+      "tip": "Use this to build confident, clear speaking habits.",
+      "repeatCount": 3,
+      "futureTags": [
+        "confidence_building",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_076",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Confidence Building",
+      "text": "I am improving with regular practice.",
+      "tip": "Use this to build confident, clear speaking habits.",
+      "repeatCount": 3,
+      "futureTags": [
+        "confidence_building",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_077",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Confidence Building",
+      "text": "I can communicate clearly if I prepare properly.",
+      "tip": "Use this to build confident, clear speaking habits.",
+      "repeatCount": 3,
+      "futureTags": [
+        "confidence_building",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_078",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Confidence Building",
+      "text": "I am not afraid to ask questions when needed.",
+      "tip": "Use this to build confident, clear speaking habits.",
+      "repeatCount": 3,
+      "futureTags": [
+        "confidence_building",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_079",
+      "module": "shadowing",
+      "level": 3,
+      "category": "Confidence Building",
+      "text": "I try to stay calm under pressure.",
+      "tip": "Use this to build confident, clear speaking habits.",
+      "repeatCount": 3,
+      "futureTags": [
+        "confidence_building",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_080",
+      "module": "shadowing",
+      "level": 3,
+      "category": "Confidence Building",
+      "text": "I believe I can add value to the team.",
+      "tip": "Use this to build confident, clear speaking habits.",
+      "repeatCount": 3,
+      "futureTags": [
+        "confidence_building",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_081",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Grammar Pattern Practice",
+      "text": "I have worked on this before.",
+      "tip": "Use this to practice common grammar structures out loud.",
+      "repeatCount": 3,
+      "futureTags": [
+        "grammar_pattern_practice",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_082",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Grammar Pattern Practice",
+      "text": "I worked on this last month.",
+      "tip": "Use this to practice common grammar structures out loud.",
+      "repeatCount": 3,
+      "futureTags": [
+        "grammar_pattern_practice",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_083",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Grammar Pattern Practice",
+      "text": "I am working on this now.",
+      "tip": "Use this to practice common grammar structures out loud.",
+      "repeatCount": 3,
+      "futureTags": [
+        "grammar_pattern_practice",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_084",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Grammar Pattern Practice",
+      "text": "I will work on this tomorrow.",
+      "tip": "Use this to practice common grammar structures out loud.",
+      "repeatCount": 3,
+      "futureTags": [
+        "grammar_pattern_practice",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_085",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Grammar Pattern Practice",
+      "text": "I have been learning English for several months.",
+      "tip": "Use this to practice common grammar structures out loud.",
+      "repeatCount": 3,
+      "futureTags": [
+        "grammar_pattern_practice",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_086",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Grammar Pattern Practice",
+      "text": "I am responsible for checking the data.",
+      "tip": "Use this to practice common grammar structures out loud.",
+      "repeatCount": 3,
+      "futureTags": [
+        "grammar_pattern_practice",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_087",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Grammar Pattern Practice",
+      "text": "I was responsible for checking the data.",
+      "tip": "Use this to practice common grammar structures out loud.",
+      "repeatCount": 3,
+      "futureTags": [
+        "grammar_pattern_practice",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_088",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Grammar Pattern Practice",
+      "text": "I need to improve my speaking confidence.",
+      "tip": "Use this to practice common grammar structures out loud.",
+      "repeatCount": 3,
+      "futureTags": [
+        "grammar_pattern_practice",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_089",
+      "module": "shadowing",
+      "level": 3,
+      "category": "Grammar Pattern Practice",
+      "text": "I would like to improve my interview answers.",
+      "tip": "Use this to practice common grammar structures out loud.",
+      "repeatCount": 3,
+      "futureTags": [
+        "grammar_pattern_practice",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_090",
+      "module": "shadowing",
+      "level": 3,
+      "category": "Grammar Pattern Practice",
+      "text": "I am able to follow clear instructions.",
+      "tip": "Use this to practice common grammar structures out loud.",
+      "repeatCount": 3,
+      "futureTags": [
+        "grammar_pattern_practice",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_091",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Professional Small Talk",
+      "text": "Good morning, how are you today?",
+      "tip": "Use this for polite professional openings and closings.",
+      "repeatCount": 3,
+      "futureTags": [
+        "professional_small_talk",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_092",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Professional Small Talk",
+      "text": "I hope you’re doing well.",
+      "tip": "Use this for polite professional openings and closings.",
+      "repeatCount": 3,
+      "futureTags": [
+        "professional_small_talk",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_093",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Professional Small Talk",
+      "text": "It’s nice to meet you.",
+      "tip": "Use this for polite professional openings and closings.",
+      "repeatCount": 3,
+      "futureTags": [
+        "professional_small_talk",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_094",
+      "module": "shadowing",
+      "level": 1,
+      "category": "Professional Small Talk",
+      "text": "Thank you for taking the time to speak with me.",
+      "tip": "Use this for polite professional openings and closings.",
+      "repeatCount": 3,
+      "futureTags": [
+        "professional_small_talk",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_095",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Professional Small Talk",
+      "text": "How has your day been so far?",
+      "tip": "Use this for polite professional openings and closings.",
+      "repeatCount": 3,
+      "futureTags": [
+        "professional_small_talk",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_096",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Professional Small Talk",
+      "text": "I’m doing well, thank you for asking.",
+      "tip": "Use this for polite professional openings and closings.",
+      "repeatCount": 3,
+      "futureTags": [
+        "professional_small_talk",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_097",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Professional Small Talk",
+      "text": "I appreciate your time today.",
+      "tip": "Use this for polite professional openings and closings.",
+      "repeatCount": 3,
+      "futureTags": [
+        "professional_small_talk",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_098",
+      "module": "shadowing",
+      "level": 2,
+      "category": "Professional Small Talk",
+      "text": "I look forward to learning more about the role.",
+      "tip": "Use this for polite professional openings and closings.",
+      "repeatCount": 3,
+      "futureTags": [
+        "professional_small_talk",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_099",
+      "module": "shadowing",
+      "level": 3,
+      "category": "Professional Small Talk",
+      "text": "It was nice speaking with you.",
+      "tip": "Use this for polite professional openings and closings.",
+      "repeatCount": 3,
+      "futureTags": [
+        "professional_small_talk",
+        "shadowing",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "shadow_100",
+      "module": "shadowing",
+      "level": 3,
+      "category": "Professional Small Talk",
+      "text": "Have a great rest of your day.",
+      "tip": "Use this for polite professional openings and closings.",
+      "repeatCount": 3,
+      "futureTags": [
+        "professional_small_talk",
+        "shadowing",
+        "speaking_practice"
+      ]
+    }
+  ],
+  "sentenceBuilder": [
+    {
+      "id": "builder_001",
+      "module": "sentenceBuilder",
+      "level": 1,
+      "category": "Explaining Experience",
+      "title": "Explaining previous work",
+      "steps": [
+        "I worked.",
+        "I worked on reports.",
+        "I worked on weekly reports.",
+        "I worked on weekly performance reports.",
+        "I worked on weekly performance reports for multiple clients."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "explaining_experience",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_002",
+      "module": "sentenceBuilder",
+      "level": 1,
+      "category": "Explaining Experience",
+      "title": "Describing responsibilities",
+      "steps": [
+        "I was responsible.",
+        "I was responsible for checking data.",
+        "I was responsible for checking data every day.",
+        "I was responsible for checking data and updating the team.",
+        "I was responsible for checking data and updating the team before the deadline."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "explaining_experience",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_003",
+      "module": "sentenceBuilder",
+      "level": 1,
+      "category": "Interview Basics",
+      "title": "Introducing your background",
+      "steps": [
+        "I have experience.",
+        "I have experience in customer support.",
+        "I have experience in customer support and communication.",
+        "I have experience in customer support and communication with clients.",
+        "I have experience in customer support and communication with clients through chat and email."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "interview_basics",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_004",
+      "module": "sentenceBuilder",
+      "level": 1,
+      "category": "Interview Basics",
+      "title": "Explaining a strength",
+      "steps": [
+        "I am organized.",
+        "I am organized with my tasks.",
+        "I am organized with my tasks and deadlines.",
+        "I am organized with my tasks and deadlines, especially when work is busy.",
+        "I am organized with my tasks and deadlines, especially when work is busy and priorities change."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "interview_basics",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_005",
+      "module": "sentenceBuilder",
+      "level": 1,
+      "category": "Clarification",
+      "title": "Asking for repetition",
+      "steps": [
+        "Please repeat that.",
+        "Could you please repeat that?",
+        "Could you please repeat the last part?",
+        "Could you please repeat the last part more slowly?",
+        "Could you please repeat the last part more slowly so I can answer correctly?"
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "clarification",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_006",
+      "module": "sentenceBuilder",
+      "level": 1,
+      "category": "Clarification",
+      "title": "Checking understanding",
+      "steps": [
+        "I understood the point.",
+        "I think I understood the point.",
+        "I think I understood the main point.",
+        "I think I understood the main point, but I want to confirm one detail.",
+        "I think I understood the main point, but I want to confirm one detail before I answer."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "clarification",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_007",
+      "module": "sentenceBuilder",
+      "level": 1,
+      "category": "Giving Status Updates",
+      "title": "Updating progress",
+      "steps": [
+        "I checked it.",
+        "I checked the file.",
+        "I checked the file and found an issue.",
+        "I checked the file and found an issue that needs review.",
+        "I checked the file and found an issue that needs review before we continue."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "giving_status_updates",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_008",
+      "module": "sentenceBuilder",
+      "level": 1,
+      "category": "Giving Status Updates",
+      "title": "Explaining a delay",
+      "steps": [
+        "I need time.",
+        "I need a little more time.",
+        "I need a little more time to check this.",
+        "I need a little more time to check this properly.",
+        "I need a little more time to check this properly and avoid giving the wrong answer."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "giving_status_updates",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_009",
+      "module": "sentenceBuilder",
+      "level": 1,
+      "category": "Customer Support",
+      "title": "Showing empathy",
+      "steps": [
+        "I understand.",
+        "I understand your concern.",
+        "I understand your concern and I’m checking this.",
+        "I understand your concern and I’m checking this for you.",
+        "I understand your concern and I’m checking this for you as carefully as possible."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "customer_support",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_010",
+      "module": "sentenceBuilder",
+      "level": 1,
+      "category": "Customer Support",
+      "title": "Offering help",
+      "steps": [
+        "I can help.",
+        "I can help you.",
+        "I can help you with that.",
+        "I can help you with that and guide you through the next step.",
+        "I can help you with that and guide you through the next step if you can share a few details."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "customer_support",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_011",
+      "module": "sentenceBuilder",
+      "level": 1,
+      "category": "Confidence Building",
+      "title": "Explaining confidence",
+      "steps": [
+        "I can do this.",
+        "I can do this task.",
+        "I can do this task with guidance.",
+        "I can do this task with guidance and regular practice.",
+        "I can do this task with guidance and regular practice, and I am willing to learn."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "confidence_building",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_012",
+      "module": "sentenceBuilder",
+      "level": 1,
+      "category": "Confidence Building",
+      "title": "Learning new tools",
+      "steps": [
+        "I can learn.",
+        "I can learn new tools.",
+        "I can learn new tools quickly.",
+        "I can learn new tools quickly if I get clear instructions.",
+        "I can learn new tools quickly if I get clear instructions and enough practice."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "confidence_building",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_013",
+      "module": "sentenceBuilder",
+      "level": 1,
+      "category": "Grammar Pattern Practice",
+      "title": "Present perfect practice",
+      "steps": [
+        "I have worked.",
+        "I have worked on reports.",
+        "I have worked on reports before.",
+        "I have worked on reports before in my previous role.",
+        "I have worked on reports before in my previous role and I am comfortable with similar tasks."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "grammar_pattern_practice",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_014",
+      "module": "sentenceBuilder",
+      "level": 1,
+      "category": "Grammar Pattern Practice",
+      "title": "Past simple practice",
+      "steps": [
+        "I completed it.",
+        "I completed the task.",
+        "I completed the task yesterday.",
+        "I completed the task yesterday and shared the update.",
+        "I completed the task yesterday and shared the update with the team."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "grammar_pattern_practice",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_015",
+      "module": "sentenceBuilder",
+      "level": 1,
+      "category": "Professional Small Talk",
+      "title": "Starting a conversation",
+      "steps": [
+        "Good morning.",
+        "Good morning, how are you?",
+        "Good morning, how are you today?",
+        "Good morning, I hope you’re doing well today.",
+        "Good morning, I hope you’re doing well today and thank you for speaking with me."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "professional_small_talk",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_016",
+      "module": "sentenceBuilder",
+      "level": 1,
+      "category": "Interview Basics",
+      "title": "Answering why this role 16",
+      "steps": [
+        "I am interested.",
+        "I am interested in this role.",
+        "I am interested in this role because it matches my skills.",
+        "I am interested in this role because it matches my skills and goals.",
+        "I am interested in this role because it matches my skills and gives me room to grow."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "interview_basics",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_017",
+      "module": "sentenceBuilder",
+      "level": 2,
+      "category": "Interview Basics",
+      "title": "Discussing weakness 17",
+      "steps": [
+        "I am improving.",
+        "I am improving my English.",
+        "I am improving my English speaking skills.",
+        "I am improving my English speaking skills through daily practice.",
+        "I am improving my English speaking skills through daily practice and structured interview preparation."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "interview_basics",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_018",
+      "module": "sentenceBuilder",
+      "level": 2,
+      "category": "Explaining Experience",
+      "title": "Describing tools 18",
+      "steps": [
+        "I used tools.",
+        "I used online tools.",
+        "I used online tools for daily work.",
+        "I used online tools for daily work, reporting, and communication.",
+        "I used online tools for daily work, reporting, and communication with team members."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "explaining_experience",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_019",
+      "module": "sentenceBuilder",
+      "level": 2,
+      "category": "Explaining Experience",
+      "title": "Explaining teamwork 19",
+      "steps": [
+        "I worked with a team.",
+        "I worked with a small team.",
+        "I worked with a small team on daily tasks.",
+        "I worked with a small team on daily tasks and shared updates regularly.",
+        "I worked with a small team on daily tasks and shared updates regularly to keep everyone aligned."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "explaining_experience",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_020",
+      "module": "sentenceBuilder",
+      "level": 2,
+      "category": "Clarification",
+      "title": "Clarifying deadline 20",
+      "steps": [
+        "When is it due?",
+        "Could you tell me when it is due?",
+        "Could you tell me when this task is due?",
+        "Could you tell me when this task is due so I can plan properly?",
+        "Could you tell me when this task is due so I can plan properly and prioritize the work?"
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "clarification",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_021",
+      "module": "sentenceBuilder",
+      "level": 2,
+      "category": "Polite Requests",
+      "title": "Requesting details 21",
+      "steps": [
+        "Please share details.",
+        "Could you please share the details?",
+        "Could you please share the details of the task?",
+        "Could you please share the details of the task and the expected outcome?",
+        "Could you please share the details of the task and the expected outcome so I can complete it correctly?"
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "polite_requests",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_022",
+      "module": "sentenceBuilder",
+      "level": 2,
+      "category": "Polite Requests",
+      "title": "Requesting review 22",
+      "steps": [
+        "Please review this.",
+        "Could you please review this?",
+        "Could you please review this when you have time?",
+        "Could you please review this when you have time and let me know if changes are needed?",
+        "Could you please review this when you have time and let me know if any changes are needed before submission?"
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "polite_requests",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_023",
+      "module": "sentenceBuilder",
+      "level": 2,
+      "category": "Giving Status Updates",
+      "title": "Completed task 23",
+      "steps": [
+        "It is done.",
+        "The task is done.",
+        "The task is done and updated.",
+        "The task is done and updated in the file.",
+        "The task is done and updated in the file for your review."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "giving_status_updates",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_024",
+      "module": "sentenceBuilder",
+      "level": 2,
+      "category": "Handling Confusion",
+      "title": "Avoiding guessing 24",
+      "steps": [
+        "I am not sure.",
+        "I am not fully sure.",
+        "I am not fully sure, so I will check.",
+        "I am not fully sure, so I will check before answering.",
+        "I am not fully sure, so I will check before answering to avoid giving incorrect information."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "handling_confusion",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_025",
+      "module": "sentenceBuilder",
+      "level": 2,
+      "category": "Customer Support",
+      "title": "Acknowledging issue 25",
+      "steps": [
+        "I see the issue.",
+        "I see the issue you mentioned.",
+        "I see the issue you mentioned and I’m checking it.",
+        "I see the issue you mentioned and I’m checking the details now.",
+        "I see the issue you mentioned and I’m checking the details now so I can guide you correctly."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "customer_support",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_026",
+      "module": "sentenceBuilder",
+      "level": 2,
+      "category": "Confidence Building",
+      "title": "Handling pressure 26",
+      "steps": [
+        "I stay calm.",
+        "I try to stay calm.",
+        "I try to stay calm under pressure.",
+        "I try to stay calm under pressure and focus on the next step.",
+        "I try to stay calm under pressure and focus on the next step instead of rushing."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "confidence_building",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_027",
+      "module": "sentenceBuilder",
+      "level": 2,
+      "category": "Grammar Pattern Practice",
+      "title": "For vs since 27",
+      "steps": [
+        "I have worked here.",
+        "I have worked here for one year.",
+        "I have worked here since last year.",
+        "I have worked here for one year and learned many things.",
+        "I have worked here for one year and learned many things from my team."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "grammar_pattern_practice",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_028",
+      "module": "sentenceBuilder",
+      "level": 2,
+      "category": "Professional Small Talk",
+      "title": "Meeting opening 28",
+      "steps": [
+        "Nice to meet you.",
+        "It’s nice to meet you.",
+        "It’s nice to meet you and thank you for your time.",
+        "It’s nice to meet you and thank you for taking the time to speak with me.",
+        "It’s nice to meet you and thank you for taking the time to speak with me today."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "professional_small_talk",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_029",
+      "module": "sentenceBuilder",
+      "level": 2,
+      "category": "Interview Basics",
+      "title": "Answering why this role 29",
+      "steps": [
+        "I am interested.",
+        "I am interested in this role.",
+        "I am interested in this role because it matches my skills.",
+        "I am interested in this role because it matches my skills and goals.",
+        "I am interested in this role because it matches my skills and gives me room to grow."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "interview_basics",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_030",
+      "module": "sentenceBuilder",
+      "level": 2,
+      "category": "Interview Basics",
+      "title": "Discussing weakness 30",
+      "steps": [
+        "I am improving.",
+        "I am improving my English.",
+        "I am improving my English speaking skills.",
+        "I am improving my English speaking skills through daily practice.",
+        "I am improving my English speaking skills through daily practice and structured interview preparation."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "interview_basics",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_031",
+      "module": "sentenceBuilder",
+      "level": 2,
+      "category": "Explaining Experience",
+      "title": "Describing tools 31",
+      "steps": [
+        "I used tools.",
+        "I used online tools.",
+        "I used online tools for daily work.",
+        "I used online tools for daily work, reporting, and communication.",
+        "I used online tools for daily work, reporting, and communication with team members."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "explaining_experience",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_032",
+      "module": "sentenceBuilder",
+      "level": 2,
+      "category": "Explaining Experience",
+      "title": "Explaining teamwork 32",
+      "steps": [
+        "I worked with a team.",
+        "I worked with a small team.",
+        "I worked with a small team on daily tasks.",
+        "I worked with a small team on daily tasks and shared updates regularly.",
+        "I worked with a small team on daily tasks and shared updates regularly to keep everyone aligned."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "explaining_experience",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_033",
+      "module": "sentenceBuilder",
+      "level": 2,
+      "category": "Clarification",
+      "title": "Clarifying deadline 33",
+      "steps": [
+        "When is it due?",
+        "Could you tell me when it is due?",
+        "Could you tell me when this task is due?",
+        "Could you tell me when this task is due so I can plan properly?",
+        "Could you tell me when this task is due so I can plan properly and prioritize the work?"
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "clarification",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_034",
+      "module": "sentenceBuilder",
+      "level": 2,
+      "category": "Polite Requests",
+      "title": "Requesting details 34",
+      "steps": [
+        "Please share details.",
+        "Could you please share the details?",
+        "Could you please share the details of the task?",
+        "Could you please share the details of the task and the expected outcome?",
+        "Could you please share the details of the task and the expected outcome so I can complete it correctly?"
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "polite_requests",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_035",
+      "module": "sentenceBuilder",
+      "level": 3,
+      "category": "Polite Requests",
+      "title": "Requesting review 35",
+      "steps": [
+        "Please review this.",
+        "Could you please review this?",
+        "Could you please review this when you have time?",
+        "Could you please review this when you have time and let me know if changes are needed?",
+        "Could you please review this when you have time and let me know if any changes are needed before submission?"
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "polite_requests",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_036",
+      "module": "sentenceBuilder",
+      "level": 3,
+      "category": "Giving Status Updates",
+      "title": "Completed task 36",
+      "steps": [
+        "It is done.",
+        "The task is done.",
+        "The task is done and updated.",
+        "The task is done and updated in the file.",
+        "The task is done and updated in the file for your review."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "giving_status_updates",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_037",
+      "module": "sentenceBuilder",
+      "level": 3,
+      "category": "Handling Confusion",
+      "title": "Avoiding guessing 37",
+      "steps": [
+        "I am not sure.",
+        "I am not fully sure.",
+        "I am not fully sure, so I will check.",
+        "I am not fully sure, so I will check before answering.",
+        "I am not fully sure, so I will check before answering to avoid giving incorrect information."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "handling_confusion",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_038",
+      "module": "sentenceBuilder",
+      "level": 3,
+      "category": "Customer Support",
+      "title": "Acknowledging issue 38",
+      "steps": [
+        "I see the issue.",
+        "I see the issue you mentioned.",
+        "I see the issue you mentioned and I’m checking it.",
+        "I see the issue you mentioned and I’m checking the details now.",
+        "I see the issue you mentioned and I’m checking the details now so I can guide you correctly."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "customer_support",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_039",
+      "module": "sentenceBuilder",
+      "level": 3,
+      "category": "Confidence Building",
+      "title": "Handling pressure 39",
+      "steps": [
+        "I stay calm.",
+        "I try to stay calm.",
+        "I try to stay calm under pressure.",
+        "I try to stay calm under pressure and focus on the next step.",
+        "I try to stay calm under pressure and focus on the next step instead of rushing."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "confidence_building",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_040",
+      "module": "sentenceBuilder",
+      "level": 3,
+      "category": "Grammar Pattern Practice",
+      "title": "For vs since 40",
+      "steps": [
+        "I have worked here.",
+        "I have worked here for one year.",
+        "I have worked here since last year.",
+        "I have worked here for one year and learned many things.",
+        "I have worked here for one year and learned many things from my team."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "grammar_pattern_practice",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_041",
+      "module": "sentenceBuilder",
+      "level": 3,
+      "category": "Professional Small Talk",
+      "title": "Meeting opening 41",
+      "steps": [
+        "Nice to meet you.",
+        "It’s nice to meet you.",
+        "It’s nice to meet you and thank you for your time.",
+        "It’s nice to meet you and thank you for taking the time to speak with me.",
+        "It’s nice to meet you and thank you for taking the time to speak with me today."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "professional_small_talk",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_042",
+      "module": "sentenceBuilder",
+      "level": 3,
+      "category": "Interview Basics",
+      "title": "Answering why this role 42",
+      "steps": [
+        "I am interested.",
+        "I am interested in this role.",
+        "I am interested in this role because it matches my skills.",
+        "I am interested in this role because it matches my skills and goals.",
+        "I am interested in this role because it matches my skills and gives me room to grow."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "interview_basics",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_043",
+      "module": "sentenceBuilder",
+      "level": 3,
+      "category": "Interview Basics",
+      "title": "Discussing weakness 43",
+      "steps": [
+        "I am improving.",
+        "I am improving my English.",
+        "I am improving my English speaking skills.",
+        "I am improving my English speaking skills through daily practice.",
+        "I am improving my English speaking skills through daily practice and structured interview preparation."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "interview_basics",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_044",
+      "module": "sentenceBuilder",
+      "level": 3,
+      "category": "Explaining Experience",
+      "title": "Describing tools 44",
+      "steps": [
+        "I used tools.",
+        "I used online tools.",
+        "I used online tools for daily work.",
+        "I used online tools for daily work, reporting, and communication.",
+        "I used online tools for daily work, reporting, and communication with team members."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "explaining_experience",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_045",
+      "module": "sentenceBuilder",
+      "level": 3,
+      "category": "Explaining Experience",
+      "title": "Explaining teamwork 45",
+      "steps": [
+        "I worked with a team.",
+        "I worked with a small team.",
+        "I worked with a small team on daily tasks.",
+        "I worked with a small team on daily tasks and shared updates regularly.",
+        "I worked with a small team on daily tasks and shared updates regularly to keep everyone aligned."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "explaining_experience",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_046",
+      "module": "sentenceBuilder",
+      "level": 3,
+      "category": "Clarification",
+      "title": "Clarifying deadline 46",
+      "steps": [
+        "When is it due?",
+        "Could you tell me when it is due?",
+        "Could you tell me when this task is due?",
+        "Could you tell me when this task is due so I can plan properly?",
+        "Could you tell me when this task is due so I can plan properly and prioritize the work?"
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "clarification",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_047",
+      "module": "sentenceBuilder",
+      "level": 3,
+      "category": "Polite Requests",
+      "title": "Requesting details 47",
+      "steps": [
+        "Please share details.",
+        "Could you please share the details?",
+        "Could you please share the details of the task?",
+        "Could you please share the details of the task and the expected outcome?",
+        "Could you please share the details of the task and the expected outcome so I can complete it correctly?"
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "polite_requests",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_048",
+      "module": "sentenceBuilder",
+      "level": 3,
+      "category": "Polite Requests",
+      "title": "Requesting review 48",
+      "steps": [
+        "Please review this.",
+        "Could you please review this?",
+        "Could you please review this when you have time?",
+        "Could you please review this when you have time and let me know if changes are needed?",
+        "Could you please review this when you have time and let me know if any changes are needed before submission?"
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "polite_requests",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_049",
+      "module": "sentenceBuilder",
+      "level": 3,
+      "category": "Giving Status Updates",
+      "title": "Completed task 49",
+      "steps": [
+        "It is done.",
+        "The task is done.",
+        "The task is done and updated.",
+        "The task is done and updated in the file.",
+        "The task is done and updated in the file for your review."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "giving_status_updates",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "builder_050",
+      "module": "sentenceBuilder",
+      "level": 3,
+      "category": "Handling Confusion",
+      "title": "Avoiding guessing 50",
+      "steps": [
+        "I am not sure.",
+        "I am not fully sure.",
+        "I am not fully sure, so I will check.",
+        "I am not fully sure, so I will check before answering.",
+        "I am not fully sure, so I will check before answering to avoid giving incorrect information."
+      ],
+      "tip": "Repeat each step out loud before moving to the longer version.",
+      "futureTags": [
+        "handling_confusion",
+        "sentence_expansion",
+        "speaking_practice"
+      ]
+    }
+  ],
+  "interviewPractice": [
+    {
+      "id": "interview_001",
+      "module": "interviewPractice",
+      "level": 1,
+      "category": "Interview Basics",
+      "question": "Tell me about yourself.",
+      "framework": [
+        "Start with your field or role.",
+        "Mention relevant experience.",
+        "Mention useful skills or tools.",
+        "End with what you want to do next."
+      ],
+      "sampleAnswer": "I have experience in customer communication and operations support. In my previous role, I worked on daily tasks, reporting, and coordination with team members. I am comfortable using online tools, following instructions, and learning new systems. I am now looking for a role where I can continue improving and contribute to a professional team.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not give your full life story. Keep the answer focused on work experience.",
+      "futureTags": [
+        "interview_basics",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_002",
+      "module": "interviewPractice",
+      "level": 1,
+      "category": "Interview Basics",
+      "question": "Walk me through your experience.",
+      "framework": [
+        "Start from your most relevant role.",
+        "Explain your main responsibilities.",
+        "Mention tools or processes you used.",
+        "End with what you learned."
+      ],
+      "sampleAnswer": "In my previous role, I supported daily operations and communication tasks. I was responsible for checking information, updating records, and coordinating with my team. I used tools like Excel, email, and online systems. This experience helped me improve my attention to detail and communication skills.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Avoid listing every job. Focus on the most relevant experience.",
+      "futureTags": [
+        "interview_basics",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_003",
+      "module": "interviewPractice",
+      "level": 1,
+      "category": "Interview Basics",
+      "question": "Why are you interested in this role?",
+      "framework": [
+        "Connect the role to your skills.",
+        "Mention what you want to learn.",
+        "Show interest in contributing.",
+        "Keep it specific."
+      ],
+      "sampleAnswer": "I am interested in this role because it matches my communication and problem-solving skills. I enjoy working in structured environments where I can learn clear processes and improve through practice. I also believe this role will help me grow while contributing to the team’s goals.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not say only that you need a job.",
+      "futureTags": [
+        "interview_basics",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_004",
+      "module": "interviewPractice",
+      "level": 1,
+      "category": "Interview Basics",
+      "question": "What are your strengths?",
+      "framework": [
+        "Choose two or three strengths.",
+        "Give a short example.",
+        "Connect them to the role.",
+        "Sound confident but not arrogant."
+      ],
+      "sampleAnswer": "My main strengths are attention to detail, willingness to learn, and communication. For example, I try to check my work carefully before submitting it, and I ask questions when something is unclear. These habits help me avoid mistakes and improve my performance.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not give a long list without examples.",
+      "futureTags": [
+        "interview_basics",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_005",
+      "module": "interviewPractice",
+      "level": 1,
+      "category": "Interview Basics",
+      "question": "What is one area you are trying to improve?",
+      "framework": [
+        "Choose a real but manageable weakness.",
+        "Explain what you are doing to improve.",
+        "Show progress.",
+        "End positively."
+      ],
+      "sampleAnswer": "One area I am working on is speaking more confidently in English. I can understand and write better than I speak sometimes, so I am practicing speaking every day. I am improving by repeating phrases, listening carefully, and preparing answers before interviews or meetings.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not choose a weakness that is essential to the job unless you explain improvement.",
+      "futureTags": [
+        "interview_basics",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_006",
+      "module": "interviewPractice",
+      "level": 1,
+      "category": "Interview Basics",
+      "question": "Why should we hire you?",
+      "framework": [
+        "Match your skills to the job.",
+        "Mention reliability.",
+        "Give one practical example.",
+        "End confidently."
+      ],
+      "sampleAnswer": "You should hire me because I am reliable, willing to learn, and focused on doing work carefully. I ask questions, follow instructions, and improve through practice. I believe I can support the team and grow into the role.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not sound overconfident without evidence.",
+      "futureTags": [
+        "interview_basics",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_007",
+      "module": "interviewPractice",
+      "level": 1,
+      "category": "Explaining Experience",
+      "question": "Tell me about a project you worked on.",
+      "framework": [
+        "Give context.",
+        "Explain your role.",
+        "Describe what you did.",
+        "Mention the result or learning."
+      ],
+      "sampleAnswer": "One project I worked on involved organizing information and preparing regular updates for the team. My role was to check the data, update the file, and communicate any issues. This helped the team stay organized and taught me the importance of accuracy.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not describe the project without explaining your own role.",
+      "futureTags": [
+        "explaining_experience",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_008",
+      "module": "interviewPractice",
+      "level": 1,
+      "category": "Customer Support",
+      "question": "How would you handle an upset customer?",
+      "framework": [
+        "Acknowledge feelings.",
+        "Stay calm.",
+        "Ask for details.",
+        "Offer the next step."
+      ],
+      "sampleAnswer": "I would stay calm and listen carefully to understand the customer’s concern. I would acknowledge the issue, ask for the necessary details, and explain the next step clearly. If I cannot solve it myself, I would escalate it to the right person.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not argue with the customer.",
+      "futureTags": [
+        "customer_support",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_009",
+      "module": "interviewPractice",
+      "level": 1,
+      "category": "Clarification",
+      "question": "What do you do when instructions are unclear?",
+      "framework": [
+        "Pause before acting.",
+        "Ask specific questions.",
+        "Repeat your understanding.",
+        "Proceed after confirmation."
+      ],
+      "sampleAnswer": "When instructions are unclear, I try not to guess. I ask specific questions and repeat what I understood to confirm. Once the requirement is clear, I continue with the task carefully.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not continue without clarifying.",
+      "futureTags": [
+        "clarification",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_010",
+      "module": "interviewPractice",
+      "level": 1,
+      "category": "Confidence Building",
+      "question": "How do you manage pressure?",
+      "framework": [
+        "Stay calm.",
+        "Break work into steps.",
+        "Prioritize.",
+        "Communicate early."
+      ],
+      "sampleAnswer": "I manage pressure by staying calm and breaking the work into smaller steps. I try to understand what is most urgent and focus on that first. If there is a risk of delay, I communicate early so the team can plan properly.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not say pressure never affects you.",
+      "futureTags": [
+        "confidence_building",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_011",
+      "module": "interviewPractice",
+      "level": 1,
+      "category": "Professional Small Talk",
+      "question": "How would you start a client call?",
+      "framework": [
+        "Greet politely.",
+        "Introduce yourself.",
+        "Thank them.",
+        "Set context."
+      ],
+      "sampleAnswer": "I would start by greeting the client politely and introducing myself. For example, I might say, 'Good morning, thank you for joining the call. My name is ___, and I’m happy to discuss this with you today.'",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not start too casually.",
+      "futureTags": [
+        "professional_small_talk",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_012",
+      "module": "interviewPractice",
+      "level": 1,
+      "category": "Grammar Pattern Practice",
+      "question": "Explain the difference between 'for' and 'since'.",
+      "framework": [
+        "Use 'for' with duration.",
+        "Use 'since' with starting point.",
+        "Give examples.",
+        "Keep it simple."
+      ],
+      "sampleAnswer": "We use 'for' when we talk about a length of time, like 'for two years.' We use 'since' when we talk about the starting point, like 'since 2022.' For example, 'I have worked here for two years' and 'I have worked here since 2022.'",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not say 'since two years'.",
+      "futureTags": [
+        "grammar_pattern_practice",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_013",
+      "module": "interviewPractice",
+      "level": 1,
+      "category": "Interview Basics",
+      "question": "Why should we hire you?",
+      "framework": [
+        "Match your skills to the job.",
+        "Mention reliability.",
+        "Give one practical example.",
+        "End confidently."
+      ],
+      "sampleAnswer": "You should hire me because I am reliable, willing to learn, and focused on doing work carefully. I ask questions, follow instructions, and improve through practice. I believe I can support the team and grow into the role.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not sound overconfident without evidence.",
+      "futureTags": [
+        "interview_basics",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_014",
+      "module": "interviewPractice",
+      "level": 1,
+      "category": "Explaining Experience",
+      "question": "Tell me about a project you worked on.",
+      "framework": [
+        "Give context.",
+        "Explain your role.",
+        "Describe what you did.",
+        "Mention the result or learning."
+      ],
+      "sampleAnswer": "One project I worked on involved organizing information and preparing regular updates for the team. My role was to check the data, update the file, and communicate any issues. This helped the team stay organized and taught me the importance of accuracy.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not describe the project without explaining your own role.",
+      "futureTags": [
+        "explaining_experience",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_015",
+      "module": "interviewPractice",
+      "level": 1,
+      "category": "Customer Support",
+      "question": "How would you handle an upset customer?",
+      "framework": [
+        "Acknowledge feelings.",
+        "Stay calm.",
+        "Ask for details.",
+        "Offer the next step."
+      ],
+      "sampleAnswer": "I would stay calm and listen carefully to understand the customer’s concern. I would acknowledge the issue, ask for the necessary details, and explain the next step clearly. If I cannot solve it myself, I would escalate it to the right person.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not argue with the customer.",
+      "futureTags": [
+        "customer_support",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_016",
+      "module": "interviewPractice",
+      "level": 2,
+      "category": "Clarification",
+      "question": "What do you do when instructions are unclear?",
+      "framework": [
+        "Pause before acting.",
+        "Ask specific questions.",
+        "Repeat your understanding.",
+        "Proceed after confirmation."
+      ],
+      "sampleAnswer": "When instructions are unclear, I try not to guess. I ask specific questions and repeat what I understood to confirm. Once the requirement is clear, I continue with the task carefully.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not continue without clarifying.",
+      "futureTags": [
+        "clarification",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_017",
+      "module": "interviewPractice",
+      "level": 2,
+      "category": "Confidence Building",
+      "question": "How do you manage pressure?",
+      "framework": [
+        "Stay calm.",
+        "Break work into steps.",
+        "Prioritize.",
+        "Communicate early."
+      ],
+      "sampleAnswer": "I manage pressure by staying calm and breaking the work into smaller steps. I try to understand what is most urgent and focus on that first. If there is a risk of delay, I communicate early so the team can plan properly.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not say pressure never affects you.",
+      "futureTags": [
+        "confidence_building",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_018",
+      "module": "interviewPractice",
+      "level": 2,
+      "category": "Professional Small Talk",
+      "question": "How would you start a client call?",
+      "framework": [
+        "Greet politely.",
+        "Introduce yourself.",
+        "Thank them.",
+        "Set context."
+      ],
+      "sampleAnswer": "I would start by greeting the client politely and introducing myself. For example, I might say, 'Good morning, thank you for joining the call. My name is ___, and I’m happy to discuss this with you today.'",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not start too casually.",
+      "futureTags": [
+        "professional_small_talk",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_019",
+      "module": "interviewPractice",
+      "level": 2,
+      "category": "Grammar Pattern Practice",
+      "question": "Explain the difference between 'for' and 'since'.",
+      "framework": [
+        "Use 'for' with duration.",
+        "Use 'since' with starting point.",
+        "Give examples.",
+        "Keep it simple."
+      ],
+      "sampleAnswer": "We use 'for' when we talk about a length of time, like 'for two years.' We use 'since' when we talk about the starting point, like 'since 2022.' For example, 'I have worked here for two years' and 'I have worked here since 2022.'",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not say 'since two years'.",
+      "futureTags": [
+        "grammar_pattern_practice",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_020",
+      "module": "interviewPractice",
+      "level": 2,
+      "category": "Interview Basics",
+      "question": "Why should we hire you?",
+      "framework": [
+        "Match your skills to the job.",
+        "Mention reliability.",
+        "Give one practical example.",
+        "End confidently."
+      ],
+      "sampleAnswer": "You should hire me because I am reliable, willing to learn, and focused on doing work carefully. I ask questions, follow instructions, and improve through practice. I believe I can support the team and grow into the role.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not sound overconfident without evidence.",
+      "futureTags": [
+        "interview_basics",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_021",
+      "module": "interviewPractice",
+      "level": 2,
+      "category": "Explaining Experience",
+      "question": "Tell me about a project you worked on.",
+      "framework": [
+        "Give context.",
+        "Explain your role.",
+        "Describe what you did.",
+        "Mention the result or learning."
+      ],
+      "sampleAnswer": "One project I worked on involved organizing information and preparing regular updates for the team. My role was to check the data, update the file, and communicate any issues. This helped the team stay organized and taught me the importance of accuracy.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not describe the project without explaining your own role.",
+      "futureTags": [
+        "explaining_experience",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_022",
+      "module": "interviewPractice",
+      "level": 2,
+      "category": "Customer Support",
+      "question": "How would you handle an upset customer?",
+      "framework": [
+        "Acknowledge feelings.",
+        "Stay calm.",
+        "Ask for details.",
+        "Offer the next step."
+      ],
+      "sampleAnswer": "I would stay calm and listen carefully to understand the customer’s concern. I would acknowledge the issue, ask for the necessary details, and explain the next step clearly. If I cannot solve it myself, I would escalate it to the right person.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not argue with the customer.",
+      "futureTags": [
+        "customer_support",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_023",
+      "module": "interviewPractice",
+      "level": 2,
+      "category": "Clarification",
+      "question": "What do you do when instructions are unclear?",
+      "framework": [
+        "Pause before acting.",
+        "Ask specific questions.",
+        "Repeat your understanding.",
+        "Proceed after confirmation."
+      ],
+      "sampleAnswer": "When instructions are unclear, I try not to guess. I ask specific questions and repeat what I understood to confirm. Once the requirement is clear, I continue with the task carefully.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not continue without clarifying.",
+      "futureTags": [
+        "clarification",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_024",
+      "module": "interviewPractice",
+      "level": 2,
+      "category": "Confidence Building",
+      "question": "How do you manage pressure?",
+      "framework": [
+        "Stay calm.",
+        "Break work into steps.",
+        "Prioritize.",
+        "Communicate early."
+      ],
+      "sampleAnswer": "I manage pressure by staying calm and breaking the work into smaller steps. I try to understand what is most urgent and focus on that first. If there is a risk of delay, I communicate early so the team can plan properly.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not say pressure never affects you.",
+      "futureTags": [
+        "confidence_building",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_025",
+      "module": "interviewPractice",
+      "level": 2,
+      "category": "Professional Small Talk",
+      "question": "How would you start a client call?",
+      "framework": [
+        "Greet politely.",
+        "Introduce yourself.",
+        "Thank them.",
+        "Set context."
+      ],
+      "sampleAnswer": "I would start by greeting the client politely and introducing myself. For example, I might say, 'Good morning, thank you for joining the call. My name is ___, and I’m happy to discuss this with you today.'",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not start too casually.",
+      "futureTags": [
+        "professional_small_talk",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_026",
+      "module": "interviewPractice",
+      "level": 2,
+      "category": "Grammar Pattern Practice",
+      "question": "Explain the difference between 'for' and 'since'.",
+      "framework": [
+        "Use 'for' with duration.",
+        "Use 'since' with starting point.",
+        "Give examples.",
+        "Keep it simple."
+      ],
+      "sampleAnswer": "We use 'for' when we talk about a length of time, like 'for two years.' We use 'since' when we talk about the starting point, like 'since 2022.' For example, 'I have worked here for two years' and 'I have worked here since 2022.'",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not say 'since two years'.",
+      "futureTags": [
+        "grammar_pattern_practice",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_027",
+      "module": "interviewPractice",
+      "level": 2,
+      "category": "Interview Basics",
+      "question": "Why should we hire you?",
+      "framework": [
+        "Match your skills to the job.",
+        "Mention reliability.",
+        "Give one practical example.",
+        "End confidently."
+      ],
+      "sampleAnswer": "You should hire me because I am reliable, willing to learn, and focused on doing work carefully. I ask questions, follow instructions, and improve through practice. I believe I can support the team and grow into the role.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not sound overconfident without evidence.",
+      "futureTags": [
+        "interview_basics",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_028",
+      "module": "interviewPractice",
+      "level": 2,
+      "category": "Explaining Experience",
+      "question": "Tell me about a project you worked on.",
+      "framework": [
+        "Give context.",
+        "Explain your role.",
+        "Describe what you did.",
+        "Mention the result or learning."
+      ],
+      "sampleAnswer": "One project I worked on involved organizing information and preparing regular updates for the team. My role was to check the data, update the file, and communicate any issues. This helped the team stay organized and taught me the importance of accuracy.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not describe the project without explaining your own role.",
+      "futureTags": [
+        "explaining_experience",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_029",
+      "module": "interviewPractice",
+      "level": 2,
+      "category": "Customer Support",
+      "question": "How would you handle an upset customer?",
+      "framework": [
+        "Acknowledge feelings.",
+        "Stay calm.",
+        "Ask for details.",
+        "Offer the next step."
+      ],
+      "sampleAnswer": "I would stay calm and listen carefully to understand the customer’s concern. I would acknowledge the issue, ask for the necessary details, and explain the next step clearly. If I cannot solve it myself, I would escalate it to the right person.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not argue with the customer.",
+      "futureTags": [
+        "customer_support",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_030",
+      "module": "interviewPractice",
+      "level": 2,
+      "category": "Clarification",
+      "question": "What do you do when instructions are unclear?",
+      "framework": [
+        "Pause before acting.",
+        "Ask specific questions.",
+        "Repeat your understanding.",
+        "Proceed after confirmation."
+      ],
+      "sampleAnswer": "When instructions are unclear, I try not to guess. I ask specific questions and repeat what I understood to confirm. Once the requirement is clear, I continue with the task carefully.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not continue without clarifying.",
+      "futureTags": [
+        "clarification",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_031",
+      "module": "interviewPractice",
+      "level": 2,
+      "category": "Confidence Building",
+      "question": "How do you manage pressure?",
+      "framework": [
+        "Stay calm.",
+        "Break work into steps.",
+        "Prioritize.",
+        "Communicate early."
+      ],
+      "sampleAnswer": "I manage pressure by staying calm and breaking the work into smaller steps. I try to understand what is most urgent and focus on that first. If there is a risk of delay, I communicate early so the team can plan properly.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not say pressure never affects you.",
+      "futureTags": [
+        "confidence_building",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_032",
+      "module": "interviewPractice",
+      "level": 2,
+      "category": "Professional Small Talk",
+      "question": "How would you start a client call?",
+      "framework": [
+        "Greet politely.",
+        "Introduce yourself.",
+        "Thank them.",
+        "Set context."
+      ],
+      "sampleAnswer": "I would start by greeting the client politely and introducing myself. For example, I might say, 'Good morning, thank you for joining the call. My name is ___, and I’m happy to discuss this with you today.'",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not start too casually.",
+      "futureTags": [
+        "professional_small_talk",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_033",
+      "module": "interviewPractice",
+      "level": 2,
+      "category": "Grammar Pattern Practice",
+      "question": "Explain the difference between 'for' and 'since'.",
+      "framework": [
+        "Use 'for' with duration.",
+        "Use 'since' with starting point.",
+        "Give examples.",
+        "Keep it simple."
+      ],
+      "sampleAnswer": "We use 'for' when we talk about a length of time, like 'for two years.' We use 'since' when we talk about the starting point, like 'since 2022.' For example, 'I have worked here for two years' and 'I have worked here since 2022.'",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not say 'since two years'.",
+      "futureTags": [
+        "grammar_pattern_practice",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_034",
+      "module": "interviewPractice",
+      "level": 2,
+      "category": "Interview Basics",
+      "question": "Why should we hire you?",
+      "framework": [
+        "Match your skills to the job.",
+        "Mention reliability.",
+        "Give one practical example.",
+        "End confidently."
+      ],
+      "sampleAnswer": "You should hire me because I am reliable, willing to learn, and focused on doing work carefully. I ask questions, follow instructions, and improve through practice. I believe I can support the team and grow into the role.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not sound overconfident without evidence.",
+      "futureTags": [
+        "interview_basics",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_035",
+      "module": "interviewPractice",
+      "level": 2,
+      "category": "Explaining Experience",
+      "question": "Tell me about a project you worked on.",
+      "framework": [
+        "Give context.",
+        "Explain your role.",
+        "Describe what you did.",
+        "Mention the result or learning."
+      ],
+      "sampleAnswer": "One project I worked on involved organizing information and preparing regular updates for the team. My role was to check the data, update the file, and communicate any issues. This helped the team stay organized and taught me the importance of accuracy.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not describe the project without explaining your own role.",
+      "futureTags": [
+        "explaining_experience",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_036",
+      "module": "interviewPractice",
+      "level": 3,
+      "category": "Customer Support",
+      "question": "How would you handle an upset customer?",
+      "framework": [
+        "Acknowledge feelings.",
+        "Stay calm.",
+        "Ask for details.",
+        "Offer the next step."
+      ],
+      "sampleAnswer": "I would stay calm and listen carefully to understand the customer’s concern. I would acknowledge the issue, ask for the necessary details, and explain the next step clearly. If I cannot solve it myself, I would escalate it to the right person.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not argue with the customer.",
+      "futureTags": [
+        "customer_support",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_037",
+      "module": "interviewPractice",
+      "level": 3,
+      "category": "Clarification",
+      "question": "What do you do when instructions are unclear?",
+      "framework": [
+        "Pause before acting.",
+        "Ask specific questions.",
+        "Repeat your understanding.",
+        "Proceed after confirmation."
+      ],
+      "sampleAnswer": "When instructions are unclear, I try not to guess. I ask specific questions and repeat what I understood to confirm. Once the requirement is clear, I continue with the task carefully.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not continue without clarifying.",
+      "futureTags": [
+        "clarification",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_038",
+      "module": "interviewPractice",
+      "level": 3,
+      "category": "Confidence Building",
+      "question": "How do you manage pressure?",
+      "framework": [
+        "Stay calm.",
+        "Break work into steps.",
+        "Prioritize.",
+        "Communicate early."
+      ],
+      "sampleAnswer": "I manage pressure by staying calm and breaking the work into smaller steps. I try to understand what is most urgent and focus on that first. If there is a risk of delay, I communicate early so the team can plan properly.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not say pressure never affects you.",
+      "futureTags": [
+        "confidence_building",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_039",
+      "module": "interviewPractice",
+      "level": 3,
+      "category": "Professional Small Talk",
+      "question": "How would you start a client call?",
+      "framework": [
+        "Greet politely.",
+        "Introduce yourself.",
+        "Thank them.",
+        "Set context."
+      ],
+      "sampleAnswer": "I would start by greeting the client politely and introducing myself. For example, I might say, 'Good morning, thank you for joining the call. My name is ___, and I’m happy to discuss this with you today.'",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not start too casually.",
+      "futureTags": [
+        "professional_small_talk",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_040",
+      "module": "interviewPractice",
+      "level": 3,
+      "category": "Grammar Pattern Practice",
+      "question": "Explain the difference between 'for' and 'since'.",
+      "framework": [
+        "Use 'for' with duration.",
+        "Use 'since' with starting point.",
+        "Give examples.",
+        "Keep it simple."
+      ],
+      "sampleAnswer": "We use 'for' when we talk about a length of time, like 'for two years.' We use 'since' when we talk about the starting point, like 'since 2022.' For example, 'I have worked here for two years' and 'I have worked here since 2022.'",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not say 'since two years'.",
+      "futureTags": [
+        "grammar_pattern_practice",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_041",
+      "module": "interviewPractice",
+      "level": 3,
+      "category": "Interview Basics",
+      "question": "Why should we hire you?",
+      "framework": [
+        "Match your skills to the job.",
+        "Mention reliability.",
+        "Give one practical example.",
+        "End confidently."
+      ],
+      "sampleAnswer": "You should hire me because I am reliable, willing to learn, and focused on doing work carefully. I ask questions, follow instructions, and improve through practice. I believe I can support the team and grow into the role.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not sound overconfident without evidence.",
+      "futureTags": [
+        "interview_basics",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_042",
+      "module": "interviewPractice",
+      "level": 3,
+      "category": "Explaining Experience",
+      "question": "Tell me about a project you worked on.",
+      "framework": [
+        "Give context.",
+        "Explain your role.",
+        "Describe what you did.",
+        "Mention the result or learning."
+      ],
+      "sampleAnswer": "One project I worked on involved organizing information and preparing regular updates for the team. My role was to check the data, update the file, and communicate any issues. This helped the team stay organized and taught me the importance of accuracy.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not describe the project without explaining your own role.",
+      "futureTags": [
+        "explaining_experience",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_043",
+      "module": "interviewPractice",
+      "level": 3,
+      "category": "Customer Support",
+      "question": "How would you handle an upset customer?",
+      "framework": [
+        "Acknowledge feelings.",
+        "Stay calm.",
+        "Ask for details.",
+        "Offer the next step."
+      ],
+      "sampleAnswer": "I would stay calm and listen carefully to understand the customer’s concern. I would acknowledge the issue, ask for the necessary details, and explain the next step clearly. If I cannot solve it myself, I would escalate it to the right person.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not argue with the customer.",
+      "futureTags": [
+        "customer_support",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_044",
+      "module": "interviewPractice",
+      "level": 3,
+      "category": "Clarification",
+      "question": "What do you do when instructions are unclear?",
+      "framework": [
+        "Pause before acting.",
+        "Ask specific questions.",
+        "Repeat your understanding.",
+        "Proceed after confirmation."
+      ],
+      "sampleAnswer": "When instructions are unclear, I try not to guess. I ask specific questions and repeat what I understood to confirm. Once the requirement is clear, I continue with the task carefully.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not continue without clarifying.",
+      "futureTags": [
+        "clarification",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_045",
+      "module": "interviewPractice",
+      "level": 3,
+      "category": "Confidence Building",
+      "question": "How do you manage pressure?",
+      "framework": [
+        "Stay calm.",
+        "Break work into steps.",
+        "Prioritize.",
+        "Communicate early."
+      ],
+      "sampleAnswer": "I manage pressure by staying calm and breaking the work into smaller steps. I try to understand what is most urgent and focus on that first. If there is a risk of delay, I communicate early so the team can plan properly.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not say pressure never affects you.",
+      "futureTags": [
+        "confidence_building",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_046",
+      "module": "interviewPractice",
+      "level": 3,
+      "category": "Professional Small Talk",
+      "question": "How would you start a client call?",
+      "framework": [
+        "Greet politely.",
+        "Introduce yourself.",
+        "Thank them.",
+        "Set context."
+      ],
+      "sampleAnswer": "I would start by greeting the client politely and introducing myself. For example, I might say, 'Good morning, thank you for joining the call. My name is ___, and I’m happy to discuss this with you today.'",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not start too casually.",
+      "futureTags": [
+        "professional_small_talk",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_047",
+      "module": "interviewPractice",
+      "level": 3,
+      "category": "Grammar Pattern Practice",
+      "question": "Explain the difference between 'for' and 'since'.",
+      "framework": [
+        "Use 'for' with duration.",
+        "Use 'since' with starting point.",
+        "Give examples.",
+        "Keep it simple."
+      ],
+      "sampleAnswer": "We use 'for' when we talk about a length of time, like 'for two years.' We use 'since' when we talk about the starting point, like 'since 2022.' For example, 'I have worked here for two years' and 'I have worked here since 2022.'",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not say 'since two years'.",
+      "futureTags": [
+        "grammar_pattern_practice",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_048",
+      "module": "interviewPractice",
+      "level": 3,
+      "category": "Interview Basics",
+      "question": "Why should we hire you?",
+      "framework": [
+        "Match your skills to the job.",
+        "Mention reliability.",
+        "Give one practical example.",
+        "End confidently."
+      ],
+      "sampleAnswer": "You should hire me because I am reliable, willing to learn, and focused on doing work carefully. I ask questions, follow instructions, and improve through practice. I believe I can support the team and grow into the role.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not sound overconfident without evidence.",
+      "futureTags": [
+        "interview_basics",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_049",
+      "module": "interviewPractice",
+      "level": 3,
+      "category": "Explaining Experience",
+      "question": "Tell me about a project you worked on.",
+      "framework": [
+        "Give context.",
+        "Explain your role.",
+        "Describe what you did.",
+        "Mention the result or learning."
+      ],
+      "sampleAnswer": "One project I worked on involved organizing information and preparing regular updates for the team. My role was to check the data, update the file, and communicate any issues. This helped the team stay organized and taught me the importance of accuracy.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not describe the project without explaining your own role.",
+      "futureTags": [
+        "explaining_experience",
+        "interview",
+        "speaking_practice"
+      ]
+    },
+    {
+      "id": "interview_050",
+      "module": "interviewPractice",
+      "level": 3,
+      "category": "Customer Support",
+      "question": "How would you handle an upset customer?",
+      "framework": [
+        "Acknowledge feelings.",
+        "Stay calm.",
+        "Ask for details.",
+        "Offer the next step."
+      ],
+      "sampleAnswer": "I would stay calm and listen carefully to understand the customer’s concern. I would acknowledge the issue, ask for the necessary details, and explain the next step clearly. If I cannot solve it myself, I would escalate it to the right person.",
+      "selfReviewChecklist": [
+        "Did I answer the question directly?",
+        "Did I use complete sentences?",
+        "Did I give at least one specific detail or example?",
+        "Was my answer clear and concise?"
+      ],
+      "commonMistake": "Do not argue with the customer.",
+      "futureTags": [
+        "customer_support",
+        "interview",
+        "speaking_practice"
+      ]
+    }
+  ],
+  "listeningComprehension": [
+    {
+      "id": "listening_001",
+      "module": "listeningComprehension",
+      "level": 1,
+      "category": "Interview Basics",
+      "audioText": "Could you walk me through your previous experience?",
+      "question": "What is the speaker asking?",
+      "options": [
+        "They want you to explain your past work step by step.",
+        "They are asking about salary.",
+        "They are asking for a home address.",
+        "They are ending the conversation."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The phrase 'walk me through' means explain step by step.",
+      "futureTags": [
+        "interview_basics",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_002",
+      "module": "listeningComprehension",
+      "level": 1,
+      "category": "Interview Basics",
+      "audioText": "Tell me about a time you handled a difficult task.",
+      "question": "What should you talk about?",
+      "options": [
+        "Your favorite hobby.",
+        "A specific challenging task and how you handled it.",
+        "Your salary expectation.",
+        "Your commute."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "They want a specific example, not a general statement.",
+      "futureTags": [
+        "interview_basics",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_003",
+      "module": "listeningComprehension",
+      "level": 1,
+      "category": "Clarification",
+      "audioText": "Could you clarify the last point?",
+      "question": "What does the speaker need?",
+      "options": [
+        "They need the last point explained more clearly.",
+        "They are agreeing completely.",
+        "They want to end the call.",
+        "They are asking about lunch."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Clarify means make something clearer.",
+      "futureTags": [
+        "clarification",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_004",
+      "module": "listeningComprehension",
+      "level": 1,
+      "category": "Polite Requests",
+      "audioText": "Could you please send the details by email?",
+      "question": "What is being requested?",
+      "options": [
+        "A phone call only.",
+        "Written details by email.",
+        "A meeting cancellation.",
+        "A salary increase."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "The speaker wants the information in writing.",
+      "futureTags": [
+        "polite_requests",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_005",
+      "module": "listeningComprehension",
+      "level": 1,
+      "category": "Giving Status Updates",
+      "audioText": "I have completed the first part of the task.",
+      "question": "What does this mean?",
+      "options": [
+        "The entire task is cancelled.",
+        "Only the first part is done.",
+        "The task has not started.",
+        "The deadline changed."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "First part completed means there is more work remaining.",
+      "futureTags": [
+        "giving_status_updates",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_006",
+      "module": "listeningComprehension",
+      "level": 1,
+      "category": "Customer Support",
+      "audioText": "Thank you for your patience while I check this for you.",
+      "question": "What is the speaker doing?",
+      "options": [
+        "Asking the customer to wait politely.",
+        "Blaming the customer.",
+        "Ending the conversation angrily.",
+        "Ignoring the issue."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This is a polite support phrase during checking.",
+      "futureTags": [
+        "customer_support",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_007",
+      "module": "listeningComprehension",
+      "level": 1,
+      "category": "Handling Confusion",
+      "audioText": "I may need a little more context before I answer.",
+      "question": "What does the speaker need?",
+      "options": [
+        "More background information.",
+        "A salary raise.",
+        "A lunch break.",
+        "A new computer."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Context means background or additional information.",
+      "futureTags": [
+        "handling_confusion",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_008",
+      "module": "listeningComprehension",
+      "level": 1,
+      "category": "Confidence Building",
+      "audioText": "I can learn the process quickly if I get clear instructions.",
+      "question": "What is the speaker saying?",
+      "options": [
+        "They are willing to learn with guidance.",
+        "They refuse to learn.",
+        "They already know everything.",
+        "They need no instructions."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The sentence shows adaptability and willingness.",
+      "futureTags": [
+        "confidence_building",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_009",
+      "module": "listeningComprehension",
+      "level": 1,
+      "category": "Professional Small Talk",
+      "audioText": "Thank you for taking the time to speak with me today.",
+      "question": "When would someone say this?",
+      "options": [
+        "At the beginning or end of a professional conversation.",
+        "When ordering food.",
+        "When complaining about traffic.",
+        "When asking for a password."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "This is a polite professional phrase.",
+      "futureTags": [
+        "professional_small_talk",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_010",
+      "module": "listeningComprehension",
+      "level": 1,
+      "category": "Grammar Pattern Practice",
+      "audioText": "I have worked here for two years.",
+      "question": "What does 'for two years' show?",
+      "options": [
+        "A duration of time.",
+        "A starting date.",
+        "A place.",
+        "A mistake."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Use 'for' with a length of time.",
+      "futureTags": [
+        "grammar_pattern_practice",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_011",
+      "module": "listeningComprehension",
+      "level": 1,
+      "category": "Interview Basics",
+      "audioText": "What kind of work environment do you prefer?",
+      "question": "What should you describe?",
+      "options": [
+        "Your preferred professional work environment.",
+        "Your favorite restaurant.",
+        "Your family members.",
+        "Your home address."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The question asks about work style and environment.",
+      "futureTags": [
+        "interview_basics",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_012",
+      "module": "listeningComprehension",
+      "level": 1,
+      "category": "Explaining Experience",
+      "audioText": "What were your main responsibilities?",
+      "question": "What should you explain?",
+      "options": [
+        "The key tasks you handled in your role.",
+        "Your hobbies.",
+        "The interviewer’s responsibilities.",
+        "The company’s address."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Responsibilities means tasks you were expected to do.",
+      "futureTags": [
+        "explaining_experience",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_013",
+      "module": "listeningComprehension",
+      "level": 1,
+      "category": "Clarification",
+      "audioText": "Are you referring to the deadline or the task details?",
+      "question": "What is the speaker clarifying?",
+      "options": [
+        "Which specific point the other person means.",
+        "The lunch menu.",
+        "The customer’s name only.",
+        "A vacation plan."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The speaker is narrowing down the meaning.",
+      "futureTags": [
+        "clarification",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_014",
+      "module": "listeningComprehension",
+      "level": 1,
+      "category": "Polite Requests",
+      "audioText": "May I take a moment to check that?",
+      "question": "What is the speaker asking for?",
+      "options": [
+        "A short time to verify information.",
+        "Permission to leave the company.",
+        "A vacation day.",
+        "A new tool."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "They need time to check.",
+      "futureTags": [
+        "polite_requests",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_015",
+      "module": "listeningComprehension",
+      "level": 1,
+      "category": "Giving Status Updates",
+      "audioText": "The file has been updated for your review.",
+      "question": "What happened?",
+      "options": [
+        "The file was updated and is ready to be reviewed.",
+        "The file was deleted.",
+        "The task has not started.",
+        "The meeting was cancelled."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The update is complete and ready for review.",
+      "futureTags": [
+        "giving_status_updates",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_016",
+      "module": "listeningComprehension",
+      "level": 1,
+      "category": "Handling Confusion",
+      "audioText": "There may be a small misunderstanding here.",
+      "question": "What is the speaker suggesting?",
+      "options": [
+        "Something may not have been understood correctly.",
+        "Everything is perfect.",
+        "The work is complete.",
+        "The meeting is over."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "A misunderstanding means confusion between people.",
+      "futureTags": [
+        "handling_confusion",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_017",
+      "module": "listeningComprehension",
+      "level": 1,
+      "category": "Customer Support",
+      "audioText": "I will escalate this to the appropriate team.",
+      "question": "What does escalate mean here?",
+      "options": [
+        "Send the issue to the right team for help.",
+        "Make the customer angry.",
+        "Delete the issue.",
+        "Ignore the request."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Escalate means pass the issue to someone better able to handle it.",
+      "futureTags": [
+        "customer_support",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_018",
+      "module": "listeningComprehension",
+      "level": 1,
+      "category": "Confidence Building",
+      "audioText": "I try to stay calm under pressure.",
+      "question": "What does this describe?",
+      "options": [
+        "How the speaker handles stressful situations.",
+        "A grammar rule only.",
+        "A vacation plan.",
+        "A customer complaint only."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "It describes work behavior under pressure.",
+      "futureTags": [
+        "confidence_building",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_019",
+      "module": "listeningComprehension",
+      "level": 2,
+      "category": "Professional Small Talk",
+      "audioText": "Have a great rest of your day.",
+      "question": "What type of phrase is this?",
+      "options": [
+        "A polite closing phrase.",
+        "A question about work history.",
+        "A complaint.",
+        "An instruction."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "It closes a conversation warmly.",
+      "futureTags": [
+        "professional_small_talk",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_020",
+      "module": "listeningComprehension",
+      "level": 2,
+      "category": "Grammar Pattern Practice",
+      "audioText": "I worked on this yesterday.",
+      "question": "What tense is this?",
+      "options": [
+        "Past simple.",
+        "Present continuous.",
+        "Future tense.",
+        "Present perfect continuous."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "'Worked' with yesterday is past simple.",
+      "futureTags": [
+        "grammar_pattern_practice",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_021",
+      "module": "listeningComprehension",
+      "level": 2,
+      "category": "Interview Basics",
+      "audioText": "What kind of work environment do you prefer?",
+      "question": "What should you describe?",
+      "options": [
+        "Your preferred professional work environment.",
+        "Your favorite restaurant.",
+        "Your family members.",
+        "Your home address."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The question asks about work style and environment.",
+      "futureTags": [
+        "interview_basics",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_022",
+      "module": "listeningComprehension",
+      "level": 2,
+      "category": "Explaining Experience",
+      "audioText": "What were your main responsibilities?",
+      "question": "What should you explain?",
+      "options": [
+        "The key tasks you handled in your role.",
+        "Your hobbies.",
+        "The interviewer’s responsibilities.",
+        "The company’s address."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Responsibilities means tasks you were expected to do.",
+      "futureTags": [
+        "explaining_experience",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_023",
+      "module": "listeningComprehension",
+      "level": 2,
+      "category": "Clarification",
+      "audioText": "Are you referring to the deadline or the task details?",
+      "question": "What is the speaker clarifying?",
+      "options": [
+        "Which specific point the other person means.",
+        "The lunch menu.",
+        "The customer’s name only.",
+        "A vacation plan."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The speaker is narrowing down the meaning.",
+      "futureTags": [
+        "clarification",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_024",
+      "module": "listeningComprehension",
+      "level": 2,
+      "category": "Polite Requests",
+      "audioText": "May I take a moment to check that?",
+      "question": "What is the speaker asking for?",
+      "options": [
+        "A short time to verify information.",
+        "Permission to leave the company.",
+        "A vacation day.",
+        "A new tool."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "They need time to check.",
+      "futureTags": [
+        "polite_requests",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_025",
+      "module": "listeningComprehension",
+      "level": 2,
+      "category": "Giving Status Updates",
+      "audioText": "The file has been updated for your review.",
+      "question": "What happened?",
+      "options": [
+        "The file was updated and is ready to be reviewed.",
+        "The file was deleted.",
+        "The task has not started.",
+        "The meeting was cancelled."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The update is complete and ready for review.",
+      "futureTags": [
+        "giving_status_updates",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_026",
+      "module": "listeningComprehension",
+      "level": 2,
+      "category": "Handling Confusion",
+      "audioText": "There may be a small misunderstanding here.",
+      "question": "What is the speaker suggesting?",
+      "options": [
+        "Something may not have been understood correctly.",
+        "Everything is perfect.",
+        "The work is complete.",
+        "The meeting is over."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "A misunderstanding means confusion between people.",
+      "futureTags": [
+        "handling_confusion",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_027",
+      "module": "listeningComprehension",
+      "level": 2,
+      "category": "Customer Support",
+      "audioText": "I will escalate this to the appropriate team.",
+      "question": "What does escalate mean here?",
+      "options": [
+        "Send the issue to the right team for help.",
+        "Make the customer angry.",
+        "Delete the issue.",
+        "Ignore the request."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Escalate means pass the issue to someone better able to handle it.",
+      "futureTags": [
+        "customer_support",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_028",
+      "module": "listeningComprehension",
+      "level": 2,
+      "category": "Confidence Building",
+      "audioText": "I try to stay calm under pressure.",
+      "question": "What does this describe?",
+      "options": [
+        "How the speaker handles stressful situations.",
+        "A grammar rule only.",
+        "A vacation plan.",
+        "A customer complaint only."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "It describes work behavior under pressure.",
+      "futureTags": [
+        "confidence_building",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_029",
+      "module": "listeningComprehension",
+      "level": 2,
+      "category": "Professional Small Talk",
+      "audioText": "Have a great rest of your day.",
+      "question": "What type of phrase is this?",
+      "options": [
+        "A polite closing phrase.",
+        "A question about work history.",
+        "A complaint.",
+        "An instruction."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "It closes a conversation warmly.",
+      "futureTags": [
+        "professional_small_talk",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_030",
+      "module": "listeningComprehension",
+      "level": 2,
+      "category": "Grammar Pattern Practice",
+      "audioText": "I worked on this yesterday.",
+      "question": "What tense is this?",
+      "options": [
+        "Past simple.",
+        "Present continuous.",
+        "Future tense.",
+        "Present perfect continuous."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "'Worked' with yesterday is past simple.",
+      "futureTags": [
+        "grammar_pattern_practice",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_031",
+      "module": "listeningComprehension",
+      "level": 2,
+      "category": "Interview Basics",
+      "audioText": "What kind of work environment do you prefer?",
+      "question": "What should you describe?",
+      "options": [
+        "Your preferred professional work environment.",
+        "Your favorite restaurant.",
+        "Your family members.",
+        "Your home address."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The question asks about work style and environment.",
+      "futureTags": [
+        "interview_basics",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_032",
+      "module": "listeningComprehension",
+      "level": 2,
+      "category": "Explaining Experience",
+      "audioText": "What were your main responsibilities?",
+      "question": "What should you explain?",
+      "options": [
+        "The key tasks you handled in your role.",
+        "Your hobbies.",
+        "The interviewer’s responsibilities.",
+        "The company’s address."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Responsibilities means tasks you were expected to do.",
+      "futureTags": [
+        "explaining_experience",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_033",
+      "module": "listeningComprehension",
+      "level": 2,
+      "category": "Clarification",
+      "audioText": "Are you referring to the deadline or the task details?",
+      "question": "What is the speaker clarifying?",
+      "options": [
+        "Which specific point the other person means.",
+        "The lunch menu.",
+        "The customer’s name only.",
+        "A vacation plan."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The speaker is narrowing down the meaning.",
+      "futureTags": [
+        "clarification",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_034",
+      "module": "listeningComprehension",
+      "level": 2,
+      "category": "Polite Requests",
+      "audioText": "May I take a moment to check that?",
+      "question": "What is the speaker asking for?",
+      "options": [
+        "A short time to verify information.",
+        "Permission to leave the company.",
+        "A vacation day.",
+        "A new tool."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "They need time to check.",
+      "futureTags": [
+        "polite_requests",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_035",
+      "module": "listeningComprehension",
+      "level": 2,
+      "category": "Giving Status Updates",
+      "audioText": "The file has been updated for your review.",
+      "question": "What happened?",
+      "options": [
+        "The file was updated and is ready to be reviewed.",
+        "The file was deleted.",
+        "The task has not started.",
+        "The meeting was cancelled."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The update is complete and ready for review.",
+      "futureTags": [
+        "giving_status_updates",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_036",
+      "module": "listeningComprehension",
+      "level": 2,
+      "category": "Handling Confusion",
+      "audioText": "There may be a small misunderstanding here.",
+      "question": "What is the speaker suggesting?",
+      "options": [
+        "Something may not have been understood correctly.",
+        "Everything is perfect.",
+        "The work is complete.",
+        "The meeting is over."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "A misunderstanding means confusion between people.",
+      "futureTags": [
+        "handling_confusion",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_037",
+      "module": "listeningComprehension",
+      "level": 3,
+      "category": "Customer Support",
+      "audioText": "I will escalate this to the appropriate team.",
+      "question": "What does escalate mean here?",
+      "options": [
+        "Send the issue to the right team for help.",
+        "Make the customer angry.",
+        "Delete the issue.",
+        "Ignore the request."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Escalate means pass the issue to someone better able to handle it.",
+      "futureTags": [
+        "customer_support",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_038",
+      "module": "listeningComprehension",
+      "level": 3,
+      "category": "Confidence Building",
+      "audioText": "I try to stay calm under pressure.",
+      "question": "What does this describe?",
+      "options": [
+        "How the speaker handles stressful situations.",
+        "A grammar rule only.",
+        "A vacation plan.",
+        "A customer complaint only."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "It describes work behavior under pressure.",
+      "futureTags": [
+        "confidence_building",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_039",
+      "module": "listeningComprehension",
+      "level": 3,
+      "category": "Professional Small Talk",
+      "audioText": "Have a great rest of your day.",
+      "question": "What type of phrase is this?",
+      "options": [
+        "A polite closing phrase.",
+        "A question about work history.",
+        "A complaint.",
+        "An instruction."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "It closes a conversation warmly.",
+      "futureTags": [
+        "professional_small_talk",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_040",
+      "module": "listeningComprehension",
+      "level": 3,
+      "category": "Grammar Pattern Practice",
+      "audioText": "I worked on this yesterday.",
+      "question": "What tense is this?",
+      "options": [
+        "Past simple.",
+        "Present continuous.",
+        "Future tense.",
+        "Present perfect continuous."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "'Worked' with yesterday is past simple.",
+      "futureTags": [
+        "grammar_pattern_practice",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_041",
+      "module": "listeningComprehension",
+      "level": 3,
+      "category": "Interview Basics",
+      "audioText": "What kind of work environment do you prefer?",
+      "question": "What should you describe?",
+      "options": [
+        "Your preferred professional work environment.",
+        "Your favorite restaurant.",
+        "Your family members.",
+        "Your home address."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The question asks about work style and environment.",
+      "futureTags": [
+        "interview_basics",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_042",
+      "module": "listeningComprehension",
+      "level": 3,
+      "category": "Explaining Experience",
+      "audioText": "What were your main responsibilities?",
+      "question": "What should you explain?",
+      "options": [
+        "The key tasks you handled in your role.",
+        "Your hobbies.",
+        "The interviewer’s responsibilities.",
+        "The company’s address."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Responsibilities means tasks you were expected to do.",
+      "futureTags": [
+        "explaining_experience",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_043",
+      "module": "listeningComprehension",
+      "level": 3,
+      "category": "Clarification",
+      "audioText": "Are you referring to the deadline or the task details?",
+      "question": "What is the speaker clarifying?",
+      "options": [
+        "Which specific point the other person means.",
+        "The lunch menu.",
+        "The customer’s name only.",
+        "A vacation plan."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The speaker is narrowing down the meaning.",
+      "futureTags": [
+        "clarification",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_044",
+      "module": "listeningComprehension",
+      "level": 3,
+      "category": "Polite Requests",
+      "audioText": "May I take a moment to check that?",
+      "question": "What is the speaker asking for?",
+      "options": [
+        "A short time to verify information.",
+        "Permission to leave the company.",
+        "A vacation day.",
+        "A new tool."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "They need time to check.",
+      "futureTags": [
+        "polite_requests",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_045",
+      "module": "listeningComprehension",
+      "level": 3,
+      "category": "Giving Status Updates",
+      "audioText": "The file has been updated for your review.",
+      "question": "What happened?",
+      "options": [
+        "The file was updated and is ready to be reviewed.",
+        "The file was deleted.",
+        "The task has not started.",
+        "The meeting was cancelled."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "The update is complete and ready for review.",
+      "futureTags": [
+        "giving_status_updates",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_046",
+      "module": "listeningComprehension",
+      "level": 3,
+      "category": "Handling Confusion",
+      "audioText": "There may be a small misunderstanding here.",
+      "question": "What is the speaker suggesting?",
+      "options": [
+        "Something may not have been understood correctly.",
+        "Everything is perfect.",
+        "The work is complete.",
+        "The meeting is over."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "A misunderstanding means confusion between people.",
+      "futureTags": [
+        "handling_confusion",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_047",
+      "module": "listeningComprehension",
+      "level": 3,
+      "category": "Customer Support",
+      "audioText": "I will escalate this to the appropriate team.",
+      "question": "What does escalate mean here?",
+      "options": [
+        "Send the issue to the right team for help.",
+        "Make the customer angry.",
+        "Delete the issue.",
+        "Ignore the request."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Escalate means pass the issue to someone better able to handle it.",
+      "futureTags": [
+        "customer_support",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_048",
+      "module": "listeningComprehension",
+      "level": 3,
+      "category": "Confidence Building",
+      "audioText": "I try to stay calm under pressure.",
+      "question": "What does this describe?",
+      "options": [
+        "How the speaker handles stressful situations.",
+        "A grammar rule only.",
+        "A vacation plan.",
+        "A customer complaint only."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "It describes work behavior under pressure.",
+      "futureTags": [
+        "confidence_building",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_049",
+      "module": "listeningComprehension",
+      "level": 3,
+      "category": "Professional Small Talk",
+      "audioText": "Have a great rest of your day.",
+      "question": "What type of phrase is this?",
+      "options": [
+        "A polite closing phrase.",
+        "A question about work history.",
+        "A complaint.",
+        "An instruction."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "It closes a conversation warmly.",
+      "futureTags": [
+        "professional_small_talk",
+        "listening",
+        "comprehension"
+      ]
+    },
+    {
+      "id": "listening_050",
+      "module": "listeningComprehension",
+      "level": 3,
+      "category": "Grammar Pattern Practice",
+      "audioText": "I worked on this yesterday.",
+      "question": "What tense is this?",
+      "options": [
+        "Past simple.",
+        "Present continuous.",
+        "Future tense.",
+        "Present perfect continuous."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "'Worked' with yesterday is past simple.",
+      "futureTags": [
+        "grammar_pattern_practice",
+        "listening",
+        "comprehension"
+      ]
+    }
+  ]
+}

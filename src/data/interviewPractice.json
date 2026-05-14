@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "interview_001",
+    "module": "interviewPractice",
+    "level": 1,
+    "category": "Interview Basics",
+    "question": "Tell me about yourself.",
+    "framework": [
+      "Start with your field or role.",
+      "Mention relevant experience.",
+      "Mention useful skills or tools.",
+      "End with what you want to do next."
+    ],
+    "sampleAnswer": "I have experience in customer communication and operations support. In my previous role, I worked on daily tasks, reporting, and coordination with team members. I am comfortable using online tools, following instructions, and learning new systems. I am now looking for a role where I can continue improving and contribute to a professional team.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not give your full life story. Keep the answer focused on work experience.",
+    "futureTags": [
+      "interview_basics",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_002",
+    "module": "interviewPractice",
+    "level": 1,
+    "category": "Interview Basics",
+    "question": "Walk me through your experience.",
+    "framework": [
+      "Start from your most relevant role.",
+      "Explain your main responsibilities.",
+      "Mention tools or processes you used.",
+      "End with what you learned."
+    ],
+    "sampleAnswer": "In my previous role, I supported daily operations and communication tasks. I was responsible for checking information, updating records, and coordinating with my team. I used tools like Excel, email, and online systems. This experience helped me improve my attention to detail and communication skills.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Avoid listing every job. Focus on the most relevant experience.",
+    "futureTags": [
+      "interview_basics",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_003",
+    "module": "interviewPractice",
+    "level": 1,
+    "category": "Interview Basics",
+    "question": "Why are you interested in this role?",
+    "framework": [
+      "Connect the role to your skills.",
+      "Mention what you want to learn.",
+      "Show interest in contributing.",
+      "Keep it specific."
+    ],
+    "sampleAnswer": "I am interested in this role because it matches my communication and problem-solving skills. I enjoy working in structured environments where I can learn clear processes and improve through practice. I also believe this role will help me grow while contributing to the team’s goals.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not say only that you need a job.",
+    "futureTags": [
+      "interview_basics",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_004",
+    "module": "interviewPractice",
+    "level": 1,
+    "category": "Interview Basics",
+    "question": "What are your strengths?",
+    "framework": [
+      "Choose two or three strengths.",
+      "Give a short example.",
+      "Connect them to the role.",
+      "Sound confident but not arrogant."
+    ],
+    "sampleAnswer": "My main strengths are attention to detail, willingness to learn, and communication. For example, I try to check my work carefully before submitting it, and I ask questions when something is unclear. These habits help me avoid mistakes and improve my performance.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not give a long list without examples.",
+    "futureTags": [
+      "interview_basics",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_005",
+    "module": "interviewPractice",
+    "level": 1,
+    "category": "Interview Basics",
+    "question": "What is one area you are trying to improve?",
+    "framework": [
+      "Choose a real but manageable weakness.",
+      "Explain what you are doing to improve.",
+      "Show progress.",
+      "End positively."
+    ],
+    "sampleAnswer": "One area I am working on is speaking more confidently in English. I can understand and write better than I speak sometimes, so I am practicing speaking every day. I am improving by repeating phrases, listening carefully, and preparing answers before interviews or meetings.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not choose a weakness that is essential to the job unless you explain improvement.",
+    "futureTags": [
+      "interview_basics",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_006",
+    "module": "interviewPractice",
+    "level": 1,
+    "category": "Interview Basics",
+    "question": "Why should we hire you?",
+    "framework": [
+      "Match your skills to the job.",
+      "Mention reliability.",
+      "Give one practical example.",
+      "End confidently."
+    ],
+    "sampleAnswer": "You should hire me because I am reliable, willing to learn, and focused on doing work carefully. I ask questions, follow instructions, and improve through practice. I believe I can support the team and grow into the role.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not sound overconfident without evidence.",
+    "futureTags": [
+      "interview_basics",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_007",
+    "module": "interviewPractice",
+    "level": 1,
+    "category": "Explaining Experience",
+    "question": "Tell me about a project you worked on.",
+    "framework": [
+      "Give context.",
+      "Explain your role.",
+      "Describe what you did.",
+      "Mention the result or learning."
+    ],
+    "sampleAnswer": "One project I worked on involved organizing information and preparing regular updates for the team. My role was to check the data, update the file, and communicate any issues. This helped the team stay organized and taught me the importance of accuracy.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not describe the project without explaining your own role.",
+    "futureTags": [
+      "explaining_experience",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_008",
+    "module": "interviewPractice",
+    "level": 1,
+    "category": "Customer Support",
+    "question": "How would you handle an upset customer?",
+    "framework": [
+      "Acknowledge feelings.",
+      "Stay calm.",
+      "Ask for details.",
+      "Offer the next step."
+    ],
+    "sampleAnswer": "I would stay calm and listen carefully to understand the customer’s concern. I would acknowledge the issue, ask for the necessary details, and explain the next step clearly. If I cannot solve it myself, I would escalate it to the right person.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not argue with the customer.",
+    "futureTags": [
+      "customer_support",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_009",
+    "module": "interviewPractice",
+    "level": 1,
+    "category": "Clarification",
+    "question": "What do you do when instructions are unclear?",
+    "framework": [
+      "Pause before acting.",
+      "Ask specific questions.",
+      "Repeat your understanding.",
+      "Proceed after confirmation."
+    ],
+    "sampleAnswer": "When instructions are unclear, I try not to guess. I ask specific questions and repeat what I understood to confirm. Once the requirement is clear, I continue with the task carefully.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not continue without clarifying.",
+    "futureTags": [
+      "clarification",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_010",
+    "module": "interviewPractice",
+    "level": 1,
+    "category": "Confidence Building",
+    "question": "How do you manage pressure?",
+    "framework": [
+      "Stay calm.",
+      "Break work into steps.",
+      "Prioritize.",
+      "Communicate early."
+    ],
+    "sampleAnswer": "I manage pressure by staying calm and breaking the work into smaller steps. I try to understand what is most urgent and focus on that first. If there is a risk of delay, I communicate early so the team can plan properly.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not say pressure never affects you.",
+    "futureTags": [
+      "confidence_building",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_011",
+    "module": "interviewPractice",
+    "level": 1,
+    "category": "Professional Small Talk",
+    "question": "How would you start a client call?",
+    "framework": [
+      "Greet politely.",
+      "Introduce yourself.",
+      "Thank them.",
+      "Set context."
+    ],
+    "sampleAnswer": "I would start by greeting the client politely and introducing myself. For example, I might say, 'Good morning, thank you for joining the call. My name is ___, and I’m happy to discuss this with you today.'",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not start too casually.",
+    "futureTags": [
+      "professional_small_talk",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_012",
+    "module": "interviewPractice",
+    "level": 1,
+    "category": "Grammar Pattern Practice",
+    "question": "Explain the difference between 'for' and 'since'.",
+    "framework": [
+      "Use 'for' with duration.",
+      "Use 'since' with starting point.",
+      "Give examples.",
+      "Keep it simple."
+    ],
+    "sampleAnswer": "We use 'for' when we talk about a length of time, like 'for two years.' We use 'since' when we talk about the starting point, like 'since 2022.' For example, 'I have worked here for two years' and 'I have worked here since 2022.'",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not say 'since two years'.",
+    "futureTags": [
+      "grammar_pattern_practice",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_013",
+    "module": "interviewPractice",
+    "level": 1,
+    "category": "Interview Basics",
+    "question": "Why should we hire you?",
+    "framework": [
+      "Match your skills to the job.",
+      "Mention reliability.",
+      "Give one practical example.",
+      "End confidently."
+    ],
+    "sampleAnswer": "You should hire me because I am reliable, willing to learn, and focused on doing work carefully. I ask questions, follow instructions, and improve through practice. I believe I can support the team and grow into the role.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not sound overconfident without evidence.",
+    "futureTags": [
+      "interview_basics",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_014",
+    "module": "interviewPractice",
+    "level": 1,
+    "category": "Explaining Experience",
+    "question": "Tell me about a project you worked on.",
+    "framework": [
+      "Give context.",
+      "Explain your role.",
+      "Describe what you did.",
+      "Mention the result or learning."
+    ],
+    "sampleAnswer": "One project I worked on involved organizing information and preparing regular updates for the team. My role was to check the data, update the file, and communicate any issues. This helped the team stay organized and taught me the importance of accuracy.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not describe the project without explaining your own role.",
+    "futureTags": [
+      "explaining_experience",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_015",
+    "module": "interviewPractice",
+    "level": 1,
+    "category": "Customer Support",
+    "question": "How would you handle an upset customer?",
+    "framework": [
+      "Acknowledge feelings.",
+      "Stay calm.",
+      "Ask for details.",
+      "Offer the next step."
+    ],
+    "sampleAnswer": "I would stay calm and listen carefully to understand the customer’s concern. I would acknowledge the issue, ask for the necessary details, and explain the next step clearly. If I cannot solve it myself, I would escalate it to the right person.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not argue with the customer.",
+    "futureTags": [
+      "customer_support",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_016",
+    "module": "interviewPractice",
+    "level": 2,
+    "category": "Clarification",
+    "question": "What do you do when instructions are unclear?",
+    "framework": [
+      "Pause before acting.",
+      "Ask specific questions.",
+      "Repeat your understanding.",
+      "Proceed after confirmation."
+    ],
+    "sampleAnswer": "When instructions are unclear, I try not to guess. I ask specific questions and repeat what I understood to confirm. Once the requirement is clear, I continue with the task carefully.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not continue without clarifying.",
+    "futureTags": [
+      "clarification",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_017",
+    "module": "interviewPractice",
+    "level": 2,
+    "category": "Confidence Building",
+    "question": "How do you manage pressure?",
+    "framework": [
+      "Stay calm.",
+      "Break work into steps.",
+      "Prioritize.",
+      "Communicate early."
+    ],
+    "sampleAnswer": "I manage pressure by staying calm and breaking the work into smaller steps. I try to understand what is most urgent and focus on that first. If there is a risk of delay, I communicate early so the team can plan properly.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not say pressure never affects you.",
+    "futureTags": [
+      "confidence_building",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_018",
+    "module": "interviewPractice",
+    "level": 2,
+    "category": "Professional Small Talk",
+    "question": "How would you start a client call?",
+    "framework": [
+      "Greet politely.",
+      "Introduce yourself.",
+      "Thank them.",
+      "Set context."
+    ],
+    "sampleAnswer": "I would start by greeting the client politely and introducing myself. For example, I might say, 'Good morning, thank you for joining the call. My name is ___, and I’m happy to discuss this with you today.'",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not start too casually.",
+    "futureTags": [
+      "professional_small_talk",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_019",
+    "module": "interviewPractice",
+    "level": 2,
+    "category": "Grammar Pattern Practice",
+    "question": "Explain the difference between 'for' and 'since'.",
+    "framework": [
+      "Use 'for' with duration.",
+      "Use 'since' with starting point.",
+      "Give examples.",
+      "Keep it simple."
+    ],
+    "sampleAnswer": "We use 'for' when we talk about a length of time, like 'for two years.' We use 'since' when we talk about the starting point, like 'since 2022.' For example, 'I have worked here for two years' and 'I have worked here since 2022.'",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not say 'since two years'.",
+    "futureTags": [
+      "grammar_pattern_practice",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_020",
+    "module": "interviewPractice",
+    "level": 2,
+    "category": "Interview Basics",
+    "question": "Why should we hire you?",
+    "framework": [
+      "Match your skills to the job.",
+      "Mention reliability.",
+      "Give one practical example.",
+      "End confidently."
+    ],
+    "sampleAnswer": "You should hire me because I am reliable, willing to learn, and focused on doing work carefully. I ask questions, follow instructions, and improve through practice. I believe I can support the team and grow into the role.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not sound overconfident without evidence.",
+    "futureTags": [
+      "interview_basics",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_021",
+    "module": "interviewPractice",
+    "level": 2,
+    "category": "Explaining Experience",
+    "question": "Tell me about a project you worked on.",
+    "framework": [
+      "Give context.",
+      "Explain your role.",
+      "Describe what you did.",
+      "Mention the result or learning."
+    ],
+    "sampleAnswer": "One project I worked on involved organizing information and preparing regular updates for the team. My role was to check the data, update the file, and communicate any issues. This helped the team stay organized and taught me the importance of accuracy.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not describe the project without explaining your own role.",
+    "futureTags": [
+      "explaining_experience",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_022",
+    "module": "interviewPractice",
+    "level": 2,
+    "category": "Customer Support",
+    "question": "How would you handle an upset customer?",
+    "framework": [
+      "Acknowledge feelings.",
+      "Stay calm.",
+      "Ask for details.",
+      "Offer the next step."
+    ],
+    "sampleAnswer": "I would stay calm and listen carefully to understand the customer’s concern. I would acknowledge the issue, ask for the necessary details, and explain the next step clearly. If I cannot solve it myself, I would escalate it to the right person.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not argue with the customer.",
+    "futureTags": [
+      "customer_support",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_023",
+    "module": "interviewPractice",
+    "level": 2,
+    "category": "Clarification",
+    "question": "What do you do when instructions are unclear?",
+    "framework": [
+      "Pause before acting.",
+      "Ask specific questions.",
+      "Repeat your understanding.",
+      "Proceed after confirmation."
+    ],
+    "sampleAnswer": "When instructions are unclear, I try not to guess. I ask specific questions and repeat what I understood to confirm. Once the requirement is clear, I continue with the task carefully.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not continue without clarifying.",
+    "futureTags": [
+      "clarification",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_024",
+    "module": "interviewPractice",
+    "level": 2,
+    "category": "Confidence Building",
+    "question": "How do you manage pressure?",
+    "framework": [
+      "Stay calm.",
+      "Break work into steps.",
+      "Prioritize.",
+      "Communicate early."
+    ],
+    "sampleAnswer": "I manage pressure by staying calm and breaking the work into smaller steps. I try to understand what is most urgent and focus on that first. If there is a risk of delay, I communicate early so the team can plan properly.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not say pressure never affects you.",
+    "futureTags": [
+      "confidence_building",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_025",
+    "module": "interviewPractice",
+    "level": 2,
+    "category": "Professional Small Talk",
+    "question": "How would you start a client call?",
+    "framework": [
+      "Greet politely.",
+      "Introduce yourself.",
+      "Thank them.",
+      "Set context."
+    ],
+    "sampleAnswer": "I would start by greeting the client politely and introducing myself. For example, I might say, 'Good morning, thank you for joining the call. My name is ___, and I’m happy to discuss this with you today.'",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not start too casually.",
+    "futureTags": [
+      "professional_small_talk",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_026",
+    "module": "interviewPractice",
+    "level": 2,
+    "category": "Grammar Pattern Practice",
+    "question": "Explain the difference between 'for' and 'since'.",
+    "framework": [
+      "Use 'for' with duration.",
+      "Use 'since' with starting point.",
+      "Give examples.",
+      "Keep it simple."
+    ],
+    "sampleAnswer": "We use 'for' when we talk about a length of time, like 'for two years.' We use 'since' when we talk about the starting point, like 'since 2022.' For example, 'I have worked here for two years' and 'I have worked here since 2022.'",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not say 'since two years'.",
+    "futureTags": [
+      "grammar_pattern_practice",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_027",
+    "module": "interviewPractice",
+    "level": 2,
+    "category": "Interview Basics",
+    "question": "Why should we hire you?",
+    "framework": [
+      "Match your skills to the job.",
+      "Mention reliability.",
+      "Give one practical example.",
+      "End confidently."
+    ],
+    "sampleAnswer": "You should hire me because I am reliable, willing to learn, and focused on doing work carefully. I ask questions, follow instructions, and improve through practice. I believe I can support the team and grow into the role.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not sound overconfident without evidence.",
+    "futureTags": [
+      "interview_basics",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_028",
+    "module": "interviewPractice",
+    "level": 2,
+    "category": "Explaining Experience",
+    "question": "Tell me about a project you worked on.",
+    "framework": [
+      "Give context.",
+      "Explain your role.",
+      "Describe what you did.",
+      "Mention the result or learning."
+    ],
+    "sampleAnswer": "One project I worked on involved organizing information and preparing regular updates for the team. My role was to check the data, update the file, and communicate any issues. This helped the team stay organized and taught me the importance of accuracy.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not describe the project without explaining your own role.",
+    "futureTags": [
+      "explaining_experience",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_029",
+    "module": "interviewPractice",
+    "level": 2,
+    "category": "Customer Support",
+    "question": "How would you handle an upset customer?",
+    "framework": [
+      "Acknowledge feelings.",
+      "Stay calm.",
+      "Ask for details.",
+      "Offer the next step."
+    ],
+    "sampleAnswer": "I would stay calm and listen carefully to understand the customer’s concern. I would acknowledge the issue, ask for the necessary details, and explain the next step clearly. If I cannot solve it myself, I would escalate it to the right person.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not argue with the customer.",
+    "futureTags": [
+      "customer_support",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_030",
+    "module": "interviewPractice",
+    "level": 2,
+    "category": "Clarification",
+    "question": "What do you do when instructions are unclear?",
+    "framework": [
+      "Pause before acting.",
+      "Ask specific questions.",
+      "Repeat your understanding.",
+      "Proceed after confirmation."
+    ],
+    "sampleAnswer": "When instructions are unclear, I try not to guess. I ask specific questions and repeat what I understood to confirm. Once the requirement is clear, I continue with the task carefully.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not continue without clarifying.",
+    "futureTags": [
+      "clarification",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_031",
+    "module": "interviewPractice",
+    "level": 2,
+    "category": "Confidence Building",
+    "question": "How do you manage pressure?",
+    "framework": [
+      "Stay calm.",
+      "Break work into steps.",
+      "Prioritize.",
+      "Communicate early."
+    ],
+    "sampleAnswer": "I manage pressure by staying calm and breaking the work into smaller steps. I try to understand what is most urgent and focus on that first. If there is a risk of delay, I communicate early so the team can plan properly.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not say pressure never affects you.",
+    "futureTags": [
+      "confidence_building",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_032",
+    "module": "interviewPractice",
+    "level": 2,
+    "category": "Professional Small Talk",
+    "question": "How would you start a client call?",
+    "framework": [
+      "Greet politely.",
+      "Introduce yourself.",
+      "Thank them.",
+      "Set context."
+    ],
+    "sampleAnswer": "I would start by greeting the client politely and introducing myself. For example, I might say, 'Good morning, thank you for joining the call. My name is ___, and I’m happy to discuss this with you today.'",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not start too casually.",
+    "futureTags": [
+      "professional_small_talk",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_033",
+    "module": "interviewPractice",
+    "level": 2,
+    "category": "Grammar Pattern Practice",
+    "question": "Explain the difference between 'for' and 'since'.",
+    "framework": [
+      "Use 'for' with duration.",
+      "Use 'since' with starting point.",
+      "Give examples.",
+      "Keep it simple."
+    ],
+    "sampleAnswer": "We use 'for' when we talk about a length of time, like 'for two years.' We use 'since' when we talk about the starting point, like 'since 2022.' For example, 'I have worked here for two years' and 'I have worked here since 2022.'",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not say 'since two years'.",
+    "futureTags": [
+      "grammar_pattern_practice",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_034",
+    "module": "interviewPractice",
+    "level": 2,
+    "category": "Interview Basics",
+    "question": "Why should we hire you?",
+    "framework": [
+      "Match your skills to the job.",
+      "Mention reliability.",
+      "Give one practical example.",
+      "End confidently."
+    ],
+    "sampleAnswer": "You should hire me because I am reliable, willing to learn, and focused on doing work carefully. I ask questions, follow instructions, and improve through practice. I believe I can support the team and grow into the role.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not sound overconfident without evidence.",
+    "futureTags": [
+      "interview_basics",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_035",
+    "module": "interviewPractice",
+    "level": 2,
+    "category": "Explaining Experience",
+    "question": "Tell me about a project you worked on.",
+    "framework": [
+      "Give context.",
+      "Explain your role.",
+      "Describe what you did.",
+      "Mention the result or learning."
+    ],
+    "sampleAnswer": "One project I worked on involved organizing information and preparing regular updates for the team. My role was to check the data, update the file, and communicate any issues. This helped the team stay organized and taught me the importance of accuracy.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not describe the project without explaining your own role.",
+    "futureTags": [
+      "explaining_experience",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_036",
+    "module": "interviewPractice",
+    "level": 3,
+    "category": "Customer Support",
+    "question": "How would you handle an upset customer?",
+    "framework": [
+      "Acknowledge feelings.",
+      "Stay calm.",
+      "Ask for details.",
+      "Offer the next step."
+    ],
+    "sampleAnswer": "I would stay calm and listen carefully to understand the customer’s concern. I would acknowledge the issue, ask for the necessary details, and explain the next step clearly. If I cannot solve it myself, I would escalate it to the right person.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not argue with the customer.",
+    "futureTags": [
+      "customer_support",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_037",
+    "module": "interviewPractice",
+    "level": 3,
+    "category": "Clarification",
+    "question": "What do you do when instructions are unclear?",
+    "framework": [
+      "Pause before acting.",
+      "Ask specific questions.",
+      "Repeat your understanding.",
+      "Proceed after confirmation."
+    ],
+    "sampleAnswer": "When instructions are unclear, I try not to guess. I ask specific questions and repeat what I understood to confirm. Once the requirement is clear, I continue with the task carefully.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not continue without clarifying.",
+    "futureTags": [
+      "clarification",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_038",
+    "module": "interviewPractice",
+    "level": 3,
+    "category": "Confidence Building",
+    "question": "How do you manage pressure?",
+    "framework": [
+      "Stay calm.",
+      "Break work into steps.",
+      "Prioritize.",
+      "Communicate early."
+    ],
+    "sampleAnswer": "I manage pressure by staying calm and breaking the work into smaller steps. I try to understand what is most urgent and focus on that first. If there is a risk of delay, I communicate early so the team can plan properly.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not say pressure never affects you.",
+    "futureTags": [
+      "confidence_building",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_039",
+    "module": "interviewPractice",
+    "level": 3,
+    "category": "Professional Small Talk",
+    "question": "How would you start a client call?",
+    "framework": [
+      "Greet politely.",
+      "Introduce yourself.",
+      "Thank them.",
+      "Set context."
+    ],
+    "sampleAnswer": "I would start by greeting the client politely and introducing myself. For example, I might say, 'Good morning, thank you for joining the call. My name is ___, and I’m happy to discuss this with you today.'",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not start too casually.",
+    "futureTags": [
+      "professional_small_talk",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_040",
+    "module": "interviewPractice",
+    "level": 3,
+    "category": "Grammar Pattern Practice",
+    "question": "Explain the difference between 'for' and 'since'.",
+    "framework": [
+      "Use 'for' with duration.",
+      "Use 'since' with starting point.",
+      "Give examples.",
+      "Keep it simple."
+    ],
+    "sampleAnswer": "We use 'for' when we talk about a length of time, like 'for two years.' We use 'since' when we talk about the starting point, like 'since 2022.' For example, 'I have worked here for two years' and 'I have worked here since 2022.'",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not say 'since two years'.",
+    "futureTags": [
+      "grammar_pattern_practice",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_041",
+    "module": "interviewPractice",
+    "level": 3,
+    "category": "Interview Basics",
+    "question": "Why should we hire you?",
+    "framework": [
+      "Match your skills to the job.",
+      "Mention reliability.",
+      "Give one practical example.",
+      "End confidently."
+    ],
+    "sampleAnswer": "You should hire me because I am reliable, willing to learn, and focused on doing work carefully. I ask questions, follow instructions, and improve through practice. I believe I can support the team and grow into the role.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not sound overconfident without evidence.",
+    "futureTags": [
+      "interview_basics",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_042",
+    "module": "interviewPractice",
+    "level": 3,
+    "category": "Explaining Experience",
+    "question": "Tell me about a project you worked on.",
+    "framework": [
+      "Give context.",
+      "Explain your role.",
+      "Describe what you did.",
+      "Mention the result or learning."
+    ],
+    "sampleAnswer": "One project I worked on involved organizing information and preparing regular updates for the team. My role was to check the data, update the file, and communicate any issues. This helped the team stay organized and taught me the importance of accuracy.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not describe the project without explaining your own role.",
+    "futureTags": [
+      "explaining_experience",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_043",
+    "module": "interviewPractice",
+    "level": 3,
+    "category": "Customer Support",
+    "question": "How would you handle an upset customer?",
+    "framework": [
+      "Acknowledge feelings.",
+      "Stay calm.",
+      "Ask for details.",
+      "Offer the next step."
+    ],
+    "sampleAnswer": "I would stay calm and listen carefully to understand the customer’s concern. I would acknowledge the issue, ask for the necessary details, and explain the next step clearly. If I cannot solve it myself, I would escalate it to the right person.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not argue with the customer.",
+    "futureTags": [
+      "customer_support",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_044",
+    "module": "interviewPractice",
+    "level": 3,
+    "category": "Clarification",
+    "question": "What do you do when instructions are unclear?",
+    "framework": [
+      "Pause before acting.",
+      "Ask specific questions.",
+      "Repeat your understanding.",
+      "Proceed after confirmation."
+    ],
+    "sampleAnswer": "When instructions are unclear, I try not to guess. I ask specific questions and repeat what I understood to confirm. Once the requirement is clear, I continue with the task carefully.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not continue without clarifying.",
+    "futureTags": [
+      "clarification",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_045",
+    "module": "interviewPractice",
+    "level": 3,
+    "category": "Confidence Building",
+    "question": "How do you manage pressure?",
+    "framework": [
+      "Stay calm.",
+      "Break work into steps.",
+      "Prioritize.",
+      "Communicate early."
+    ],
+    "sampleAnswer": "I manage pressure by staying calm and breaking the work into smaller steps. I try to understand what is most urgent and focus on that first. If there is a risk of delay, I communicate early so the team can plan properly.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not say pressure never affects you.",
+    "futureTags": [
+      "confidence_building",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_046",
+    "module": "interviewPractice",
+    "level": 3,
+    "category": "Professional Small Talk",
+    "question": "How would you start a client call?",
+    "framework": [
+      "Greet politely.",
+      "Introduce yourself.",
+      "Thank them.",
+      "Set context."
+    ],
+    "sampleAnswer": "I would start by greeting the client politely and introducing myself. For example, I might say, 'Good morning, thank you for joining the call. My name is ___, and I’m happy to discuss this with you today.'",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not start too casually.",
+    "futureTags": [
+      "professional_small_talk",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_047",
+    "module": "interviewPractice",
+    "level": 3,
+    "category": "Grammar Pattern Practice",
+    "question": "Explain the difference between 'for' and 'since'.",
+    "framework": [
+      "Use 'for' with duration.",
+      "Use 'since' with starting point.",
+      "Give examples.",
+      "Keep it simple."
+    ],
+    "sampleAnswer": "We use 'for' when we talk about a length of time, like 'for two years.' We use 'since' when we talk about the starting point, like 'since 2022.' For example, 'I have worked here for two years' and 'I have worked here since 2022.'",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not say 'since two years'.",
+    "futureTags": [
+      "grammar_pattern_practice",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_048",
+    "module": "interviewPractice",
+    "level": 3,
+    "category": "Interview Basics",
+    "question": "Why should we hire you?",
+    "framework": [
+      "Match your skills to the job.",
+      "Mention reliability.",
+      "Give one practical example.",
+      "End confidently."
+    ],
+    "sampleAnswer": "You should hire me because I am reliable, willing to learn, and focused on doing work carefully. I ask questions, follow instructions, and improve through practice. I believe I can support the team and grow into the role.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not sound overconfident without evidence.",
+    "futureTags": [
+      "interview_basics",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_049",
+    "module": "interviewPractice",
+    "level": 3,
+    "category": "Explaining Experience",
+    "question": "Tell me about a project you worked on.",
+    "framework": [
+      "Give context.",
+      "Explain your role.",
+      "Describe what you did.",
+      "Mention the result or learning."
+    ],
+    "sampleAnswer": "One project I worked on involved organizing information and preparing regular updates for the team. My role was to check the data, update the file, and communicate any issues. This helped the team stay organized and taught me the importance of accuracy.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not describe the project without explaining your own role.",
+    "futureTags": [
+      "explaining_experience",
+      "interview",
+      "speaking_practice"
+    ]
+  },
+  {
+    "id": "interview_050",
+    "module": "interviewPractice",
+    "level": 3,
+    "category": "Customer Support",
+    "question": "How would you handle an upset customer?",
+    "framework": [
+      "Acknowledge feelings.",
+      "Stay calm.",
+      "Ask for details.",
+      "Offer the next step."
+    ],
+    "sampleAnswer": "I would stay calm and listen carefully to understand the customer’s concern. I would acknowledge the issue, ask for the necessary details, and explain the next step clearly. If I cannot solve it myself, I would escalate it to the right person.",
+    "selfReviewChecklist": [
+      "Did I answer the question directly?",
+      "Did I use complete sentences?",
+      "Did I give at least one specific detail or example?",
+      "Was my answer clear and concise?"
+    ],
+    "commonMistake": "Do not argue with the customer.",
+    "futureTags": [
+      "customer_support",
+      "interview",
+      "speaking_practice"
+    ]
+  }
+]
